@@ -1,0 +1,70 @@
+---
+description: 'Writer: thanhntp'
+---
+
+# 8.5. SYMPER TEST SUITES
+
+| Info       | Value            |
+| ---------- | ---------------- |
+| Writer     | Thanhntp         |
+| Start date | 2021-11-18       |
+| End date   | 2021-11-29       |
+| Type       | Internal network |
+
+## **8.5.1. Subject content title**
+
+**Test suites**: It can identify gaps in a testing effort where the successful completion of one test case must occur before you begin the next test case. For instance, you cannot add new products to a shopping cart before you successfully log in to the application. When you run a test suite in sequential mode, you can choose to stop the suite execution if a single test case does not pass. Stopping the execution is useful if running a test case in a test suite depends on the success of previous test cases
+
+## **8.5.2. Meaning of the object in the application**
+
+Test suites are also useful for the following types of tests:
+
+* Build verification tests: A collection of test cases that perform a basic validation of most the functional areas in the product. The tests are executed after each product build and before the build is promoted for use by a larger audience.
+* Smoke tests: A collection of test cases that ensure basic product functionality. Typically, smoke tests are the first level of testing that is performed after changes are made to the system under test.
+* End-to-End integration tests: A collection of test cases that cross product boundaries and ensure that the integration points between products are exercised and validated.
+* Functional verification tests: A collection of test cases that focus on a specific product function. Executing this type of test with a test suite ensures that several aspects of a specific feature are tested.
+* Regression tests: A collection of test cases that are used to make a regression pass over functional product areas.
+
+## **8.5.3. Form  and meaning of the information fields**
+
+![Test Suites Document](<../.gitbook/assets/Screenshot 2021-12-30 161151 (2).png>)
+
+| Information field                      | Meaning                                                                                                                                                                                                           |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Approval Status (Trạng thái phê duyệt) | There are types: NEW, PENDING, APPROVAL, DISAPPROVAL.                                                                                                                                                             |
+| Test Plan ID                           | ID of Test Plan test of the issue.                                                                                                                                                                                |
+| Test Suites ID                         | ID of Test Suites test of the issue.                                                                                                                                                                              |
+| Creation Date                          | Test Suites creation date.                                                                                                                                                                                        |
+| Type of Test                           | There are types: Functionality Test Cases, User Interface Test Cases, Performance Test Cases, Integration Test Cases, Usability Test Cases, Database Test Cases, Security Test Cases, User Acceptance Test Cases. |
+| Creator                                | Test Suites Creator                                                                                                                                                                                               |
+| Note                                   | The approver will add a note for the creator.                                                                                                                                                                     |
+| ID Number                              | Identify the test case in the table.                                                                                                                                                                              |
+| Req ID                                 | ID of Requirement related to the issue.                                                                                                                                                                           |
+| Sub Test Suites ID (Test Case ID)      | ID of Test Case test of the issue.                                                                                                                                                                                |
+| Module                                 | Module of the system occurs error.                                                                                                                                                                                |
+| Module ID                              | ID of Module test of the issue.                                                                                                                                                                                   |
+| Sub Module                             | Sub module of the above module occurs error.                                                                                                                                                                      |
+| Sub Module ID                          | ID of Sub Module test of the issue.                                                                                                                                                                               |
+| Description                            | Detailed description of the issue                                                                                                                                                                                 |
+| Test Steps                             | Detailed descriptions of the sequential actions that must be taken to complete the test.                                                                                                                          |
+| Input Data                             | Enter the data corresponding to the execution steps.                                                                                                                                                              |
+| Expect Result                          | An outline of how the system should respond to each test step.                                                                                                                                                    |
+| Symper point                           | Leader evaluates the effectiveness of the test case.                                                                                                                                                              |
+| Priority                               | Priority of the issue: CRITICAL, HIGH, MEDIUM, LOW.                                                                                                                                                               |
+| Note                                   | Supplementing and adjusting information                                                                                                                                                                           |
+
+
+
+## **8.5.4. Workflow**
+
+![Test Suites Workflow](<../.gitbook/assets/Screenshot 2021-12-30 161151.png>)
+
+* Start Test Suites workflow.
+* Fill the information in the Test Suites document.
+* Submit Test Suites to the manager for approval and discuss the scoring plan for each part
+* Manager approves or requests to update the information.
+* System automatically change the status of that project.
+* Notice to relevant departments and members.
+
+
+

@@ -32,7 +32,7 @@ Requirement Traceability Matrix là một tài liệu dưới dạng bảng (or 
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 *   Bi-directional traceability (Truy xuất nguồn gốc hai chiều): Đảm bảo rằng tất cả các yêu cầu được bao phủ trong các test case, phân tích tác động của sự thay đổi trong các yêu cầu bị ảnh hưởng bởi lỗi trong sản phẩm và ngược lại.​​
 
-    <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Lợi ích:
 

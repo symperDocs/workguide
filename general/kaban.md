@@ -33,7 +33,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 2**. After the screen shows the list of kanbans, click “**Add**”
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
@@ -45,11 +45,11 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 5.** In Step 3 of Create kanban, drag and drop columns and arrows between them in the canvas showing the direction that allows dragging cards back and forth between them. It is required to name the stateflow to serve the Access Control part. If you do not set anything here, it will default to all cards being dragged freely between all columns.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
@@ -140,7 +140,7 @@ Update data:
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 
@@ -148,7 +148,7 @@ To edit the card, go to View details then click "**Edit**". Or you can click the
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### To drag and drop multiple cards
 

@@ -2,7 +2,8 @@
 
 * [General](README.md)
   * [Planning and WBS](general/planning-and-wbs.md)
-  * [Environment](general/environment.md)
+  * [Environment](readme/environment/README.md)
+    * [Page 1 2](readme/environment/page-1-2.md)
   * [Kaban](general/kaban.md)
   * [Quy trình report issue](general/quy-trinh-report-issue.md)
   * [Requirement Traceability Matrix](general/requirement-traceability-matrix.md)

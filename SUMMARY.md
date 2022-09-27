@@ -11,4 +11,5 @@
     * [8.1. SYMPER PROJECT CHARTER](general/format-tai-lieu-so-hoa-quy-trinh-noi-bo/8.1.-symper-project-charter.md)
     * [8.2. SYMPER REQUIREMENT](general/format-tai-lieu-so-hoa-quy-trinh-noi-bo/8.2.-symper-requirement.md)
     * [8.5](readme/format-tai-lieu-so-hoa-quy-trinh-noi-bo/8.5.md)
+    * [8.6](readme/format-tai-lieu-so-hoa-quy-trinh-noi-bo/8.6.md)
     * [8.4. SYMPER TEST PLAN](general/format-tai-lieu-so-hoa-quy-trinh-noi-bo/8.4.-symper-test-plan.md)

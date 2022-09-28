@@ -38,11 +38,11 @@ Specifically, the components of the My item display include:
 
 To view each Workflow instance, we will first click to the My Item section on the lefft and then use the filter to select the "Công việc" section to display all of the Workflow instances we require to view
 
-![The filter that we use to filter tasks, works or documents](<../.gitbook/assets/image (170).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
 
 There are components that display in the My item's work:
 
-![My item's work](<../.gitbook/assets/image (134).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>My item's work</p></figcaption></figure>
 
 1. Name and secondary information of the workflow instance
 2. The created time
@@ -52,11 +52,11 @@ There are components that display in the My item's work:
 
 If you click on a work (also known as a workflow instance), it will display the tasks related to that process flow as well as the status of each task.
 
-![The workflow process that the instance is belonged to](<../.gitbook/assets/image (12).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
 
-If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.&#x20;
+If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.
 
-![Details of an instance](<../.gitbook/assets/image (87).png>)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Details of an instance</p></figcaption></figure>
 
 Conversely, when you have authority in the process, for example when it comes to a step that requires your approval, in the upper corner will appear 3 different options for you to choose, including: 'Gửi', 'Gửi và thêm mới' and 'Hành động'.
 
@@ -67,17 +67,17 @@ Conversely, when you have authority in the process, for example when it comes to
   * Ủy quyền: to delegate the work and full authority you have with the document to someone else.
   * Hoàn thành: to send to document and end this step to move to another in the process.
 
-![Details of an instance belonged to a process that you have authority](<../.gitbook/assets/image (96).png>)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
 
-### **Document**&#x20;
+### **Document**
 
 Similarly, to display all the documents in My Item, go to the filter, then select "Văn bản"
 
-![](<../.gitbook/assets/image (203).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The screen will show us all the components of My item's document as below:
 
-![The screen of the My item's document](<../.gitbook/assets/image (129).png>)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>The screen of the My item's document</p></figcaption></figure>
 
 * Name of all the documents (1)
 * The time that the document was created (2)
@@ -90,21 +90,20 @@ You can click on any document to see its details on the right of the screen. Bel
 
 In addition, if the document was deleted, it will pop up to the screen a notification that "Document object not found".
 
-![](<../.gitbook/assets/image (172).png>)
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 The top right corner also has many options for us to do with this document:
 
-|  <img src="../.gitbook/assets/image (65).png" alt="" data-size="original">  | To see to full size of the screen      |
-| :-------------------------------------------------------------------------: | -------------------------------------- |
-|  <img src="../.gitbook/assets/image (38).png" alt="" data-size="original">  | To see the information of the document |
-|  <img src="../.gitbook/assets/image (29).png" alt="" data-size="original">  | To print this document                 |
-| <img src="../.gitbook/assets/image (180).png" alt="" data-size="original">  | To back to the previous screen         |
+|  <img src="../.gitbook/assets/image%20(65).png" alt="" data-size="original"> | To see to full size of the screen      |
+| :--------------------------------------------------------------------------: | -------------------------------------- |
+|  <img src="../.gitbook/assets/image%20(38).png" alt="" data-size="original"> | To see the information of the document |
+|  <img src="../.gitbook/assets/image%20(29).png" alt="" data-size="original"> | To print this document                 |
+| <img src="../.gitbook/assets/image%20(180).png" alt="" data-size="original"> | To back to the previous screen         |
 
 When clicking on the information icon, detailed information of a document will be displayed, including: general information, related people and process information as below:
 
-![Detailed information of a document](<../.gitbook/assets/image (176).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Detailed information of a document</p></figcaption></figure>
 
 * General information: including who and when the document was created and list of comments below it.
 * Related people: all people that related to the process including the assignee and the candidate users.
 * Process information: to show what step the document is at now in the process.
-

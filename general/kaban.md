@@ -37,7 +37,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**. At Step 2, select the control in the document whose value will be the columns in the Kanban. Enter the name and value in the selected control for each column. Columns can be added/removed if needed, but each Kanban requires a minimum of 2 columns.
 
@@ -140,7 +140,7 @@ Update data:
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 

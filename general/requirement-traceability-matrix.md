@@ -78,7 +78,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **High Level Requirement**
 
@@ -165,7 +165,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 * QC điền REQ ID, các sub id sẽ nhảy ra trong bảng
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **B5: Hoàn thành bảng quan hệ cho tất cả các trường hợp nhưng chỉ lấy các cột ID (hệ thống tự xử lý)**
 

@@ -29,7 +29,7 @@ Requirement Traceability Matrix là một tài liệu dưới dạng bảng (or 
     <figure><img src="../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 *   Backward or reverse traceability (Truy xuất nguồn gốc ngược): Được sử dụng để đảm bảo liệu sản phẩm hiện tại có đi đúng hướng hay không. Mục đích của Backward or reverse traceability là để xác minh rằng chúng ta không mở rộng phạm vi của dự án bằng cách thêm code, các thành phần thiết kế, kiểm thử hoặc công việc khác không được chỉ định trong các yêu cầu. Nó ánh xạ các test cases theo yêu cầu.​​
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 *   Bi-directional traceability (Truy xuất nguồn gốc hai chiều): Đảm bảo rằng tất cả các yêu cầu được bao phủ trong các test case, phân tích tác động của sự thay đổi trong các yêu cầu bị ảnh hưởng bởi lỗi trong sản phẩm và ngược lại.​​
 
     <figure><img src="../.gitbook/assets/image (15) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

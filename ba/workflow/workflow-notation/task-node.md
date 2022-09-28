@@ -65,7 +65,7 @@ Similar to Multi instance but without using different data sets. Repeat the edit
 
 <figure><img src="../../../.gitbook/assets/image (13) (4) (1).png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
 
 ### **Ad hoc**
 

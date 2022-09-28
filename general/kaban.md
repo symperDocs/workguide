@@ -33,7 +33,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 2**. After the screen shows the list of kanbans, click “**Add**”
 
-<figure><img src="../.gitbook/assets/image (34) (1) (1) (1) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1) (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
@@ -140,7 +140,7 @@ Update data:
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 

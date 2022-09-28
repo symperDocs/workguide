@@ -386,7 +386,7 @@ WHERE country = 'DE';
 
 This query displays German cyclists unless they are also German skaters at the same time:
 
-<figure><img src="../../.gitbook/assets/image (8) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```sql
 SELECT name

@@ -20,7 +20,7 @@ The list of objects in the application appears, the creator just needs to tick t
 
 In addition, we can assign detailed permissions to objects that document, document instance without permissions.
 
-<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 Click on the permission in the control column of the text that needs detailed permission and choose actions like hide, don't edit, and can also choose to add filter configuration.
 

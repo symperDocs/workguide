@@ -88,7 +88,7 @@ Then click on the task node you need to connect
 
 Click to flow
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (2) (1).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (2) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 

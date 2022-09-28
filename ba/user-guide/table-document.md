@@ -94,7 +94,7 @@ Filtering information in columns, the user taps the icon ![](<../../.gitbook/ass
 
 **Step 2:** Tap the funnel icon Then, the interface to interact with each column will appear:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><em>Figure 8.13. Interface for users to perform column-by-column filtering</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><em>Figure 8.13. Interface for users to perform column-by-column filtering</em></p></figcaption></figure>
 
 ### _**6. Use case: Order information (\*)**_
 

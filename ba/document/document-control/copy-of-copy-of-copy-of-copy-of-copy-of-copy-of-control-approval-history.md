@@ -41,19 +41,15 @@ Control Percent has type is data input and data type is number.
 
 #### Default value
 
-Default value is set auto when submitting the document.&#x20;
+Default value is set auto when submitting the document.
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdaBhjQ4I5lFv\_m0knMep-YBzoBwU4jTTM9FANkHchhFCw?e=tDcn91](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdaBhjQ4I5lFv\_m0knMep-YBzoBwU4jTTM9FANkHchhFCw?e=tDcn91)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/EdaBhjQ4I5lFv\_m0knMep-YBzoBwU4jTTM9FANkHchhFCw?e=tDcn91](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdaBhjQ4I5lFv\_m0knMep-YBzoBwU4jTTM9FANkHchhFCw?e=tDcn91)
 
 #### Number format
 
-For default config ( #,###) , control use 1000 Separator (,)
+For default config ( #,###) , control use 1000 Separator (,)![](<../../../.gitbook/assets/image (80).png>)
 
-![](<../../.gitbook/assets/image (230).png>)
-
-Users can config decimal places, for example, decimal places = 3: 0,0\[.]000
-
-![](<../../.gitbook/assets/image (157).png>)
+Users can config decimal places, for example, decimal places = 3: 0,0\[.]000![](<../../../.gitbook/assets/image (101).png>)
 
 For detailed information about the number format pattern, click [here](http://numeraljs.com/).
 
@@ -65,15 +61,15 @@ There are three ways to set the value for control:
 
 1.Select directly value
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaOZwyD7cPVDrwJf9ggghVQBW0BkqHt7FnNj4lGIOI3gPw?e=AuMZHb](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaOZwyD7cPVDrwJf9ggghVQBW0BkqHt7FnNj4lGIOI3gPw?e=AuMZHb)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/EaOZwyD7cPVDrwJf9ggghVQBW0BkqHt7FnNj4lGIOI3gPw?e=AuMZHb](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaOZwyD7cPVDrwJf9ggghVQBW0BkqHt7FnNj4lGIOI3gPw?e=AuMZHb)
 
 2.Select the value from other control in the same document.
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaI0i9\_NJDNDj4YZ0DGi384By7jq0uN7RsTR9U8tI6mj7w?e=X77VhE](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaI0i9\_NJDNDj4YZ0DGi384By7jq0uN7RsTR9U8tI6mj7w?e=X77VhE)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/EaI0i9\_NJDNDj4YZ0DGi384By7jq0uN7RsTR9U8tI6mj7w?e=X77VhE](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EaI0i9\_NJDNDj4YZ0DGi384By7jq0uN7RsTR9U8tI6mj7w?e=X77VhE)
 
 3.Select the value from other control in the other document.
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUEqIjFgvs5Gqf-eZS3RvjgB\_nLNh6\_\_3V5OEdUq16rFbw?e=oN1Ah6](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUEqIjFgvs5Gqf-eZS3RvjgB\_nLNh6\_\_3V5OEdUq16rFbw?e=oN1Ah6)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/EUEqIjFgvs5Gqf-eZS3RvjgB\_nLNh6\_\_3V5OEdUq16rFbw?e=oN1Ah6](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUEqIjFgvs5Gqf-eZS3RvjgB\_nLNh6\_\_3V5OEdUq16rFbw?e=oN1Ah6)
 
 ### Some tips when using the control Percent
 

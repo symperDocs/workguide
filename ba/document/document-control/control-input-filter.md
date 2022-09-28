@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-Control Input filter is used **** multiple selections from a list, the data outcomes will be saved in form of serial type and separated by “,”.&#x20;
+Control Input filter is used \*\*\*\* multiple selections from a list, the data outcomes will be saved in form of serial type and separated by “,”.
 
 Note: users need to enter a list formula to use control.
 
@@ -35,22 +35,22 @@ There are three ways to set the value for control:
 
 1. Select directly value
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EXScc-z3MRRHngRd\_jn4EI0BCtRo-P2HcK6-WPo1-PG8rg?e=89XOtk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EXScc-z3MRRHngRd\_jn4EI0BCtRo-P2HcK6-WPo1-PG8rg?e=89XOtk)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EXScc-z3MRRHngRd\_jn4EI0BCtRo-P2HcK6-WPo1-PG8rg?e=89XOtk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EXScc-z3MRRHngRd\_jn4EI0BCtRo-P2HcK6-WPo1-PG8rg?e=89XOtk)
 
-&#x20; 2\. Select the value from other control in the same document
+2\. Select the value from other control in the same document
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdOxKb7yDsVHjatxLkkCTfIB0ZSRpB7a-gokkxYXvukKkA?e=tOHdBH](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdOxKb7yDsVHjatxLkkCTfIB0ZSRpB7a-gokkxYXvukKkA?e=tOHdBH)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EdOxKb7yDsVHjatxLkkCTfIB0ZSRpB7a-gokkxYXvukKkA?e=tOHdBH](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdOxKb7yDsVHjatxLkkCTfIB0ZSRpB7a-gokkxYXvukKkA?e=tOHdBH)
 
-&#x20; 3\. Select the value from other control in the other document.
+3\. Select the value from other control in the other document.
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ERfrmNGPWJBJv\_W4etAgqCMBQk-cWX2vyUpPshIaa37dOA?e=5pbes0](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ERfrmNGPWJBJv\_W4etAgqCMBQk-cWX2vyUpPshIaa37dOA?e=5pbes0)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/ERfrmNGPWJBJv\_W4etAgqCMBQk-cWX2vyUpPshIaa37dOA?e=5pbes0](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ERfrmNGPWJBJv\_W4etAgqCMBQk-cWX2vyUpPshIaa37dOA?e=5pbes0)
 
 **List formula:** use an appropriate expression to list out all the values that could be selected in select, combo box control, and input filter box.
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EQGWPNxEJkBKlr8ZGHoJKsgBV1Ef04yvFlssF\_Nyq8rzOA?e=0pyOVX](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EQGWPNxEJkBKlr8ZGHoJKsgBV1Ef04yvFlssF\_Nyq8rzOA?e=0pyOVX)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EQGWPNxEJkBKlr8ZGHoJKsgBV1Ef04yvFlssF\_Nyq8rzOA?e=0pyOVX](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EQGWPNxEJkBKlr8ZGHoJKsgBV1Ef04yvFlssF\_Nyq8rzOA?e=0pyOVX)
 
 **Example:**
 
 To query a list of level 3 products (dsp\_c3) from document Đơn đặt hàng provided that dspc3 is the same as the search term and the planned production period (ky\_kh) is equal to the planning period the user selected above in the document.
 
-![Input filter in document DNSX](<../../.gitbook/assets/image (133).png>)
+<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>

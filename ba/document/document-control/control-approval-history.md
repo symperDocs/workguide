@@ -1,14 +1,14 @@
-# Control approval history
+# Control Approval history
 
 ## OVERVIEW
 
 Control approval history is used to display time and users who approve or disapprove the document in case the document is attached in the workflow.
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EU6WsLInurhFuass5eJDRnMBuV4LsagRTQeG2mesx4aQEA?e=6tzlOM](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EU6WsLInurhFuass5eJDRnMBuV4LsagRTQeG2mesx4aQEA?e=6tzlOM)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EU6WsLInurhFuass5eJDRnMBuV4LsagRTQeG2mesx4aQEA?e=6tzlOM](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EU6WsLInurhFuass5eJDRnMBuV4LsagRTQeG2mesx4aQEA?e=6tzlOM)
 
-| Properties: | Formula configuration                      |
-| ----------- | ------------------------------------------ |
-|             | Visible<mark style="color:red;">\*</mark>  |
+| Properties: | Formula configuration                     |
+| ----------- | ----------------------------------------- |
+|             | Visible<mark style="color:red;">\*</mark> |
 
 ( <mark style="color:red;">\*</mark> ) For detailed information, click link below.
 
@@ -16,7 +16,7 @@ Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EU6WsLInurhFuass5eJ
 
 You can see control Approval history in My item:
 
-![](<../../.gitbook/assets/image (141).png>)
+<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://app.gitbook.com/s/-McNyP8y_A8MZOZl5QPQ/c/2iHl77h3duRLjr1segA3/module-document/document-editor" %}
 DOCUMENT EDITOR

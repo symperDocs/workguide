@@ -1,8 +1,8 @@
-# Control Label
+# Control label
 
-**How to use control label :** In Formula configuration, enter the value formula for the control, then save it,the control will display as configured.&#x20;
+**How to use control label :** In Formula configuration, enter the value formula for the control, then save it,the control will display as configured.
 
-&#x20;  **Configure the control in the Attribute bar:**
+**Configure the control in the Attribute bar:**
 
 | Properties:                                                | Formula configuration                     |
 | ---------------------------------------------------------- | ----------------------------------------- |
@@ -27,23 +27,17 @@
 | Allow updates<mark style="color:red;">\*</mark>            |                                           |
 | Save value<mark style="color:red;">\*</mark>               |                                           |
 
-
-
-
-
 ( <mark style="color:red;">\*</mark> ) For detailed information, click link below.
 
 {% embed url="https://app.gitbook.com/s/-McNyP8y_A8MZOZl5QPQ/c/2iHl77h3duRLjr1segA3/module-document/document-editor" %}
 DOCUMENT EDITOR
 {% endembed %}
 
-
-
 #### Formula value
 
 Use an appropriate expression to set the value for control, the value will be set when submitting the document ( same with default value )
 
-Example:[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUur3gEbCh1NvHnOwPOdMdYBZWxcJxu0r\_DIv8MGo3h4\_Q?e=GeN6ZY](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUur3gEbCh1NvHnOwPOdMdYBZWxcJxu0r\_DIv8MGo3h4\_Q?e=GeN6ZY)
+Example:[https://ywb69zeduvn.sharepoint.com//s/Symper347/EUur3gEbCh1NvHnOwPOdMdYBZWxcJxu0r\_DIv8MGo3h4\_Q?e=GeN6ZY](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EUur3gEbCh1NvHnOwPOdMdYBZWxcJxu0r\_DIv8MGo3h4\_Q?e=GeN6ZY)
 
 ### Some tips when using the control Label
 
@@ -59,4 +53,4 @@ ref(
 )
 ```
 
-![Example of control label](<../../.gitbook/assets/image (140).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ description: >-
   will save the ID of users.
 ---
 
-# Control User
+# Control user
 
 **How to use control User:** In Formula configuration, enter the autocomplete formula for the control, then save it, then just click on the control to automatically appear a list of data, allowing to select 1 value from the list of values and stored as ID. When entering a user's name in the list, the user's name is displayed
 
@@ -35,8 +35,6 @@ description: >-
 DOCUMENT EDITOR
 {% endembed %}
 
-
-
 #### Formula value
 
 Use an appropriate expression to set the value for control, the value will be set when submitting the document ( same with default value )
@@ -45,14 +43,14 @@ There is way to set the value for control:
 
 * Select directly value
 
-Example:[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ebm0TRsBll5EqvjtxWh\_Q8MB\_g77htUXXCL3aTKd06Iceg?e=tbZO2J](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ebm0TRsBll5EqvjtxWh\_Q8MB\_g77htUXXCL3aTKd06Iceg?e=tbZO2J)
+Example:[https://ywb69zeduvn.sharepoint.com//s/Symper347/Ebm0TRsBll5EqvjtxWh\_Q8MB\_g77htUXXCL3aTKd06Iceg?e=tbZO2J](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ebm0TRsBll5EqvjtxWh\_Q8MB\_g77htUXXCL3aTKd06Iceg?e=tbZO2J)
 
 **Autocomplete Formula:** data from other documents, make the match case insensitive according to the active locale. The query results return based on data input which match the patterns. Enter the value for the input corresponding to the autocomplete configuration formula.
 
-Example:[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZ5nb4bmnXVHrzCe0FTdwZEBd0zk7Q6cIIz8aEHaSQ-ZSA?e=ZtxTXh](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZ5nb4bmnXVHrzCe0FTdwZEBd0zk7Q6cIIz8aEHaSQ-ZSA?e=ZtxTXh)
+Example:[https://ywb69zeduvn.sharepoint.com//s/Symper347/EZ5nb4bmnXVHrzCe0FTdwZEBd0zk7Q6cIIz8aEHaSQ-ZSA?e=ZtxTXh](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZ5nb4bmnXVHrzCe0FTdwZEBd0zk7Q6cIIz8aEHaSQ-ZSA?e=ZtxTXh)
 
 **Example:**
 
 To auto querying the current user or to search any user from users list:
 
-![](<../../.gitbook/assets/image (175).png>)
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

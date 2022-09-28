@@ -1,8 +1,8 @@
-# Control tab and page
+# Control Tab/page
 
 ## OVERVIEW
 
-Control tab/page is **** used to create a web-like framework, integrating many pages, each page contains many tabs.
+Control tab/page is \*\*\*\* used to create a web-like framework, integrating many pages, each page contains many tabs.
 
 Control tab/page have type is layout.
 
@@ -24,4 +24,4 @@ Users must have at least one control in the tab/page control to be able to save 
 
 Control Tab/Page in document sgc\_gm:
 
-![](<../../.gitbook/assets/image (130).png>)
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>

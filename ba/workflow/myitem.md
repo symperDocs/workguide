@@ -38,11 +38,11 @@ Specifically, the components of the My item display include:
 
 To view each Workflow instance, we will first click to the My Item section on the lefft and then use the filter to select the "Công việc" section to display all of the Workflow instances we require to view
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
 
 There are components that display in the My item's work:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>My item's work</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>My item's work</p></figcaption></figure>
 
 1. Name and secondary information of the workflow instance
 2. The created time
@@ -52,11 +52,11 @@ There are components that display in the My item's work:
 
 If you click on a work (also known as a workflow instance), it will display the tasks related to that process flow as well as the status of each task.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
 
 If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Details of an instance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Details of an instance</p></figcaption></figure>
 
 Conversely, when you have authority in the process, for example when it comes to a step that requires your approval, in the upper corner will appear 3 different options for you to choose, including: 'Gửi', 'Gửi và thêm mới' and 'Hành động'.
 
@@ -67,7 +67,7 @@ Conversely, when you have authority in the process, for example when it comes to
   * Ủy quyền: to delegate the work and full authority you have with the document to someone else.
   * Hoàn thành: to send to document and end this step to move to another in the process.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
 
 ### **Document**
 
@@ -77,7 +77,7 @@ Similarly, to display all the documents in My Item, go to the filter, then selec
 
 The screen will show us all the components of My item's document as below:
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>The screen of the My item's document</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>The screen of the My item's document</p></figcaption></figure>
 
 * Name of all the documents (1)
 * The time that the document was created (2)
@@ -90,7 +90,7 @@ You can click on any document to see its details on the right of the screen. Bel
 
 In addition, if the document was deleted, it will pop up to the screen a notification that "Document object not found".
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The top right corner also has many options for us to do with this document:
 

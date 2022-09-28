@@ -86,31 +86,31 @@ Configuration
 
 ### Exclusive Gateway
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Exclusive Gateway</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption><p>Exclusive Gateway</p></figcaption></figure>
 
 Click on the node before gateway and configure as image
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Task Action</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Task Action</p></figcaption></figure>
 
 Click on the branch to configure the script
 
 Case 1: Disapproval
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Reject Branch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Reject Branch</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 2: Approval
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 3: Update
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Update</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Update</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 In this formula (To understand the formula, please read the section)
 

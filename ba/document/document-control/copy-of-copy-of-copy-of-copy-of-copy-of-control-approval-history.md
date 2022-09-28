@@ -40,38 +40,36 @@ Control Richtext has type is data input and data type is text.
 
 #### Default value
 
-Default value is set auto when submitting the document.&#x20;
+Default value is set auto when submitting the document.
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESItBmC5IwdNieYWHDd8pCABnLYBxw9jjvGzgSAkw49siQ?e=qk6Klk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESItBmC5IwdNieYWHDd8pCABnLYBxw9jjvGzgSAkw49siQ?e=qk6Klk)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/ESItBmC5IwdNieYWHDd8pCABnLYBxw9jjvGzgSAkw49siQ?e=qk6Klk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESItBmC5IwdNieYWHDd8pCABnLYBxw9jjvGzgSAkw49siQ?e=qk6Klk)
 
 #### Display Menu Bar
 
-If ticked, control will show the menu bar allowing the user to format values when submitting the document.
+If ticked, control will show the menu bar allowing the user to format values when submitting the document.![](<../../../.gitbook/assets/image (49).png>)
 
-![](<../../.gitbook/assets/image (144).png>)
-
-| Properties                    | Describe                                                                                                                   |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| <ol><li>Line height</li></ol> | <p>Choose how much space appears between lines of text.</p><p><img src="../../.gitbook/assets/image (228).png" alt=""></p> |
-| 2. Bold                       | Make text bold.                                                                                                            |
-| 3. Italic                     | Italicize text.                                                                                                            |
-| 4. Underline                  | Underline text.                                                                                                            |
-| 5. Text color                 | Change the color of text.![](<../../.gitbook/assets/image (205).png>)                                                      |
-| 6. Background color           | Make text pop by highlighting it in a bright color.                                                                        |
-| 7. Insert image               | Insert pictures from the user's computer.                                                                                  |
-| 8. Table                      | Add a table, a table is a great way to organize information.![](<../../.gitbook/assets/image (102).png>)                   |
-| 9. Align left                 | Alight text with the left margin.                                                                                          |
-| 10. Align center              | Center text on the control.                                                                                                |
-| 11. Align right               | Align text with the right margin.                                                                                          |
-| 12. Justify                   | Distribute text evenly between the margins.                                                                                |
-| 13. Numbered list             | Create a numbered list.                                                                                                    |
-| 14. Bullet list               | Create a bulleted list.                                                                                                    |
+| Properties                    | Describe                                                                                                                      |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| <ol><li>Line height</li></ol> | <p>Choose how much space appears between lines of text.</p><p><img src="../../../.gitbook/assets/image (100).png" alt=""></p> |
+| 2. Bold                       | Make text bold.                                                                                                               |
+| 3. Italic                     | Italicize text.                                                                                                               |
+| 4. Underline                  | Underline text.                                                                                                               |
+| 5. Text color                 | Change the color of text.![](<../../../.gitbook/assets/image (99).png>)                                                       |
+| 6. Background color           | Make text pop by highlighting it in a bright color.                                                                           |
+| 7. Insert image               | Insert pictures from the user's computer.                                                                                     |
+| 8. Table                      | Add a table, a table is a great way to organize information.![](<../../../.gitbook/assets/image (56).png>)                    |
+| 9. Align left                 | Alight text with the left margin.                                                                                             |
+| 10. Align center              | Center text on the control.                                                                                                   |
+| 11. Align right               | Align text with the right margin.                                                                                             |
+| 12. Justify                   | Distribute text evenly between the margins.                                                                                   |
+| 13. Numbered list             | Create a numbered list.                                                                                                       |
+| 14. Bullet list               | Create a bulleted list.                                                                                                       |
 
 #### Formula value
 
 Use an appropriate expression to set the value for control, the value will be set when submitting the document ( same with default value )
 
-[https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ef0m1c\_alEVPnvGLv06oJqkBfylD2Gr\_6OvQBIMk98CSSQ?e=eIwiHN](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ef0m1c\_alEVPnvGLv06oJqkBfylD2Gr\_6OvQBIMk98CSSQ?e=eIwiHN)
+[https://ywb69zeduvn.sharepoint.com//s/Symper347/Ef0m1c\_alEVPnvGLv06oJqkBfylD2Gr\_6OvQBIMk98CSSQ?e=eIwiHN](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/Ef0m1c\_alEVPnvGLv06oJqkBfylD2Gr\_6OvQBIMk98CSSQ?e=eIwiHN)
 
 ### Some tips when using the control Richtext
 

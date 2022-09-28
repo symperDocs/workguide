@@ -5,11 +5,11 @@ description: >-
   the component is marked as Required, it must
 ---
 
-# Control checkbox
+# Control check box
 
 **How to use control checkbox:** check the checkbox, the control will show selected, to deselect, select the checkbox again
 
-Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZjdEZGdqPVDu9JJpJ1zPlsBD4zknr55fBBpJWQjvpfaSQ?e=zrqLTk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZjdEZGdqPVDu9JJpJ1zPlsBD4zknr55fBBpJWQjvpfaSQ?e=zrqLTk)
+Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EZjdEZGdqPVDu9JJpJ1zPlsBD4zknr55fBBpJWQjvpfaSQ?e=zrqLTk](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZjdEZGdqPVDu9JJpJ1zPlsBD4zknr55fBBpJWQjvpfaSQ?e=zrqLTk)
 
 | Properties:                                                | Formula configuration                            |
 | ---------------------------------------------------------- | ------------------------------------------------ |
@@ -29,7 +29,7 @@ Example: [https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EZjdEZGdqPVDu9JJpJ1
 
 **Example of checkbox:**
 
-![Control checkbox in WBS document](<../../.gitbook/assets/image (122).png>)
+<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://app.gitbook.com/s/-McNyP8y_A8MZOZl5QPQ/c/2iHl77h3duRLjr1segA3/module-document/document-editor" %}
 DOCUMENT EDITOR

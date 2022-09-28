@@ -45,7 +45,7 @@ The palette is on the left side of the workflow editor, it contains actions that
 
 The attribute table is on the right side of the workflow editor, it contains the general and detailed information of the Workflow
 
-<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>The attribute table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>The attribute table</p></figcaption></figure>
 
 **General:**
 
@@ -54,7 +54,7 @@ The attribute table is on the right side of the workflow editor, it contains the
 
 **Detail:** has detailed information on the full Workflow, helps users can be more specific about the workflow's details, however the following are some of the most often used components:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Detail section in Workflow editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Detail section in Workflow editor</p></figcaption></figure>
 
 * _**Display text for the process instance**_: It displays the name of the workflow that will be displayed in My item, making it easier for users to know what that workflow is for.
 * Data objects: defines a structure of the data

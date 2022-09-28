@@ -20,11 +20,11 @@ Lane within a pool show the activities and flow for a certain role or participan
 
 To use Swimlanes, click this icon in [The Palette](../workflow-editor.md#the-palette)
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
 
 Then drop to Canvas Section
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Add Lane, Rename, Remove
 

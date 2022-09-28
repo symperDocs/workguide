@@ -18,7 +18,7 @@ To pin the location of important columns, the user do the following:
 
 <figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (6) (5) (2).png>)![](<../../.gitbook/assets/image (18) (2).png>)
+**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24) (2) (1) (1).png>)![](<../../.gitbook/assets/image (18) (2).png>)
 
 **Step 3:** Hover over the pin column and select the battery left or right depending on the need
 
@@ -88,7 +88,7 @@ Watch the sample manipulation video at the link below:
 
 **Step 1:**
 
-Filtering information in columns, the user taps the icon ![](<../../.gitbook/assets/image (24) (2).png>)as shown below.
+Filtering information in columns, the user taps the icon ![](<../../.gitbook/assets/image (24) (2) (1) (4).png>)as shown below.
 
 <figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption><p><em>Figure 8.12. Selection screen to interact with each column</em></p></figcaption></figure>
 

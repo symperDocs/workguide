@@ -141,7 +141,7 @@
     * [Test type](page-2/kiem-thu-trong-quy-trinh-phat-trien-phan-mem/page-3.md)
     * [Maintenance testing](page-2/kiem-thu-trong-quy-trinh-phat-trien-phan-mem/page-1.md)
   * [Kiểm thử tĩnh](page-2/kiem-thu-tinh.md)
-  * [Các kỹ thuật kiểm thử phần mềm](page-2/cac-ky-thuat-kiem-thu-phan-mem/README.md)
+  * [Các kỹ thuật kiểm thử phần mềm](page-2/cac-ky-thuat-kiem-thu-phan-mem.md)
     * [Kiểm thử hộp trắng](page-2/cac-ky-thuat-kiem-thu-phan-mem/kiem-thu-hop-trang.md)
     * [Kiểm thử hộp đen](page-2/cac-ky-thuat-kiem-thu-phan-mem/kiem-thu-hop-den.md)
     * [Kiểm thử dựa trên kinh nghiệm](page-2/cac-ky-thuat-kiem-thu-phan-mem/kiem-thu-dua-tren-kinh-nghiem.md)

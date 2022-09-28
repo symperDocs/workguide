@@ -12,13 +12,9 @@ Shows the order of activities to be performed. It is shown as a straight line wi
 
 ![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/sequence-flow.svg)
 
-![](<../../.gitbook/assets/image (222).png>)
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.loom.com/share/50d3e3a8fa9141d2ac065262b7d20022" %}
-
-{% embed url="https://www.youtube.com/watch?t=1s&v=aWzlQ2N6qqg" %}
-
-{% file src="../../.gitbook/assets/2022-02-10 16-14-27.mp4" %}
 
 {% embed url="https://drive.google.com/drive/folders/10NiKDu4zDiFeBwEOEEAUCVF43bKMWpxI" %}
 
@@ -32,23 +28,23 @@ Depicts messages that flow across “[pools](swimlanes.md),” or organization b
 
 ![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/message-flow.svg)
 
-![](<../../.gitbook/assets/image (74).png>)
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### **Association**
 
 Shown with a dotted line, it associates an artifact or text to an event, activity or gateway.
 
-![](<../../.gitbook/assets/image (207).png>)
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (36).png>)
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Default Flow
 
 A default sequence flow is visualized as a regular sequence flow, with a 'slash' marker at the beginning.
 
-![](<../../.gitbook/assets/image (132).png>)
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (25).png>)
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration
 
@@ -56,49 +52,46 @@ A default sequence flow is visualized as a regular sequence flow, with a 'slash'
 
 Click to task node and select flow icon
 
-![Flow](<../../.gitbook/assets/image (82).png>)
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Then click on the node you need to connect
 
-![Result](<../../.gitbook/assets/image (147).png>)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### **Message Flow**
 
-The system will identify nodes in another pool and will use Message Flow **** when you do the same action as action in Sequence flow
+The system will identify nodes in another pool and will use Message Flow \*\*\*\* when you do the same action as action in Sequence flow
 
 Click to task node or [pool](swimlanes.md) and select flow icon
 
-![Task Node](<../../.gitbook/assets/image (60).png>)
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
-![Pool](<../../.gitbook/assets/image (84).png>)
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
 Then click on the node or pool you need to connect
 
-![Task Node](<../../.gitbook/assets/image (227).png>)
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
-![Pool](<../../.gitbook/assets/image (1).png>)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
 ### Association
 
 Click to the [Artifact](artifacts.md) (Data object, store,...) and select flow
 
-![Data Object](<../../.gitbook/assets/image (127).png>)
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Then click on the task node you need to connect
 
-![Connect to Task Node](<../../.gitbook/assets/image (112).png>)
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
 
 ### Default
 
-Click to flow&#x20;
+Click to flow
 
-![Flow](<../../.gitbook/assets/image (189).png>)
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 
-![Default Flow](<../../.gitbook/assets/image (235).png>)
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Default Flow</p></figcaption></figure>
 
-
-
-\
-
+\\

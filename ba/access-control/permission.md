@@ -32,4 +32,4 @@ For more details about the action pack, click the link below:
 
 **Users can view detail, edit or remove permissions packages by click-right on the permission package.**
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>

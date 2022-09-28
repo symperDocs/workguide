@@ -10,7 +10,7 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.2. Symper Daily:** dùng để quản lý, theo dõi ngày làm việc cũng như công việc trong ngày của các thành viên trong team
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **I.3. Business Analyst:** dùng để quản lý các công việc liên quan đến nghiệp vụ của BA
 
@@ -22,7 +22,7 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.5. Service and Platform Control:** dùng để theo dõi các phiên bản code kèm thay đổi chi tiết của các module, service và cả platform qua từng giai đoạn
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p><em>Hình 5. Các đối tượng trong ứng dụng Service and Platform Control</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption><p><em>Hình 5. Các đối tượng trong ứng dụng Service and Platform Control</em></p></figcaption></figure>
 
 ### **II.1. Đối với các chứng từ**
 

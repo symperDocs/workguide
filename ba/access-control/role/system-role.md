@@ -12,9 +12,9 @@ A user role (Vai trò người dùng) is a set of access rights assigned to a ro
 
 Click on the icon '+ Add' in the menu bar.
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the role, cannot blank.
 

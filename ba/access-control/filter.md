@@ -17,9 +17,9 @@ Filters in Access Control are used to filter authorization data for End User acc
 
 Click on the icon '+ Add' in the menu bar.
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the filter, cannot blank.
 
@@ -35,7 +35,7 @@ When the configuration is complete, press the 'Save' button.
 
 **Users can view detail, edit or remove list filters y click-right on the list filter.**
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**For instance:**_
 

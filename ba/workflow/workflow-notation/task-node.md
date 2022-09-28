@@ -63,7 +63,7 @@ Similar to Multi instance but without using different data sets. Repeat the edit
 
 <figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>A Task object with a Standard Loop Marker</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (4).png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ Only happens after a specific task.
 
 The Compensation Marker may be used in combination with the loop marker or the multi-instance marker. The Compensation task allows rolling back to the original state if the processing operation fails.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>The 'Pay editor' task turns up only when it has the 'Edit draft' task before</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption><p>The 'Pay editor' task turns up only when it has the 'Edit draft' task before</p></figcaption></figure>
 
 ## **User manual**
 

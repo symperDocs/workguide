@@ -52,7 +52,7 @@ Then drop to canvas section
 
 To use [Annotations](artifacts.md#annotation), it can be used for any object by clicking on that object and selecting the icon
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Annotation Icon</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Annotation Icon</p></figcaption></figure>
 
 Then type here
 

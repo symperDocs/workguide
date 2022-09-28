@@ -45,7 +45,7 @@ The palette is on the left side of the workflow editor, it contains actions that
 
 The attribute table is on the right side of the workflow editor, it contains the general and detailed information of the Workflow
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The attribute table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>The attribute table</p></figcaption></figure>
 
 **General:**
 

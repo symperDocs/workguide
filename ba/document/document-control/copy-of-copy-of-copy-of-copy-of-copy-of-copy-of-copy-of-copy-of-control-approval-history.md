@@ -47,7 +47,7 @@ At the End user control department screen, only the departments and locations wh
 
 #### Step 4: Config formula active
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82) (1).png" alt=""><figcaption></figcaption></figure>
 
 Businesses can configure multiple org chart data clusters to display, and writen't or write a formula to activate which cluster to apply.
 
@@ -59,7 +59,7 @@ Business Analytics has a configured option to choose multiple or choose one.
 
 ## SHOW CONTROL DEPARTMENT
 
-<figure><img src="../../../.gitbook/assets/image (91) (1).png" alt=""><figcaption><p><em>Show control department on End User screen</em><br></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption><p><em>Show control department on End User screen</em><br></p></figcaption></figure>
 
 When the End User clicks on the control department, a popup will be displayed and the departments, roles, users. And can choose to display in the form of a treeview.
 

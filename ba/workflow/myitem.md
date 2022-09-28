@@ -67,7 +67,7 @@ Conversely, when you have authority in the process, for example when it comes to
   * Ủy quyền: to delegate the work and full authority you have with the document to someone else.
   * Hoàn thành: to send to document and end this step to move to another in the process.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
 
 ### **Document**
 

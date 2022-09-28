@@ -102,13 +102,13 @@ Case 1: Disapproval
 
 Case 2: Approval
 
-<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (2) (1).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 3: Update
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Update</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption><p>Update</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 

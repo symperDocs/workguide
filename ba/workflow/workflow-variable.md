@@ -24,7 +24,7 @@ Ex: Requirement Workflow
 
 To know this node id, you need to click on that node, then look at the right side bar ([The attribute](workflow-editor.md#the-attribute-table))
 
-<figure><img src="../../.gitbook/assets/image (13) (2) (1).png" alt=""><figcaption><p>id node</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>id node</p></figcaption></figure>
 
 Every time a new node is created, the system will automatically create an ID
 

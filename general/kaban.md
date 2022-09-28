@@ -37,7 +37,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**. At Step 2, select the control in the document whose value will be the columns in the Kanban. Enter the name and value in the selected control for each column. Columns can be added/removed if needed, but each Kanban requires a minimum of 2 columns.
 
@@ -122,7 +122,7 @@ Update data:
 
 **Step 1**. Click on the 3 vertical dots in the column you want to filter, select "**Filter column**".
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** Configure the filter according to your needs, then click "**Apply**" to apply the filter.
 

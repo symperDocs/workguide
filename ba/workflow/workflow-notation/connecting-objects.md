@@ -42,7 +42,7 @@ Shown with a dotted line, it associates an artifact or text to an event, activit
 
 A default sequence flow is visualized as a regular sequence flow, with a 'slash' marker at the beginning.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
@@ -82,13 +82,13 @@ Click to the [Artifact](artifacts.md) (Data object, store,...) and select flow
 
 Then click on the task node you need to connect
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
 
 ### Default
 
 Click to flow
 
-<figure><img src="../../../.gitbook/assets/image (18) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (2) (1).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 

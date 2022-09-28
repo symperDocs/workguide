@@ -39,7 +39,7 @@ Tasks and gateways are two of three flow elements, and Events also are one of th
 
 We can also model attached intermediate events with BPMN. These do not explicitly require waiting, but they do interrupt our activities, both tasks and sub-processes. Such intermediate events are attached because we position them at the boundary of the activity we want to interrupt.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A token running through the process would behave this way:
 

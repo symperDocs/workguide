@@ -12,7 +12,7 @@ Click on "Access Management" -> select "Action pack". Select "Add" to create ano
 
 Go to "Applications", select 1 or more applications to authorize. After selecting the application, a list of objects contained in the application will be listed from which the creator can choose to delegate permissions to them.
 
-<figure><img src="../../.gitbook/assets/image (17) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 The list of objects in the application appears, the creator just needs to tick the action that wants to be authorized for the object, for example, create, view, edit, delete, ... The actions you have authorized will automatically appear in the corresponding items in the left sidebar.
 

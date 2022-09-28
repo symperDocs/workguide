@@ -15,4 +15,4 @@ Automatic roles don't have permission to perform actions when all roles aren't a
 
 ## HOW TO ADD A ROLE ORGCHART
 
-<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>

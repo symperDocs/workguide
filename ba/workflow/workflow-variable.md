@@ -28,7 +28,7 @@ To know this node id, you need to click on that node, then look at the right sid
 
 Every time a new node is created, the system will automatically create an ID
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>ID that the system automatically creates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption><p>ID that the system automatically creates</p></figcaption></figure>
 
 Now, to get the value from the document in 1 node belonging to Workflow, we use ${`id_node_id_control}`
 

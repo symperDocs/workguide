@@ -76,7 +76,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **hoặc trình bày ở dạng báo cáo:**
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -126,7 +126,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **(Req. ID & Description)**
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Ví dụ:**
 

@@ -21,9 +21,9 @@ Thống kê các issue cần thiết có một document để người dùng và
 
 Ví dụ: Với ứng dụng QC của Symper
 
-<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Màn hình doc khai báo issue của Symper</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption><p>Màn hình doc khai báo issue của Symper</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Phương án
 

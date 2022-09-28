@@ -1,0 +1,178 @@
+---
+description: Hệ thống component UI sử dụng cho Symper web
+---
+
+# Symper Component Web draft
+
+## Giới thiệu
+
+### 1.Khái niệm component
+
+Component UI hay Component Library là thư viện chứa các thành phần UI đã được định nghĩa sẵn, có thể tái sử dụng. Đây là nơi mà designer và developer tìm hiểu và triển khai các thành phần cụ thể của UI khi xây dựng ứng dụng, cũng là ngôn ngữ chung để trao đổi và làm việc có cấu trúc.
+
+### 2.Ý nghĩa sử dụng component UI
+
+Đối với designer:
+
+* Tăng tính thống nhất trong thiết kế, hài hòa giữa các thành phần&#x20;
+* Giúp định nghĩa phong cách thiết kế, thể hiện tính thương hiệu cho sản phẩm&#x20;
+* Tiết kiệm thời gian thiết kế và đưa ra sản phẩm thiết kế ý nghĩa hơn
+
+Đối với developer:
+
+* Tiết kiệm được thời gian xây dựng một ứng dụng mới, giảm được thời gian và chi phí bảo trì
+* Tăng tính tiếp cận sản phẩm cho newbee
+* Chuẩn hoá về mặt giao diện và có khả năng sử dụng được trên nhiều dự án khác
+
+Đối với người dùng:
+
+* Tăng khả năng nhận diện thương hiệu, không nhầm lẫn với các brand khác
+* Tăng trải nghiệm người dùng và tạp cảm giác quen thuộc, gần gũi
+
+## Hệ thống component UI web
+
+{% content-ref url="symper-component-web-draft/button.md" %}
+[button.md](symper-component-web-draft/button.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/icon.md" %}
+[icon.md](symper-component-web-draft/icon.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/input.md" %}
+[input.md](symper-component-web-draft/input.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/tooltip.md" %}
+[tooltip.md](symper-component-web-draft/tooltip.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/menu-bar.md" %}
+[menu-bar.md](symper-component-web-draft/menu-bar.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/box-search.md" %}
+[box-search.md](symper-component-web-draft/box-search.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/tab/" %}
+[tab](symper-component-web-draft/tab/)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/tab/tab-page.md" %}
+[tab-page.md](symper-component-web-draft/tab/tab-page.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/select.md" %}
+[select.md](symper-component-web-draft/select.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/multi-select.md" %}
+[multi-select.md](symper-component-web-draft/multi-select.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/sidebar.md" %}
+[sidebar.md](symper-component-web-draft/sidebar.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/radio.md" %}
+[radio.md](symper-component-web-draft/radio.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/toggle-switch.md" %}
+[toggle-switch.md](symper-component-web-draft/toggle-switch.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/context-menu.md" %}
+[context-menu.md](symper-component-web-draft/context-menu.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/paging.md" %}
+[paging.md](symper-component-web-draft/paging.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/highlight.md" %}
+[highlight.md](symper-component-web-draft/highlight.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/check-box.md" %}
+[check-box.md](symper-component-web-draft/check-box.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/info.md" %}
+[info.md](symper-component-web-draft/info.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/file-upload.md" %}
+[file-upload.md](symper-component-web-draft/file-upload.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/pop-up.md" %}
+[pop-up.md](symper-component-web-draft/pop-up.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/treeview.md" %}
+[treeview.md](symper-component-web-draft/treeview.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/date-picker.md" %}
+[date-picker.md](symper-component-web-draft/date-picker.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/comment.md" %}
+[comment.md](symper-component-web-draft/comment.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/ava-user.md" %}
+[ava-user.md](symper-component-web-draft/ava-user.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/list-item.md" %}
+[list-item.md](symper-component-web-draft/list-item.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/panel.md" %}
+[panel.md](symper-component-web-draft/panel.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/card.md" %}
+[card.md](symper-component-web-draft/card.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/chip.md" %}
+[chip.md](symper-component-web-draft/chip.md)
+{% endcontent-ref %}
+
+{% content-ref url="symper-component-web-draft/scroll.md" %}
+[scroll.md](symper-component-web-draft/scroll.md)
+{% endcontent-ref %}
+
+## **Bổ sung component**
+
+### 1. **Trường hợp bổ sung component**
+
+Các trường hợp thực hiện bổ sung component:
+
+* Khi xây dựng ứng dụng/tính năng mới, cần có thành phần UX/UI mới có thể giải quyết use case tối ưu hơn các component đã có trước đó.
+* Thành phần UX/UI mới này có thể tái sử dụng trong các ứng dụng/tính năng khác để trở thành một component.
+* Thành phần UX/UI mới có thể được xây dựng dựa trên công nghệ đang sử dụng.
+
+### 2. **Các bước bổ sung component**
+
+Xây dựng, bổ sung component bao gồm các bước sau:
+
+* Bước 1: Tìm kiếm và đề xuất component
+
+Trong quá trình lên requirement và sketch, BA tìm kiếm phương án tối ưu cho ứng dụng/tính năng cần xây dựng từ đó có thể đề xuất component bổ sung. Hoặc designer nghiên cứu về trải nghiệm người dùng cũng có thể đưa ra các đề xuất cả thiện bổ sung.
+
+* Bước 2: Trao đổi và duyệt&#x20;
+
+Các đề xuất bổ sung component cần được đưa ra trao đổi cùng các bên liên quan như BA, DEV, DES và QC để đưa ra thống nhất. Các tiêu chí cần thông qua gồm có: Tính tối ưu, khả năng tái sử dụng, khả năng thực hiện bằng công nghệ...
+
+* Bước 3: Bổ sung tài liệu component
+
+Sau khi thống nhất bổ sung, DES thực hiện thiết kế component đó trong file Symper Component trên figma. Đồng thời designer bổ sung tài liệu trong document trên Gitbook. DEV bổ sung code cho component trong doc đó.

@@ -8,6 +8,6 @@ Một số tài liệu chia sẻ về SQL
 |  2  |         |          |          |                                                |                         |               |       |         |
 |  3  |         |          |          |                                                |                         |               |       |         |
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 [https://madzynguyen.com/hoc-sql-nhu-the-nao/](https://madzynguyen.com/hoc-sql-nhu-the-nao/)

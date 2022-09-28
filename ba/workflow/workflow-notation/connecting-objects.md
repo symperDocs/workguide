@@ -12,7 +12,7 @@ Shows the order of activities to be performed. It is shown as a straight line wi
 
 ![](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/sequence-flow.svg)
 
-<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.loom.com/share/50d3e3a8fa9141d2ac065262b7d20022" %}
 
@@ -34,17 +34,17 @@ Depicts messages that flow across “[pools](swimlanes.md),” or organization b
 
 Shown with a dotted line, it associates an artifact or text to an event, activity or gateway.
 
-<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Default Flow
 
 A default sequence flow is visualized as a regular sequence flow, with a 'slash' marker at the beginning.
 
-<figure><img src="../../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration
 
@@ -64,13 +64,13 @@ The system will identify nodes in another pool and will use Message Flow \*\*\*\
 
 Click to task node or [pool](swimlanes.md) and select flow icon
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (3).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
 Then click on the node or pool you need to connect
 
-<figure><img src="../../../.gitbook/assets/image (32) (2).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (2) (1).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
@@ -78,20 +78,20 @@ Then click on the node or pool you need to connect
 
 Click to the [Artifact](artifacts.md) (Data object, store,...) and select flow
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then click on the task node you need to connect
 
-<figure><img src="../../../.gitbook/assets/image (14) (4).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
 
 ### Default
 
 Click to flow
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (3).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 
-<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Default Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption><p>Default Flow</p></figcaption></figure>
 
 \\

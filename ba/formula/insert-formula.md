@@ -20,7 +20,7 @@ NOTE:
 * Must have row 'RETURNING .....'
 *   Syntax 'uuid\_generate\_v4()' is fixed
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 \+ Insert into data in table
 
@@ -36,7 +36,7 @@ NOTE:
 * Syntax 'uuid\_generate\_v4()' is fixed
 *   Don't have row 'RETURNING ....' like upon syntax
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Auto returing document number (makePrimaryKey)
 

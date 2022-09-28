@@ -24,7 +24,7 @@ To use Swimlanes, click this icon in [The Palette](../workflow-editor.md#the-pal
 
 Then drop to Canvas Section
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Add Lane, Rename, Remove
 

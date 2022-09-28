@@ -1,12 +1,12 @@
-# Role Guide
+# Role guide
 
 ### Steps 1: Log in your Symper account into the system
 
-![Login](<../.gitbook/assets/3 (1).png>)
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ### Steps 2: Select the role to perform the action
 
-![](<../.gitbook/assets/1 (3).png>)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 (1): Click on the user's avatar to display the silde bar.
 
@@ -16,16 +16,16 @@
 
 ### Steps 3: Take action
 
-![Application](<../.gitbook/assets/2 (1).png>)
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-![Workflow](../.gitbook/assets/3.png)
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-![Document](../.gitbook/assets/4.png)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-![Orgchart](../.gitbook/assets/5.png)
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-![Dashboard](<../.gitbook/assets/6 (1).png>)
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 _**Note**_**:** When all roles have permission to perform the action, it will notify the new user which role to choose to perform the action ( When the user selects the role automatically before performing the action).
 
-![](../.gitbook/assets/10.png)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

@@ -41,11 +41,11 @@ Which is an action that repeats many times but needs different data sets
 
 * **Parallel**: The action is repeated many times, but it needs different data sets and do at the same time
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Activity Multi-Instance marker for parallel instances</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Activity Multi-Instance marker for parallel instances</p></figcaption></figure>
 
 * **Sequential:** The action is repeated many times, but it needs different data sets and do it sequence
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Activity Multi-Instance marker for sequential instances</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Activity Multi-Instance marker for sequential instances</p></figcaption></figure>
 
 **Example:**
 
@@ -61,11 +61,11 @@ Which is an action that repeats many times but needs different data sets
 
 Similar to Multi instance but without using different data sets. Repeat the edit draft step until it is accepted and then move on to the next step (approval)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>A Task object with a Standard Loop Marker</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>A Task object with a Standard Loop Marker</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
 
 ### **Ad hoc**
 
@@ -88,7 +88,7 @@ Only happens after a specific task.
 
 The Compensation Marker may be used in combination with the loop marker or the multi-instance marker. The Compensation task allows rolling back to the original state if the processing operation fails.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>The 'Pay editor' task turns up only when it has the 'Edit draft' task before</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>The 'Pay editor' task turns up only when it has the 'Edit draft' task before</p></figcaption></figure>
 
 ## **User manual**
 
@@ -209,7 +209,7 @@ This formula sends a notification to a designated person with content in the Tit
 
 \- If choose “Set variables”, you will have to need to fill the table below.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 In the "Name" column, fill in the variable name you want to reset or change the value. For example, if you want to reset the variables "pnh\_sct" and "pgh\_sct" to null value, set the "Value" column blank. Do not fill "null" in the "Value" column or those variables will change into "null" in text. Besides, remember to use the “Set variables” function of Service Task before node User Task in order to take action to activate the changing of variables. If not, those variables will not be set to the value you want.
 

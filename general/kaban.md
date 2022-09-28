@@ -37,7 +37,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**. At Step 2, select the control in the document whose value will be the columns in the Kanban. Enter the name and value in the selected control for each column. Columns can be added/removed if needed, but each Kanban requires a minimum of 2 columns.
 
@@ -49,7 +49,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
@@ -75,7 +75,7 @@ Update data:
 * Control **Actual Time** does not generate data by itself, requiring input before dragging and dropping.
 *   Each card when dragged to the DONE column will have the total execution time of the child- tasks below it into the NEW DURATION and the latest completion date of all its child-tasks into the NEW END DATE.
 
-    <figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### KANBAN ISSUE TRACKING
 

@@ -37,10 +37,9 @@ Tasks and gateways are two of three flow elements, and Events also are one of th
 * Triggered during the process
 * Triggered at the end of the process
 
-We can also model attached intermediate events with BPMN. These do not explicitly require waiting, but they do interrupt our activities, both tasks and sub-processes. Such intermediate events are attached because we position them at the boundary of the activity we want to interrupt.\
+We can also model attached intermediate events with BPMN. These do not explicitly require waiting, but they do interrupt our activities, both tasks and sub-processes. Such intermediate events are attached because we position them at the boundary of the activity we want to interrupt.
 
-
-![](<../../.gitbook/assets/image (71).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 A token running through the process would behave this way:
 
@@ -51,7 +50,7 @@ A token running through the process would behave this way:
 
 With the exception of compensation events, attached intermediate events inevitably resulted in canceled activities. BPMN 2.0 defines a new symbol: the non-interrupting intermediate event.
 
-![](<../../.gitbook/assets/image (241).png>)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 The token moves through the process as follows:
 
@@ -60,8 +59,7 @@ The token moves through the process as follows:
 * If event 1 does **not** occur, task 1 will be completed, and the token moves through the regular sequence flow to task 2.
 * If event 1 occurs only after task 1 completes, it ceases to matter.
 
-In the following sections, we introduce the event types to be used when working with BPMN. We also explain how you can react to different events using the event-based gateway.\
-
+In the following sections, we introduce the event types to be used when working with BPMN. We also explain how you can react to different events using the event-based gateway.\\
 
 ## Event Node in Symper System
 
@@ -74,7 +72,7 @@ Normal start workflow, when chose start a process instance
 
 ### **Config**
 
-* Form reference: **** Select document, a submit task will be created and assign to initiator
+* Form reference: \*\*\*\* Select document, a submit task will be created and assign to initiator
 
 ![](https://lh3.googleusercontent.com/zpCbPqzIw4u\_w9HY3UKKxr\_n5xjIcCVQSYz4v\_VJ0spKo-\_hbVhuJMJXCFxuOVw9bjZ3YeOn\_a7ZXWNL16dP0INx83Xj-1r1QtNXsT9yU2MHQDgKvF73QHdG3sZUk7nZYR634IBd)
 
@@ -90,7 +88,7 @@ When process receives a message that has same message name from Throw message, p
 
 A start node can setup initial time for process instance
 
-#### &#x20;Config: (use crontab or ISO-8601)
+#### Config: (use crontab or ISO-8601)
 
 * Time cycle (cron) : Specifies repeating intervals
 * Time date in ISO-8601 : Set start time at a point in time
@@ -102,7 +100,7 @@ Set a formula or expression using SYQL as a condition to start workflow.
 
 #### Config:
 
-* Conditional expression: set a condition only when all conditions are met, the  process instance starts.
+* Conditional expression: set a condition only when all conditions are met, the process instance starts.
 
 1. Signal Start Event
 
@@ -110,15 +108,14 @@ This node will start a process when catch a signal from Throw signal has the sam
 
 #### Config:
 
-* Signal reference : Select Signal name (Need to declare signal definition on the  general right sidebar)
+* Signal reference : Select Signal name (Need to declare signal definition on the general right sidebar)
 
 ![](https://lh5.googleusercontent.com/R2TzsglT4Khn4aEHKj0nnA2lPSasYHhKIMt\_Kh5abJSH4ibsnlMUHa0o2Sz1JsV0zIg6cj73A-1OK0iZTRj-XFFKmec1NogPW6BmDSWNN3YcUZ013e3SLEHLF0HSBFLws4n5UPyd)
 
 1. Intermediate event node
 2. Intermediate event
 
-updating\
-
+updating\\
 
 1. Message Intermediate Catch Event
 
@@ -130,7 +127,7 @@ updating\
 
 1. Timer Intermediate Catch Event
 
-Flow runs when this node catches the start timer. Like the Timer start event, this node allows to config start time as a condition  for flow  to go through this node to the next task or run task which contains this event
+Flow runs when this node catches the start timer. Like the Timer start event, this node allows to config start time as a condition for flow to go through this node to the next task or run task which contains this event
 
 #### Config:
 
@@ -174,7 +171,7 @@ Running to this node, the flow status will change to “waiting”. In order to 
 
 #### Config:
 
-* Signal reference : Select Signal name (Need declare signal definition on  general right sidebar)
+* Signal reference : Select Signal name (Need declare signal definition on general right sidebar)
 
 ![](https://lh4.googleusercontent.com/b0\_yDcI532pjjDMld7lMKK9KoS86s0Vc1VE9X-gAcXlYuHiv8LJdqdpZihxiYQZ8NBpOwq473LiL\_1W4LTDQyVRb0rQ3UxztVQKpirXrVU3YJ-wd9tB7Mwvg7q4lNgOmIoWLIuOz)
 
@@ -184,21 +181,20 @@ This node throws spread a signal and flow still continues to the next node
 
 #### Config:
 
-* Signal reference: Select Signal name (Need declare signal definition on  general right sidebar)
+* Signal reference: Select Signal name (Need declare signal definition on general right sidebar)
 
 ![](https://lh3.googleusercontent.com/fhiwqDZV-3BerWZEzq55s4Ol0NYNIL8cxFD4a6UYp7dTa24n4LIDMIomWpqq17ybKtACDw\_isRnyIVYp7MOL0e-TnyWkGruz2CjWvkK1LQJBUKV0KIHU\_dQYYhy6pmGT59wnq-jT)
 
 * Declare signal definitions:
 * ID: id signal
 
-Signal could be caught by same id signal \
-
+Signal could be caught by same id signal \\
 
 * Name: name of signal
 
 This name will be show in drop list of signal reference
 
-* Scope:&#x20;
+* Scope:
 
 ![](https://lh3.googleusercontent.com/O6NezSFM5ihtIIuUapUbcf9FIY8u23D9xCFa4BhqEDEyuAog4PPFx4dvmpEaUgsc4OT65Oa9GbclI\_PG-f9i2WEhSBFhjYpUom2wEVakVFwMSTu8wrGtd1GnXGpvkx8zhdneP\_Vr)
 
@@ -209,28 +205,23 @@ end process instance
 
 1. Message End Event
 
-updating\
-
+updating\\
 
 1. Escalation End Event
 
-updating\
-
+updating\\
 
 1. Error End Event
 
-updating\
-
+updating\\
 
 1. Compensation End Event
 
-updating\
-
+updating\\
 
 1. Signal End Event
 
-End process instance and throw signal\
-
+End process instance and throw signal\\
 
 1. Terminate End Event
 
@@ -239,4 +230,3 @@ To stop process instance immediately
 #### Config:
 
 * Terminate all: Stop all the same process instance
-

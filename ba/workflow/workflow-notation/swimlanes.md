@@ -6,7 +6,7 @@
 
 A pool represents major participants in a process. A different pool may be in a different company or department but still involved in the process
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Pool: Patient and Doctor's Office</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (4).png" alt=""><figcaption><p>Pool: Patient and Doctor's Office</p></figcaption></figure>
 
 ### Lane
 
@@ -20,7 +20,7 @@ Lane within a pool show the activities and flow for a certain role or participan
 
 To use Swimlanes, click this icon in [The Palette](../workflow-editor.md#the-palette)
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (3).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
 
 Then drop to Canvas Section
 

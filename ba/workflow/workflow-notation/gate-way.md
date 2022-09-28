@@ -110,7 +110,7 @@ Case 3: Update
 
 <figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption><p>Update</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 In this formula (To understand the formula, please read the section)
 

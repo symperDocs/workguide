@@ -82,13 +82,13 @@ Click to the [Artifact](artifacts.md) (Data object, store,...) and select flow
 
 Then click on the task node you need to connect
 
-<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (4).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
 
 ### Default
 
 Click to flow
 
-<figure><img src="../../../.gitbook/assets/image (18) (2) (1).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 

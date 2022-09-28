@@ -41,4 +41,4 @@ _**For instance:**_
 
 Decentralize action execution with SYMPER TEST SUITES records that will have tmg\_status of "NEW"
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>

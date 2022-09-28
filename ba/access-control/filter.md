@@ -17,9 +17,9 @@ Filters in Access Control are used to filter authorization data for End User acc
 
 Click on the icon '+ Add' in the menu bar.
 
-![](<../.gitbook/assets/Screen Shot 2022-02-21 at 15.00.51.png>)
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screen Shot 2022-02-21 at 14.53.24.png>)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the filter, cannot blank.
 
@@ -35,10 +35,10 @@ When the configuration is complete, press the 'Save' button.
 
 **Users can view detail, edit or remove list filters y click-right on the list filter.**
 
-![](<../.gitbook/assets/Screen Shot 2022-02-21 at 15.11.25.png>)
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 _**For instance:**_
 
 Decentralize action execution with SYMPER TEST SUITES records that will have tmg\_status of "NEW"
 
-![](<../.gitbook/assets/Screen Shot 2022-03-11 at 14.06.37.png>)
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>

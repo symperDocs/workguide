@@ -55,7 +55,7 @@ In case there are more than two org chart data clusters returned for display, it
 
 Business Analytics has a configured option to choose multiple or choose one.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
 
 ## SHOW CONTROL DEPARTMENT
 

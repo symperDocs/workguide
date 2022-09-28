@@ -102,7 +102,7 @@ The top right corner also has many options for us to do with this document:
 
 When clicking on the information icon, detailed information of a document will be displayed, including: general information, related people and process information as below:
 
-<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption><p>Detailed information of a document</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Detailed information of a document</p></figcaption></figure>
 
 * General information: including who and when the document was created and list of comments below it.
 * Related people: all people that related to the process including the assignee and the candidate users.

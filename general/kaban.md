@@ -45,11 +45,11 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 5.** In Step 3 of Create kanban, drag and drop columns and arrows between them in the canvas showing the direction that allows dragging cards back and forth between them. It is required to name the stateflow to serve the Access Control part. If you do not set anything here, it will default to all cards being dragged freely between all columns.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
@@ -59,7 +59,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 Kanban WBS serves to track and transfer work status of each person.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag and drop logic:
 
@@ -75,7 +75,7 @@ Update data:
 * Control **Actual Time** does not generate data by itself, requiring input before dragging and dropping.
 *   Each card when dragged to the DONE column will have the total execution time of the child- tasks below it into the NEW DURATION and the latest completion date of all its child-tasks into the NEW END DATE.
 
-    <figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### KANBAN ISSUE TRACKING
 
@@ -96,7 +96,7 @@ Update data:
 * When dragging the card from TEST to DONE will automatically control **Last day update status** to the current date
 *   Manually enter **Testcase ID** when entering card to DONE or RE-OPEN
 
-    <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### KANBAN REQUIREMENT
 
@@ -134,13 +134,13 @@ Update data:
 
 **Step 2**. Configure the filter according to your needs and click "**Apply**" to apply. You can also give it a name and click the tick to save this current filter for reuse.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### To view card details
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 

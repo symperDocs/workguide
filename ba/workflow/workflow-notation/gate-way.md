@@ -98,7 +98,7 @@ Case 1: Disapproval
 
 <figure><img src="../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Reject Branch</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 2: Approval
 

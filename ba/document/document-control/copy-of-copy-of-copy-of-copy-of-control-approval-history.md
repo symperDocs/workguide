@@ -55,7 +55,7 @@ Only use when control is set inside of the table, users can choose file is displ
     <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 *   Zoom in to view the file in full screen, in there, users can click buttons: check identification, turn right, turn left, download, close.
 
-    <figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 * Config display product list: users can view the file on the records list, an attached image column is added.
 
 [https://ywb69zeduvn.sharepoint.com//s/Symper347/ESpWuGrJhblOs9B059cct10Barejx0hOM-C9MTim1Oglqw?e=rqXsrE](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESpWuGrJhblOs9B059cct10Barejx0hOM-C9MTim1Oglqw?e=rqXsrE)

@@ -12,9 +12,9 @@ Permission is a set of action packs that a user is authorized to perform.
 
 Click on the icon '+ Add' in the menu bar.
 
-![](../.gitbook/assets/11.png)
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/12.png)
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the permission, cannot blank.
 
@@ -32,4 +32,4 @@ For more details about the action pack, click the link below:
 
 **Users can view detail, edit or remove permissions packages by click-right on the permission package.**
 
-![](<../.gitbook/assets/image (193).png>)
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>

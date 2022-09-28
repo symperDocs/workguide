@@ -10,15 +10,15 @@ Role Orgchart: Building a company's organizational chart is also an indirect way
 
 ## HOW TO ADD A ROLE ORGCHART
 
-![](../../.gitbook/assets/15.png)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Users can decentralize by click-right on the role org chart.
 
-![](../../.gitbook/assets/16.png)
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Select permission packs were configured.
 
-![](../../.gitbook/assets/17.png)
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 For more details about the role org-chart, click the link below:
 

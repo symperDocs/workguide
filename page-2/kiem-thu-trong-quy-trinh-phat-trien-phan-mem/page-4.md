@@ -73,7 +73,7 @@ Trong Phương pháp Top Down, việc kiểm thử diễn ra từ trên xuống 
 
 Trong Phương pháp Bottom up, mỗi mô-đun ở các cấp thấp hơn được kiểm tra với các mô-đun cao hơn cho đến khi tất cả các mô-đun được kiểm tra. Lúc này, sẽ cần tới sự hỗ trợ của Driver trong việc kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Các mô-đun quan trọng (ở cấp cao nhất của kiến trúc phần mềm) mà kiểm soát luồng ứng dụng được kiểm tra cuối cùng và có thể dễ bị lỗi.
 * Xây dựng một bản mẫu (prototype) ngay từ ban đầu - là một điều không thể

@@ -18,7 +18,7 @@ To pin the location of important columns, the user do the following:
 
 <figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24) (2) (1) (3).png>)![](<../../.gitbook/assets/image (18) (2).png>)
+**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24) (2) (1) (2) (2).png>)![](<../../.gitbook/assets/image (18) (2).png>)
 
 **Step 3:** Hover over the pin column and select the battery left or right depending on the need
 
@@ -32,7 +32,7 @@ Watch the sample manipulation video at the link below:
 
 ### _**3. Use case: Hide unimportant columns of information (\*)**_
 
-**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (24) (2) (1).png>)
+**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (24) (2) (1) (2) (3).png>)
 
 **Step 2:** The interface appears and taps the second tab with the icon as shown ![](../.gitbook/assets/5)
 

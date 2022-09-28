@@ -40,7 +40,7 @@ We use notation to supplement your diagram. Annotations can contain almost anyth
 
 To use Artifact (Group, Data Object, Data Store), Choose icons in [The Palette](../workflow-editor.md#the-palette)
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
 
 Then drop to canvas section
 

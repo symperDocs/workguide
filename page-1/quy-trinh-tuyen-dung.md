@@ -12,10 +12,10 @@ Quy trình được xây dựng nhằm quy định một trình tự thống nh�
 
 Quy trình được áp dụng cho:
 
-* Qúa trình tuyển dụng đầu vào&#x20;
+* Qúa trình tuyển dụng đầu vào
 * Quản lý, sử dụng và điều chỉnh nguồn nhân lực
 
-Quy trình áp dụng cho tất cả các phòng ban theo Sơ đồ tổ chức của Symper.&#x20;
+Quy trình áp dụng cho tất cả các phòng ban theo Sơ đồ tổ chức của Symper.
 
 ## 3. Nội dung quy trình
 
@@ -25,11 +25,11 @@ Tuyển dụng nhân viên mới là một trong những chức năng cốt lõi
 
 Các bước tuyển dụng nhân viên mới:
 
-![Sơ đồ quy trình tuyển mới](<.gitbook/assets/image (6).png>)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Sơ đồ quy trình tuyển mới</p></figcaption></figure>
 
 Ma trận phân nhiệm theo role của quá trình tuyển mới:
 
-![Ma trận phân nhiệm tuyển mới theo role](<.gitbook/assets/image (1).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ma trận phân nhiệm tuyển mới theo role</p></figcaption></figure>
 
 #### Bước 1: Xác định nhu cầu tuyển dụng
 
@@ -51,16 +51,16 @@ Leader của phòng ban có nhu cầu cần phân tích vị trí cần tuyển 
 * Những quyền lợi cụ thể của ứng viên khi ứng tuyển vị trí
 
 Sau khi phân tích, Leader văn bản hóa các nội dung trên (JD) và gửi lại cho BNS với tiêu đề : **Symper - Vị trí cần tuyển - Thời hạn tuyển dụng(nếu có)**\
-****Tham khảo form [JD tuyển dụng](https://docs.google.com/document/d/1-DdR92\_BBuGWoyJEd42FU5JQJJNzlFiy-NUSI0YuHIM/edit?usp=sharing)
+\*\*\*\*Tham khảo form [JD tuyển dụng](https://docs.google.com/document/d/1-DdR92\_BBuGWoyJEd42FU5JQJJNzlFiy-NUSI0YuHIM/edit?usp=sharing)
 
-Việc phân tích vị trí tuyển dụng có thể được thực hiện bởi cả Leader và BNS để đi đến thống nhất. Để thực hiện bước này chuẩn xác, cả 02 bên cần quan tâm đến định hướng phát triển công ty, tính toán chính sách lương thưởng và phúc lợi.&#x20;
+Việc phân tích vị trí tuyển dụng có thể được thực hiện bởi cả Leader và BNS để đi đến thống nhất. Để thực hiện bước này chuẩn xác, cả 02 bên cần quan tâm đến định hướng phát triển công ty, tính toán chính sách lương thưởng và phúc lợi.
 
 #### Bước 3: Lập kế hoạch tuyển dụng
 
 Sau khi tiếp nhận nhu cầu tuyển dụng, BNS lập kế hoạch tuyển dụng theo các phương diện:
 
 * Kênh tuyển dụng hay các nguồn tiếp cận ứng viên: đưa ra phương pháp tuyển dụng
-* Số lượng tuyển dụng cần đạt trong tháng: đưa ra mục tiêu tuyển dụng&#x20;
+* Số lượng tuyển dụng cần đạt trong tháng: đưa ra mục tiêu tuyển dụng
 * Chi phí dùng cho tuyển dụng (có thể tính theo tháng hoặc theo chiến dịch tuyển dụng): đưa ra thêm kênh tuyển dụng có phí
 
 #### Bước 4: Thăm dò nguồn tuyển và đăng tin tuyển dụng
@@ -72,7 +72,7 @@ Có 02 nguồn tuyển có thể khai thác để tìm kiếm nhân sự:
   \- Cách thứ hai là tận dụng thông tin các ứng viên cũ đã ứng tuyển. Việc lưu trữ thông tin các ứng viên đã nộp đơn trước đó sẽ tạo nguồn cơ sở dữ liệu, có thể liên hệ lại khi có vị trí mới cần tuyển.\
   \- Cách thứ ba là các nhân viên trong công ty sẽ thực hiện seeding, share các bài viết trên mạng xã hội của họ để lan rộng thông tin tuyển dụng.
 * Tạo nguồn tuyển từ bên ngoài:\
-  \- Đăng bài trên các nền tảng mạng xã hội như các group tuyển dụng(Facebook, Linkedin...), [trang web của Symper](https://symper.vn/) hoặc trang [Fanpage của Symper ](https://www.facebook.com/sympervietnam)\
+  \- Đăng bài trên các nền tảng mạng xã hội như các group tuyển dụng(Facebook, Linkedin...), [trang web của Symper](https://symper.vn/) hoặc trang [Fanpage của Symper](https://www.facebook.com/sympervietnam)\
   \- Đăng bài trên các trang tin, ứng dụng tìm việc làm ( TopCV, TopDev...)\
   \- Sử dụng kênh headhunt như Devwork\
   \- Quảng cáo có phí, hoặc sử dụng gói hỗ trợ tuyển dụng có phí trên ứng dụng tìm việc làm
@@ -94,10 +94,9 @@ Hiện tại Symper tổ chức phỏng vấn qua một trong hai hình thức:
 * Online\
   \- Phương tiện: ban Nhân sự sẽ set lịch phỏng vấn qua Zoom hoặc Google Meet, set lịch trên calendar Microsoft Team invite những người liên quan có gắn link Zoom/Google Meet và link CV. Đồng thời lưu các thông tin phỏng vấn ứng viên trong File tổng hợp phỏng vấn (link tại mục 4).\
   BNS có trách nhiệm thông báo lịch phỏng vấn chi tiết cho ứng viên qua mail với format như hình:\
-  \
+  \\
 
-
-![Format mail thông báo lịch phỏng vấn](<.gitbook/assets/image (4).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 \-Cách thức: Interviewers có thể là quản lý cấp C, mentor hoặc senior...được chỉ định tham gia phỏng vấn đặt các câu hỏi hoặc bài test (tham khảo bộ câu hỏi có sẵn) để đánh giá ứng viên qua các tiêu chí ( tham khảo bộ tiêu chí đánh giá ứng viên)
 
@@ -112,7 +111,7 @@ Có thể quyết định bổ sung thêm bài test cho ứng viên trong trư�
 * Quy định của bộ phận cần thêm bước sàng lọc qua bài test để đánh giá ứng viên trước khi đưa ra kết quả chọn lựa.
 * Cân bằng % YES/NO hoặc leader các bộ phần còn cân nhắc, cần thêm căn cứ để đưa ra quyết định.
 
-Trong các trường hợp này, BNS sẽ gửi bài test cho ứng viên qua mail có kèm theo thời gian deadline cụ thể.&#x20;
+Trong các trường hợp này, BNS sẽ gửi bài test cho ứng viên qua mail có kèm theo thời gian deadline cụ thể.
 
 **Bước 7: Lựa chọn và tiếp nhận thử việc**
 
@@ -123,8 +122,8 @@ Nội dung thông báo pass qua mail sẽ bao gồm:
 * Tên vị trí apply
 * Mức lương & phụ cấp (nếu có) cụ thể
 * Thời gian, địa chỉ bắt đầu làm việc
-* Thời gian quá trình thử việc&#x20;
-* Offer letter (đính kèm).&#x20;
+* Thời gian quá trình thử việc
+* Offer letter (đính kèm).
 
 Nội dung thông báo không pass sẽ bao gồm:
 
@@ -151,12 +150,12 @@ Về lương thử việc:
 
 Về nội dung đào tạo:
 
-* Mọi nhân viên/TTS bắt đầu làm việc tại Symper đều được đào tạo về DNA và các quy định chung (team charter)&#x20;
+* Mọi nhân viên/TTS bắt đầu làm việc tại Symper đều được đào tạo về DNA và các quy định chung (team charter)
 * Đào tạo về sản phẩm Symper
 * Các công việc trong từng giai đoạn hoặc công việc trong thời gian thực tập đối với TTS
 * Các yêu cầu cần đạt được sau thời gian thử việc hoặc sau giai đoạn công việc
 
-Kết thúc thời gian thử việc, TTS được đánh giá năng lực, xét thấy đủ điều kiện về thái độ và năng lực sẽ được lên vị trí nhân viên chính thức. Chu kỳ đánh giá năng lực của TTS là 3 tháng/lần, của nhân viên chính thức là 6 tháng/lần. \
+Kết thúc thời gian thử việc, TTS được đánh giá năng lực, xét thấy đủ điều kiện về thái độ và năng lực sẽ được lên vị trí nhân viên chính thức. Chu kỳ đánh giá năng lực của TTS là 3 tháng/lần, của nhân viên chính thức là 6 tháng/lần.\
 Trong quá trình thực tập, vẫn sẽ áp dụng các quy chế khen thưởng, kỷ luật đối với TTS.
 
 ### 3.2. Quy định về xin nghỉ việc

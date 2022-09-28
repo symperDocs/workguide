@@ -6,9 +6,9 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.1. Project:** dùng để quản lý các công việc liên quan đến quản lý dự án
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-**I.2. Symper Daily:** dùng để quản lý, theo dõi ngày làm việc cũng như công việc trong ngày của các thành viên trong team&#x20;
+**I.2. Symper Daily:** dùng để quản lý, theo dõi ngày làm việc cũng như công việc trong ngày của các thành viên trong team
 
 <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ _**II.3.2. Requirement Tracibility Matrix:**_ 2 lần 1 tháng vào thứ 2 tu�
 
 _**II.3.3. Test report:**_ QC phụ trách - Duyenntm tổng hợp báo cáo và report lên nhóm Symper theo test plan: test xong 1 plan thì họp và báo cáo với team
 
-_**II.3.4. WBS:**_ \
+_**II.3.4. WBS:**_\
 \- DEV & QC: Check in hàng ngày sử dụng báo cáo WBS để báo cáo, check in sáng hôm sau sẽ kiểm tra việc cập nhật các đầu việc của ngày hôm trước\
 \- BA: Check in & check out hàng ngày sử dụng báo cáo WBS để báo cáo, check out 5h30pm sẽ kiểm tra kết quả công việc và cập nhật trạng thái, thời gian làm việc thực tế các đầu việc trong ngày
 

@@ -38,11 +38,11 @@ Specifically, the components of the My item display include:
 
 To view each Workflow instance, we will first click to the My Item section on the lefft and then use the filter to select the "Công việc" section to display all of the Workflow instances we require to view
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
 
 There are components that display in the My item's work:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>My item's work</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>My item's work</p></figcaption></figure>
 
 1. Name and secondary information of the workflow instance
 2. The created time
@@ -52,7 +52,7 @@ There are components that display in the My item's work:
 
 If you click on a work (also known as a workflow instance), it will display the tasks related to that process flow as well as the status of each task.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
 
 If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.
 
@@ -77,7 +77,7 @@ Similarly, to display all the documents in My Item, go to the filter, then selec
 
 The screen will show us all the components of My item's document as below:
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>The screen of the My item's document</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>The screen of the My item's document</p></figcaption></figure>
 
 * Name of all the documents (1)
 * The time that the document was created (2)

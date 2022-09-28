@@ -90,7 +90,7 @@ Configuration
 
 Click on the node before gateway and configure as image
 
-<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Task Action</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (3) (1).png" alt=""><figcaption><p>Task Action</p></figcaption></figure>
 
 Click on the branch to configure the script
 
@@ -104,7 +104,7 @@ Case 2: Approval
 
 <figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 3: Update
 

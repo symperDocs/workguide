@@ -43,7 +43,7 @@ Only use when control is set inside of the table, users can choose file is displ
 * When users uploaded a file, users can click icon + to add the file.
 *   Users can download or delete all files uploaded.
 
-    <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
 *   A file uploaded can rename, download, or delete.
 
     <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +55,7 @@ Only use when control is set inside of the table, users can choose file is displ
     <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 *   Zoom in to view the file in full screen, in there, users can click buttons: check identification, turn right, turn left, download, close.
 
-    <figure><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 * Config display product list: users can view the file on the records list, an attached image column is added.
 
 [https://ywb69zeduvn.sharepoint.com//s/Symper347/ESpWuGrJhblOs9B059cct10Barejx0hOM-C9MTim1Oglqw?e=rqXsrE](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESpWuGrJhblOs9B059cct10Barejx0hOM-C9MTim1Oglqw?e=rqXsrE)

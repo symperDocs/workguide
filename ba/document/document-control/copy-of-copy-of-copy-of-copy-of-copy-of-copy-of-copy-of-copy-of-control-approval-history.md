@@ -27,7 +27,7 @@ Control Department has type is data input and data type is text.
 
 #### Step 1: Select Orgchart
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103) (1).png" alt=""><figcaption></figcaption></figure>
 
 Business Analytics selects one org chart from the list of org charts to use as data.
 
@@ -55,7 +55,7 @@ In case there are more than two org chart data clusters returned for display, it
 
 Business Analytics has a configured option to choose multiple or choose one.
 
-<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
 
 ## SHOW CONTROL DEPARTMENT
 

@@ -14,7 +14,7 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.3. Business Analyst:** dùng để quản lý các công việc liên quan đến nghiệp vụ của BA
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 **I.4. Quality Control:** dùng để quản lý các công việc liên quan đến nghiệp vụ của QC
 

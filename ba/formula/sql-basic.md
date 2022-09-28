@@ -217,7 +217,7 @@ NATURAL JOIN country;
 
 `GROUP BY` **groups** together rows that have the same values in specified columns. It computes summaries (aggregates) for each unique combination of values.
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### **AGGREGATE FUNCTIONS**
 
@@ -386,7 +386,7 @@ WHERE country = 'DE';
 
 This query displays German cyclists unless they are also German skaters at the same time:
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ```sql
 SELECT name

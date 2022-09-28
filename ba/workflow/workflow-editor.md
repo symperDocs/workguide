@@ -2,11 +2,11 @@
 
 Workflow is a method that describes the steps of a planned business process from end to end. It allows for easier communication and collaboration to reach the goal of an efficient process that produces a high-quality result. To create or edit a workflow, we use a workflow editor. In the workflow editor, there are 3 main elements each has different functions: the toolbar, the palette, and the attribute table as below:
 
-![Workflow editor](<../.gitbook/assets/image (44).png>)
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Workflow editor</p></figcaption></figure>
 
 ### **THE** TOOLBAR
 
-The toolbar is on the top side of editor, offers a number of actions, some of them only affecting the currently opened model while others have a more impact.&#x20;
+The toolbar is on the top side of editor, offers a number of actions, some of them only affecting the currently opened model while others have a more impact.
 
 | **Name**         | Icon                                                                                                                                                                                                              | Description                                                                              |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -24,28 +24,28 @@ The toolbar is on the top side of editor, offers a number of actions, some of th
 
 The palette is on the left side of the workflow editor, it contains actions that allow we can create or edit any element in the workflow.
 
-| **Name**                  | Icon                                                                        | Description                                                                                                                             |
-| ------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Hand tool                 | <img src="../.gitbook/assets/image (155).png" alt="" data-size="original">  | To drag one node to another position in the workflow editor                                                                             |
-| Lasso tool                | ![](<../.gitbook/assets/image (120).png>)                                   | To drag an interval to another position in the Workflow editor                                                                          |
-| Create/remove space tool  | <img src="../.gitbook/assets/image (152).png" alt="" data-size="original">  | To create or remove space from any position. It can make 2 node's space further or closer                                               |
-| Global connect tool       | <img src="../.gitbook/assets/image (161).png" alt="" data-size="original">  | To make connections between elements in the  workflow                                                                                   |
-| Start event symbol        | <img src="../.gitbook/assets/image (88).png" alt="" data-size="original">   | Signals the first step of a process.                                                                                                    |
-| Intermediate event symbol | <img src="../.gitbook/assets/image (217).png" alt="" data-size="original">  | Represents any event that occurs between a start and end event.                                                                         |
-| End event symbol          | <img src="../.gitbook/assets/image (162).png" alt="" data-size="original">  | Signals the final step in a process.                                                                                                    |
-| Create gateway            | <img src="../.gitbook/assets/image (58).png" alt="" data-size="original">   | Creates a new gateway that is used to check how a process is going                                                                      |
-| Create task               | <img src="../.gitbook/assets/image (246).png" alt="" data-size="original">  | Creates a new node of task                                                                                                              |
-| Create subprocess event   | <img src="../.gitbook/assets/image (224).png" alt="" data-size="original">  | Creates a subprocess event                                                                                                              |
-| Data object reference     | <img src="../.gitbook/assets/image (109).png" alt="" data-size="original">  | Represents data placed into the process, data resulting from the process, data that needs to be collected, or data that must be stored. |
-| Data store reference      | <img src="../.gitbook/assets/image (77).png" alt="" data-size="original">   | Represents the ability to store or access data that’s associated with a business process.                                               |
-| Create Pool/ Participant  | <img src="../.gitbook/assets/image (128).png" alt="" data-size="original">  | Creates pool that defines a process or organization                                                                                     |
-| Create group              | <img src="../.gitbook/assets/image (2).png" alt="" data-size="original">    | Allows to organize multiple tasks or processes into a group, make it more specific how each of those steps is completed.                |
+| **Name**                  | Icon                                                                         | Description                                                                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Hand tool                 | <img src="../.gitbook/assets/image%20(155).png" alt="" data-size="original"> | To drag one node to another position in the workflow editor                                                                             |
+| Lasso tool                | ![](../.gitbook/assets/image%20\(120\).png)                                  | To drag an interval to another position in the Workflow editor                                                                          |
+| Create/remove space tool  | <img src="../.gitbook/assets/image%20(152).png" alt="" data-size="original"> | To create or remove space from any position. It can make 2 node's space further or closer                                               |
+| Global connect tool       | <img src="../.gitbook/assets/image%20(161).png" alt="" data-size="original"> | To make connections between elements in the workflow                                                                                    |
+| Start event symbol        | <img src="../.gitbook/assets/image%20(88).png" alt="" data-size="original">  | Signals the first step of a process.                                                                                                    |
+| Intermediate event symbol | <img src="../.gitbook/assets/image%20(217).png" alt="" data-size="original"> | Represents any event that occurs between a start and end event.                                                                         |
+| End event symbol          | <img src="../.gitbook/assets/image%20(162).png" alt="" data-size="original"> | Signals the final step in a process.                                                                                                    |
+| Create gateway            | <img src="../.gitbook/assets/image%20(58).png" alt="" data-size="original">  | Creates a new gateway that is used to check how a process is going                                                                      |
+| Create task               | <img src="../.gitbook/assets/image%20(246).png" alt="" data-size="original"> | Creates a new node of task                                                                                                              |
+| Create subprocess event   | <img src="../.gitbook/assets/image%20(224).png" alt="" data-size="original"> | Creates a subprocess event                                                                                                              |
+| Data object reference     | <img src="../.gitbook/assets/image%20(109).png" alt="" data-size="original"> | Represents data placed into the process, data resulting from the process, data that needs to be collected, or data that must be stored. |
+| Data store reference      | <img src="../.gitbook/assets/image%20(77).png" alt="" data-size="original">  | Represents the ability to store or access data that’s associated with a business process.                                               |
+| Create Pool/ Participant  | <img src="../.gitbook/assets/image%20(128).png" alt="" data-size="original"> | Creates pool that defines a process or organization                                                                                     |
+| Create group              | <img src="../.gitbook/assets/image%20(2).png" alt="" data-size="original">   | Allows to organize multiple tasks or processes into a group, make it more specific how each of those steps is completed.                |
 
 ### **THE ATTRIBUTE TABLE**
 
 The attribute table is on the right side of the workflow editor, it contains the general and detailed information of the Workflow
 
-![The attribute table](<../.gitbook/assets/image (42).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The attribute table</p></figcaption></figure>
 
 **General:**
 
@@ -54,10 +54,9 @@ The attribute table is on the right side of the workflow editor, it contains the
 
 **Detail:** has detailed information on the full Workflow, helps users can be more specific about the workflow's details, however the following are some of the most often used components:
 
-![Detail section in Workflow editor](<../.gitbook/assets/image (47).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Detail section in Workflow editor</p></figcaption></figure>
 
 * _**Display text for the process instance**_: It displays the name of the workflow that will be displayed in My item, making it easier for users to know what that workflow is for.
 * Data objects: defines a structure of the data
-* Signal definitions:&#x20;
+* Signal definitions:
 * Message definitions:
-

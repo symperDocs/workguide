@@ -24,11 +24,11 @@ Ex: Requirement Workflow
 
 To know this node id, you need to click on that node, then look at the right side bar ([The attribute](workflow-editor.md#the-attribute-table))
 
-<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>id node</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2) (1).png" alt=""><figcaption><p>id node</p></figcaption></figure>
 
 Every time a new node is created, the system will automatically create an ID
 
-<figure><img src="../../.gitbook/assets/image (5) (2) (1) (1).png" alt=""><figcaption><p>ID that the system automatically creates</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption><p>ID that the system automatically creates</p></figcaption></figure>
 
 Now, to get the value from the document in 1 node belonging to Workflow, we use ${`id_node_id_control}`
 
@@ -64,7 +64,7 @@ More references
 
 Ex:
 
-<figure><img src="../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption><p>Flow ConditionWe check whether the creator belongs to the Ba Back Manager department?</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Flow ConditionWe check whether the creator belongs to the Ba Back Manager department?</p></figcaption></figure>
 
 ```
 // select case (select count(id) > 0 

@@ -29,7 +29,7 @@ Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EZjdEZGdqPVDu9JJpJ1zPl
 
 **Example of checkbox:**
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://app.gitbook.com/s/-McNyP8y_A8MZOZl5QPQ/c/2iHl77h3duRLjr1segA3/module-document/document-editor" %}
 DOCUMENT EDITOR

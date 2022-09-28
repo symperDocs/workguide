@@ -53,4 +53,4 @@ Example:[https://ywb69zeduvn.sharepoint.com//s/Symper347/EZ5nb4bmnXVHrzCe0FTdwZE
 
 To auto querying the current user or to search any user from users list:
 
-<figure><img src="../../../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

@@ -52,7 +52,7 @@ There are components that display in the My item's work:
 
 If you click on a work (also known as a workflow instance), it will display the tasks related to that process flow as well as the status of each task.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
 
 If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.
 
@@ -73,7 +73,7 @@ Conversely, when you have authority in the process, for example when it comes to
 
 Similarly, to display all the documents in My Item, go to the filter, then select "Văn bản"
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 The screen will show us all the components of My item's document as below:
 
@@ -102,7 +102,7 @@ The top right corner also has many options for us to do with this document:
 
 When clicking on the information icon, detailed information of a document will be displayed, including: general information, related people and process information as below:
 
-<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption><p>Detailed information of a document</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Detailed information of a document</p></figcaption></figure>
 
 * General information: including who and when the document was created and list of comments below it.
 * Related people: all people that related to the process including the assignee and the candidate users.

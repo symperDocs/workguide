@@ -53,4 +53,4 @@ Example: [https://ywb69zeduvn.sharepoint.com//s/Symper347/EQGWPNxEJkBKlr8ZGHoJKs
 
 To query a list of level 3 products (dsp\_c3) from document Đơn đặt hàng provided that dspc3 is the same as the search term and the planned production period (ky\_kh) is equal to the planning period the user selected above in the document.
 
-<figure><img src="../../../.gitbook/assets/image (104) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>

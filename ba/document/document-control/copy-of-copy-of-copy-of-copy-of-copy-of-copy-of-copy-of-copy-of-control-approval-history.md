@@ -27,7 +27,7 @@ Control Department has type is data input and data type is text.
 
 #### Step 1: Select Orgchart
 
-<figure><img src="../../../.gitbook/assets/image (103) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 Business Analytics selects one org chart from the list of org charts to use as data.
 
@@ -55,11 +55,11 @@ In case there are more than two org chart data clusters returned for display, it
 
 Business Analytics has a configured option to choose multiple or choose one.
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption><p>Choose </p></figcaption></figure>
 
 ## SHOW CONTROL DEPARTMENT
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption><p><em>Show control department on End User screen</em><br></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (91) (1).png" alt=""><figcaption><p><em>Show control department on End User screen</em><br></p></figcaption></figure>
 
 When the End User clicks on the control department, a popup will be displayed and the departments, roles, users. And can choose to display in the form of a treeview.
 

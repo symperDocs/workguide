@@ -69,7 +69,7 @@ The toolbar offers a number of actions, some of them only affecting the currentl
 
 ### **Controls**
 
-![](<../../.gitbook/assets/image (87).png>)![](<../../.gitbook/assets/image (28).png>)\*\*\*\*
+![](<../../.gitbook/assets/image (87).png>)![](<../../.gitbook/assets/image (28) (2).png>)\*\*\*\*
 
 Symper Document provides numerous pre-defined controls which enable you to build rich, beautiful documents. There is a wide range of controls divided into different groups to be used in the configuration of the document.
 

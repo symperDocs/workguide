@@ -43,13 +43,13 @@ Only use when control is set inside of the table, users can choose file is displ
 * When users uploaded a file, users can click icon + to add the file.
 *   Users can download or delete all files uploaded.
 
-    <figure><img src="../../../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 *   A file uploaded can rename, download, or delete.
 
     <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 *   Users can click on a file to see file information: owner, upload date, type, size, length x width.
 
-    <figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (88) (1).png" alt=""><figcaption></figcaption></figure>
 *   When hovering on the file, users can click the buttons: check identification, download, zoom in.
 
     <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>

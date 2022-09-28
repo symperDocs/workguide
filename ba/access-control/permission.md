@@ -14,7 +14,7 @@ Click on the icon '+ Add' in the menu bar.
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the permission, cannot blank.
 

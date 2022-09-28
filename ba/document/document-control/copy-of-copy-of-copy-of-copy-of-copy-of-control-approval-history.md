@@ -46,7 +46,7 @@ Default value is set auto when submitting the document.
 
 #### Display Menu Bar
 
-If ticked, control will show the menu bar allowing the user to format values when submitting the document.![](<../../../.gitbook/assets/image (49) (2).png>)
+If ticked, control will show the menu bar allowing the user to format values when submitting the document.![](<../../../.gitbook/assets/image (49).png>)
 
 | Properties                    | Describe                                                                                                                      |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ If ticked, control will show the menu bar allowing the user to format values whe
 | 2. Bold                       | Make text bold.                                                                                                               |
 | 3. Italic                     | Italicize text.                                                                                                               |
 | 4. Underline                  | Underline text.                                                                                                               |
-| 5. Text color                 | Change the color of text.![](<../../../.gitbook/assets/image (99) (1).png>)                                                   |
+| 5. Text color                 | Change the color of text.![](<../../../.gitbook/assets/image (99).png>)                                                       |
 | 6. Background color           | Make text pop by highlighting it in a bright color.                                                                           |
 | 7. Insert image               | Insert pictures from the user's computer.                                                                                     |
 | 8. Table                      | Add a table, a table is a great way to organize information.![](<../../../.gitbook/assets/image (56).png>)                    |

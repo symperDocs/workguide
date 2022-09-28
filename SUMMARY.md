@@ -37,7 +37,7 @@
   * [DOCUMENT](ba/document/README.md)
     * [Document overview](ba/document/document-overview.md)
   * [WORKFLOW](ba/workflow/README.md)
-    * [Wokflow Overview](ba/workflow/wokflow-overview.md)
+    * [Workflow Overview](ba/workflow/wokflow-overview.md)
     * [Workflow Editor](ba/workflow/workflow-editor.md)
     * [Workflow Notation](ba/workflow/workflow-notation.md)
     * [Workflow Variable](ba/workflow/workflow-variable.md)

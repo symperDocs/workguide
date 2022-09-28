@@ -38,7 +38,7 @@ Specifically, the components of the My item display include:
 
 To view each Workflow instance, we will first click to the My Item section on the lefft and then use the filter to select the "Công việc" section to display all of the Workflow instances we require to view
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (2) (1) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
 
 There are components that display in the My item's work:
 

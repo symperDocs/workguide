@@ -36,7 +36,7 @@ NOTE:
 * Syntax 'uuid\_generate\_v4()' is fixed
 *   Don't have row 'RETURNING ....' like upon syntax
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Auto returing document number (makePrimaryKey)
 

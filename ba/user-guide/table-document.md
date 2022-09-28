@@ -18,7 +18,7 @@ To pin the location of important columns, the user do the following:
 
 <figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24) (2).png>)![](<../../.gitbook/assets/image (18) (2).png>)
+**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (6) (5) (2).png>)![](<../../.gitbook/assets/image (18) (2).png>)
 
 **Step 3:** Hover over the pin column and select the battery left or right depending on the need
 
@@ -32,7 +32,7 @@ Watch the sample manipulation video at the link below:
 
 ### _**3. Use case: Hide unimportant columns of information (\*)**_
 
-**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (9).png>)
+**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (24) (2) (1).png>)
 
 **Step 2:** The interface appears and taps the second tab with the icon as shown ![](../.gitbook/assets/5)
 
@@ -88,11 +88,11 @@ Watch the sample manipulation video at the link below:
 
 **Step 1:**
 
-Filtering information in columns, the user taps the icon  ![](<../../.gitbook/assets/image (6) (5).png>)as shown below.
+Filtering information in columns, the user taps the icon ![](<../../.gitbook/assets/image (24) (2).png>)as shown below.
 
 <figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption><p><em>Figure 8.12. Selection screen to interact with each column</em></p></figcaption></figure>
 
-**Step 2:** Tap the funnel icon Then, the interface to interact with each column will appear:&#x20;
+**Step 2:** Tap the funnel icon Then, the interface to interact with each column will appear:
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><em>Figure 8.13. Interface for users to perform column-by-column filtering</em></p></figcaption></figure>
 

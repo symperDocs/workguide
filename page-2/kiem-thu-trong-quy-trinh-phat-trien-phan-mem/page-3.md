@@ -2,13 +2,13 @@
 description: Duyenntm
 ---
 
-# Test Types
+# Test type
 
 ## 1. Test Type là gì?
 
 **Test Type** có thể được hiểu là sự phân loại các hoạt động kiểm thử theo mục đích, chiến thuật kiểm thử. Mỗi Test Type sẽ gắn với một mục tiêu kiểm thử nhất định.
 
-![](<../.gitbook/assets/image (16).png>)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Trong kiểm thử phần mềm được chia thành 4 loại:
 
@@ -23,7 +23,7 @@ Trong kiểm thử phần mềm được chia thành 4 loại:
 
 **Kiểm thử chức năng** là kiểm tra xem hệ thống có hoạt động theo đúng theo các yêu cầu nghiệp vụ không? Kiểm thử chức năng được thực hiện ở tất cả các mức kiểm thử.
 
-**Kiểm thử chức năng có thể được thực hiện từ 2 góc nhìn:**&#x20;
+**Kiểm thử chức năng có thể được thực hiện từ 2 góc nhìn:**
 
 _Dựa trên yêu cầu:_
 

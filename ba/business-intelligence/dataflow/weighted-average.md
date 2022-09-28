@@ -8,7 +8,7 @@ A weighted average can be more accurate than a simple average in which all numbe
 
 ### Weighted average formula
 
-![](<../../.gitbook/assets/image (146).png>)
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Example
 
@@ -46,7 +46,6 @@ To narrow down the problem complication, Symper use the **Linear Algebra** to so
 
 The set of equation:
 
-![](<../../.gitbook/assets/image (40).png>)
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Using **Cramer's rule** to solve set of equation ([you can find more detail of cramer's rule here](https://en.wikipedia.org/wiki/Cramer's\_rule)).
-

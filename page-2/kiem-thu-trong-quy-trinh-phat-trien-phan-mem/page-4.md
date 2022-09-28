@@ -1,6 +1,6 @@
 # Test level
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Tách riêng từng phần để kiểm tra và chứng minh các thành phần đó thực hiện chính xác các yêu cầu chức năng trong đặc tả.
 * Lỗi được sửa sớm trong chu trình phát triển phần mềm vì vậy tiết kiệm thời gian và chi phí sửa lỗi.
@@ -39,7 +39,7 @@ Thường là developer thực hiện
 
 Theo cách này, tất cả các thành phần được tích hợp với nhau cùng một lúc và sau đó được kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Ưu điểm:**&#x20;
 
@@ -56,7 +56,7 @@ Theo cách này, tất cả các thành phần được tích hợp với nhau c
 
 Trong Phương pháp Top Down, việc kiểm thử diễn ra từ trên xuống dưới theo luồng điều khiển của hệ thống phần mềm. Lúc này, sẽ cần tới sự hỗ trợ của Stubs trong việc kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 **Ưu điểm**
 
@@ -73,7 +73,7 @@ Trong Phương pháp Top Down, việc kiểm thử diễn ra từ trên xuống 
 
 Trong Phương pháp Bottom up, mỗi mô-đun ở các cấp thấp hơn được kiểm tra với các mô-đun cao hơn cho đến khi tất cả các mô-đun được kiểm tra. Lúc này, sẽ cần tới sự hỗ trợ của Driver trong việc kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ Phương pháp sandwich / hybrid là sự kết hợp của phương pháp Top D
 
 Phương pháp sandwich / hybrid là sự kết hợp của phương pháp Top Down và bottom up. Ở đây, các mô-đun hàng đầu được kiểm tra với các mô-đun thấp hơn đồng thời các mô-đun thấp hơn được tích hợp với các mô-đun hàng đầu và được kiểm thử. Chiến lược này sử dụng cả Stubs cũng như Drivers.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ###
 

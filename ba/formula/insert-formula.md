@@ -20,7 +20,7 @@ NOTE:
 * Must have row 'RETURNING .....'
 *   Syntax 'uuid\_generate\_v4()' is fixed
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 \+ Insert into data in table
 

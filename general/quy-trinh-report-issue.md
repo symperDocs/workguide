@@ -39,7 +39,7 @@ Mô tả luồng kế thừa và thiết kế của doc khai báo issue:
 
 Quy trình báo cáo và tiếp nhận issue tại&#x20;
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 
 

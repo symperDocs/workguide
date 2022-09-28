@@ -23,7 +23,7 @@ Ví dụ: Với ứng dụng QC của Symper
 
 <figure><img src="../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption><p>Màn hình doc khai báo issue của Symper</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Phương án
 
@@ -37,7 +37,7 @@ Mô tả luồng kế thừa và thiết kế của doc khai báo issue:
 
 Quy trình báo cáo và tiếp nhận issue tại
 
-<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Data
 

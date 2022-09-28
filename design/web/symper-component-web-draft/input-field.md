@@ -22,7 +22,7 @@ Một số lưu ý khi thiết kế input:
     <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 *   Để độ dài của input tương ứng với nội dung
 
-    <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Thiết kế
 

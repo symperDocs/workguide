@@ -56,7 +56,7 @@ Theo cách này, tất cả các thành phần được tích hợp với nhau c
 
 Trong Phương pháp Top Down, việc kiểm thử diễn ra từ trên xuống dưới theo luồng điều khiển của hệ thống phần mềm. Lúc này, sẽ cần tới sự hỗ trợ của Stubs trong việc kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (6).png" alt=""><figcaption></figcaption></figure>
 
 **Ưu điểm**
 
@@ -73,7 +73,7 @@ Trong Phương pháp Top Down, việc kiểm thử diễn ra từ trên xuống 
 
 Trong Phương pháp Bottom up, mỗi mô-đun ở các cấp thấp hơn được kiểm tra với các mô-đun cao hơn cho đến khi tất cả các mô-đun được kiểm tra. Lúc này, sẽ cần tới sự hỗ trợ của Driver trong việc kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Các mô-đun quan trọng (ở cấp cao nhất của kiến trúc phần mềm) mà kiểm soát luồng ứng dụng được kiểm tra cuối cùng và có thể dễ bị lỗi.
 * Xây dựng một bản mẫu (prototype) ngay từ ban đầu - là một điều không thể
@@ -89,7 +89,7 @@ Phương pháp sandwich / hybrid là sự kết hợp của phương pháp Top D
 
 Phương pháp sandwich / hybrid là sự kết hợp của phương pháp Top Down và bottom up. Ở đây, các mô-đun hàng đầu được kiểm tra với các mô-đun thấp hơn đồng thời các mô-đun thấp hơn được tích hợp với các mô-đun hàng đầu và được kiểm thử. Chiến lược này sử dụng cả Stubs cũng như Drivers.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 ###
 

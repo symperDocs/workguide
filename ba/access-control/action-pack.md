@@ -16,7 +16,7 @@ Go to "Applications", select 1 or more applications to authorize. After selectin
 
 The list of objects in the application appears, the creator just needs to tick the action that wants to be authorized for the object, for example, create, view, edit, delete, ... The actions you have authorized will automatically appear in the corresponding items in the left sidebar.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (3).png" alt=""><figcaption></figcaption></figure>
 
 In addition, we can assign detailed permissions to objects that document, document instance without permissions.
 
@@ -30,7 +30,7 @@ Before saving, please pay attention to entering the name and description for thi
 
 Note: To add a filter to a text object, click the icon at "Filter configuration" to set it. "Select action" to select one or more actions corresponding to the filter. Creators can choose filters in the box below. To add a new filter profile, select "Add a filter profile" and repeat the same. Click "Save" to save the configuration.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="filter.md" %}
 [filter.md](filter.md)

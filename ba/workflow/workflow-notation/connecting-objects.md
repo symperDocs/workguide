@@ -34,7 +34,7 @@ Depicts messages that flow across “[pools](swimlanes.md),” or organization b
 
 Shown with a dotted line, it associates an artifact or text to an event, activity or gateway.
 
-<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ Click to task node or [pool](swimlanes.md) and select flow icon
 
 <figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (2) (1).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
 Then click on the node or pool you need to connect
 
@@ -78,17 +78,17 @@ Then click on the node or pool you need to connect
 
 Click to the [Artifact](artifacts.md) (Data object, store,...) and select flow
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then click on the task node you need to connect
 
-<figure><img src="../../../.gitbook/assets/image (14) (4).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Connect to Task Node</p></figcaption></figure>
 
 ### Default
 
 Click to flow
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (2) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1) (2).png" alt=""><figcaption><p>Flow</p></figcaption></figure>
 
 Then select Default Flow
 

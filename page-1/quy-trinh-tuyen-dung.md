@@ -96,7 +96,7 @@ Hiện tại Symper tổ chức phỏng vấn qua một trong hai hình thức:
   BNS có trách nhiệm thông báo lịch phỏng vấn chi tiết cho ứng viên qua mail với format như hình:\
   \\
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 \-Cách thức: Interviewers có thể là quản lý cấp C, mentor hoặc senior...được chỉ định tham gia phỏng vấn đặt các câu hỏi hoặc bài test (tham khảo bộ câu hỏi có sẵn) để đánh giá ứng viên qua các tiêu chí ( tham khảo bộ tiêu chí đánh giá ứng viên)
 

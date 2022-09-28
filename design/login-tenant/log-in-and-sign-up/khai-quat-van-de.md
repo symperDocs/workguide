@@ -10,24 +10,24 @@ Người dùng sau khi đăng ký hay tạo tài khoản sẽ thực hiện quá
 
 Qua trình này có thể nhìn thấy rõ ở một số ứng dụng có hệ thống App store lớn như Jira, Click up.
 
-[Video sign up Jira ](https://www.loom.com/share/a8215e84cf6347659c3d4d6608d8ef26)
+[Video sign up Jira](https://www.loom.com/share/a8215e84cf6347659c3d4d6608d8ef26)
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 [Video sign up Click up](https://www.loom.com/share/7a61558e9a3244de9947720b62cd518b)
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ## Competitor
 
 * [Appian](https://community.appian.com/b/appmarket?tags=KPMG%20LLP)
 * Base
-* [Zoho](https://www.zoho.com/creator/apps/?src=hdd&zredirect=f)
+* [Zoho](https://www.zoho.com/creator/apps/?src=hdd\&zredirect=f)
 * [Kissflow](https://kissflow.com/)
-* [Mendix](https://guidance.mendix.com/) \([Video](https://www.loom.com/share/8cf5246f60674e62a9109e72ff235370)\)
+* [Mendix](https://guidance.mendix.com/) ([Video](https://www.loom.com/share/8cf5246f60674e62a9109e72ff235370))
 
 ## Một số báo cáo về thị trường
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

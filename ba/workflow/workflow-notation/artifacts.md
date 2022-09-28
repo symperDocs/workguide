@@ -10,7 +10,7 @@ A Data Object represents information flowing through the process, such as busine
 
 A Data Object shows what data is necessary for an activity.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Data Object</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (5).png" alt=""><figcaption><p>Data Object</p></figcaption></figure>
 
 ### Data Store
 
@@ -18,7 +18,7 @@ A Data Store is a place where the process can read or write data.
 
 Example: A database or a filing cabinet. It persists beyond the lifetime of the process instance.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Data Store</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (3).png" alt=""><figcaption><p>Data Store</p></figcaption></figure>
 
 ### Group
 
@@ -26,7 +26,7 @@ A group shows a logical grouping of activities but doesnâ€™t change the diagramâ
 
 Like all artifacts, group do not influence execution semantics, so don't confuse them with things like subprocesses. You can apply groups any way you like - even across pool boundaries. Groups can be extremely useful for making off parts of your models to which only certain convention apply
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Group</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (5).png" alt=""><figcaption><p>Group</p></figcaption></figure>
 
 ### Annotation
 
@@ -34,7 +34,7 @@ An annotation provides further explanation to a part of the diagram.
 
 We use notation to supplement your diagram. Annotations can contain almost anything you find useful, and you can connect element with associations. Usually, we use annotations to provide insight
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Annotation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28) (3).png" alt=""><figcaption><p>Annotation</p></figcaption></figure>
 
 ## Configuration
 
@@ -56,4 +56,4 @@ To use [Annotations](artifacts.md#annotation), it can be used for any object by 
 
 Then type here
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>

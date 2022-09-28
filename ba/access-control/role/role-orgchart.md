@@ -18,7 +18,7 @@ Users can decentralize by click-right on the role org chart.
 
 Select permission packs were configured.
 
-<figure><img src="../../../.gitbook/assets/image (14) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 For more details about the role org-chart, click the link below:
 

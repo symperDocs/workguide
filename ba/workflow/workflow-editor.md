@@ -2,7 +2,7 @@
 
 Workflow is a method that describes the steps of a planned business process from end to end. It allows for easier communication and collaboration to reach the goal of an efficient process that produces a high-quality result. To create or edit a workflow, we use a workflow editor. In the workflow editor, there are 3 main elements each has different functions: the toolbar, the palette, and the attribute table as below:
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Workflow editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption><p>Workflow editor</p></figcaption></figure>
 
 ### **THE** TOOLBAR
 

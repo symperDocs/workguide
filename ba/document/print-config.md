@@ -1,89 +1,47 @@
-# Print config
+---
+description: 'Writter: Yenqt'
+---
 
-## FileOVERVIEW
+# Print Config
 
-Document is one of four main element modules of symper platform. It was originally designed to provide access, analysis and storage data for your web apps. You can use simple drag & drop to design the form's appearance and basic SYQL to create a comprehensive data model, calculation and user experience logic.
+## OVERVIEW
 
-## **FEATURE**
+Due to the differences between screen size and paper size, the document displayed in Symper platform might not be the same as it does in a paper. Therefore, before printing or saving a document instance as PDF, users can config print the form for that document.&#x20;
 
-### **EDITOR**
+## **How to config print format for a Symper Document**
 
-#### Control <a href="#control" id="control"></a>
+First, when you reach the Symper document show list, right-click to the document that needs print-configuring then choose option 7th: ‘Print configuration’.
 
-| Control          | Type   | Data type  |
-| ---------------- | ------ | ---------- |
-| **Label**        | View   | Text       |
-| Imange           | View   | Img        |
-| QRcode           | View   | Text       |
-| Text put         | Input  | Text       |
-| Rich text        | Input  | Text       |
-| Number           | Input  | **Number** |
-| Date             | Input  | Date       |
-| Date time        | Input  | Date time  |
-| Time             | Input  | Time       |
-| Select           | Input  | T          |
-| Combo bo         | Input  | Text       |
-|                  | Input  | Text       |
-| Radio            | Input  | Text       |
-| Check box        | Input  | 1/0        |
-| Percent          | Input  | Number     |
-| User             | Input  | Text       |
-| Input filter     | Input  |            |
-| Primary          | Input  |            |
-| Table            | Layout |            |
-| Panel            | Layout |            |
-| File upload      | Layout |            |
-| Tab/page         | Layout |            |
-|                  |        |            |
-| Approval history | Report |            |
-|                  |        |            |
+![](https://lh6.googleusercontent.com/ih7tRXdbUoEdLJw8RU1DpOclur\_LUnSvT4gch2-\_ESXhRvbFr37w31qjaCMMm83J2PMQFe6KoCGVZEViR5D6c4rv2r-3e\_9uGpl0uaFYmFrZXxlG-LVJXtyI2gMYoUkjUVQTXUbw)
 
+The document print config chosen will appear, however, remember that you are not editing the document but configuring print form. All the changes in terms of properties, formulas, etc... will not be saved. Only configurations in print form are saved and effective.
 
+For margin configuration, expand the toolbar at the top of the canvas then click the icon:’ <img src="https://lh3.googleusercontent.com/z1xprJh43nK4ZvNecfWjbEjwGa--Z6rKdTjVv7A69tA4J4j3s-05myb4awnKVYmq5T_wXwjkclZuItGdJMgM0CfKKSWwQiSlEYVHQi1qjF4WUmOzDrvMTH83ye99uGBN61DBvIvU" alt="" data-size="line">’.
 
-* Width (px)
-* Height (px)
-* Text size
-* Text color
-* Hidden
-* Read only
-* Place holder
-* Important
+![](<../.gitbook/assets/image (145).png>)
 
-Validate
+![](https://lh5.googleusercontent.com/VN6u9dRaHo39HTcr0GBFoslI9Pbt8rWXhb-QTqb9aFVjaoRWVBnWMlZKAVcGrP0ILzLs7eCosdQ\_3GJe2v2REv\_7Qx80OV0G8OkiYzCchOTFWoM0nDDMFw-b7FwuiFBhzpr64W91)
 
-* Max length
-* Min length
-* Require
-* Require change
-* DB primary
-* Table primary
+**Step 1:** Users can customize the margin of the document as demand, including top margin, bottom margin, left margin, and right margin. When all is done, click ‘Set:<img src="https://lh4.googleusercontent.com/YhCMVVQfv7v1Lxjjhe2tpa1edjGG7ekyZNWe7AvXrCL9jOq9Ht6gWfCPWVrBOeT9rT-vkh_twhj9uuQLlpDKNPYTM8Y59ddgTSOGSdKSXhAPq50E28oJyA_YPu_s2UqbRXKH4uBD" alt="" data-size="line"> ’ to save margin configuration.
 
-Data
+**\*\*\*Note: Tables have to be configured for good print form.**&#x20;
 
-* Input data
-* Default data
-* Key cache in table
-* Data array type
-* Save data
+**Step 2:** Right-click to anywhere in the table then choose ‘Table properties’ to set width and height for the selected table. The default unit is pixel (px), however, users can enter relative values by adding the suffix ‘%’ after value. For example, width: 100%, height: 100%.
 
-Action
+![](https://lh6.googleusercontent.com/kgpwn5\_T2uIC9ZE1I5JpLxdAsFTCIEgYWIcxATbb-UkDfKA2NWHKHFQzQSYdRe4NJhGwhu7ZPSiUKDBRiyatXkvSHj8Te1fX8MC6ExXnktlqTtvCva0oBhWFAfuggMAeb5f3dzEp)
 
-* Refresh data
-* Quick submit
+**Step 3:** Right-click to anywhere in the table then choose ‘Setting table’ to set width for each control/column in the table, providing that the sum of all control widths be equal to the total table width.
 
-### **CONCEPT**
+![](https://lh5.googleusercontent.com/zmNbhe2Og3ANdlOERZ668Cw7QzXO4jSPGDxE-DjgdjPV16wdhcZ3b22WKcGz5Hq7D9jWIY9HgC6Tx5U7NocZtWUrPez1T1M4-sro\_bFJcz2vDqoie6uhPB87AZRBRVt7on03HZeR)
 
-Document is a place to collect, store and provide input from end users to other Symper modules. For instance, document will be an input data resource for the BI module to get the data to show on the report.
+**Step 4:** After finishing print configuration, you can save all your configurations and changes by click  “Save” button on the upper right corner of the form: <img src="https://lh4.googleusercontent.com/T6Ktfx56DLpGIia_TH8vad7HVC-xq8lx6O4HcJhkF8da98Pd73kfR6p3ZxImIha_kAcGSBjSvu9g-9h8So3oeGI6wUWOMHYcsM2sIgzTvylSXqP_gvTwO4nAZltz79ToGFNxhUU3" alt="" data-size="line"> and create a name for your print version before saving it.
 
-### DISTINGUISH DOCUMENT DEFINITION & DOCUMENT INSTANCE
+![](<../.gitbook/assets/image (79).png>)
 
-#### Document definition
+**Step 5:** To edit, delete or choose which print format is used when printing the selected document, please go to the show list of documents then right-click to the 8th option: “Print list”. A list of existing print configurations appears, again right-click to interact with the selected print format.
 
-Document definition is the document created after the BA creates it through Symper's Document module. After each time the end user enters and submits that document, the system will create a document instance that is exactly the same as the information that the user submitted.
+![](https://lh6.googleusercontent.com/ih7tRXdbUoEdLJw8RU1DpOclur\_LUnSvT4gch2-\_ESXhRvbFr37w31qjaCMMm83J2PMQFe6KoCGVZEViR5D6c4rv2r-3e\_9uGpl0uaFYmFrZXxlG-LVJXtyI2gMYoUkjUVQTXUbw)
 
-The document definition enables you to access the attributes returned by the custom actions or connectors and use these attributes as an input or output within a process.
+![](https://lh4.googleusercontent.com/gzLuy-Bfl2QXM3emCPKDsamKmV93jikx1ou\_Ed2h095KqaNAJRySflaG4izFQI7IJSZy35KQFuDgi8gemnI7H0aU9HOwHXAwzs7QobJECf9khBabJ6LmF2a0N3nQvmr8YQYQBuwX)
 
-#### Document instance
-
-A document instance is the data created by the application for which the structure is specified by the _document definition_. You can create a document instance whenever submitting a document or running a Workflow
-
+## ****

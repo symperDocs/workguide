@@ -78,7 +78,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **High Level Requirement**
 
@@ -146,7 +146,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **B3: Team BA và team DEV sẽ chốt req để đưa vào sprint phân công cho từng DEV và BA phụ trách từng đầu req**
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 **B4: Track những req đã hoàn thành trong sprint để team QA, QC tạo kịch bản kiểm thử (Test Scenario)**
 

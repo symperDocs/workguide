@@ -23,7 +23,7 @@ description: Kaban
 
 **Step 3.** Click on the voucher you want to see the kanban, select “**Kanban**”
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## HOW TO CREATE 1 KANBAN
 
@@ -33,15 +33,15 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 2**. After the screen shows the list of kanbans, click “**Add**”
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**. At Step 2, select the control in the document whose value will be the columns in the Kanban. Enter the name and value in the selected control for each column. Columns can be added/removed if needed, but each Kanban requires a minimum of 2 columns.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** In Step 3 of Create kanban, drag and drop columns and arrows between them in the canvas showing the direction that allows dragging cards back and forth between them. It is required to name the stateflow to serve the Access Control part. If you do not set anything here, it will default to all cards being dragged freely between all columns.
 
@@ -75,13 +75,13 @@ Update data:&#x20;
 * Control **Actual Time** does not generate data by itself, requiring input before dragging and dropping.&#x20;
 *   Each card when dragged to the DONE column will have the total execution time of the child- tasks below it into the NEW DURATION and the latest completion date of all its child-tasks into the NEW END DATE.
 
-    <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### KANBAN ISSUE TRACKING
 
 Bug tracking and testing status reported bugs
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag and Drop:&#x20;
 
@@ -102,7 +102,7 @@ Update data:&#x20;
 
 To track requirements and their status.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag and drop:
 
@@ -122,7 +122,7 @@ Update data:
 
 **Step 1**. Click on the 3 vertical dots in the column you want to filter, select "**Filter column**".
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2.** Configure the filter according to your needs, then click "**Apply**" to apply the filter.
 
@@ -130,7 +130,7 @@ Update data:
 
 **Step 1**. To create a filter that applies to all columns in the kanban, click the filter icon in the upper right corner of the screen, then click "**Add**"
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**. Configure the filter according to your needs and click "**Apply**" to apply. You can also give it a name and click the tick to save this current filter for reuse.
 
@@ -140,13 +140,13 @@ Update data:
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 
 To edit the card, go to View details then click "**Edit**". Or you can click the 2 dots in the corner of each card and click "**Edit**". After finish editing, click "**Save**" to save the changes.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 

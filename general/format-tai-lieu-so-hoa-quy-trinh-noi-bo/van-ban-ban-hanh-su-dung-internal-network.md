@@ -6,7 +6,7 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.1. Project:** dùng để quản lý các công việc liên quan đến quản lý dự án
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **I.2. Symper Daily:** dùng để quản lý, theo dõi ngày làm việc cũng như công việc trong ngày của các thành viên trong team&#x20;
 
@@ -18,7 +18,7 @@ Sau khi xây dựng các quy trình, báo cáo phục vụ cho việc quản lý
 
 **I.4. Quality Control:** dùng để quản lý các công việc liên quan đến nghiệp vụ của QC
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
 
 **I.5. Service and Platform Control:** dùng để theo dõi các phiên bản code kèm thay đổi chi tiết của các module, service và cả platform qua từng giai đoạn
 

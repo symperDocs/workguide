@@ -34,7 +34,7 @@ Now, to get the value from the document in 1 node belonging to Workflow, we use 
 
 To find the id control of a [document](broken-reference/), you need to open the [document editor](../document/document-editor.md), you need to go to The Attribute of the first node and expand Task Action
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>From Reference</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>From Reference</p></figcaption></figure>
 
 Ex:
 

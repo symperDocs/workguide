@@ -10,7 +10,7 @@ To view the list of existing relation, first, click on "Report" then choose "Lis
 
 The screen will show you these components as below:
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>List relation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>List relation</p></figcaption></figure>
 
 1. **ID:** The ID of every relation, each relation has a unique ID.
 2. **Name:** The name of the relation. They are always lowercase and without spaces, joined by underscores. The created time: The time that the dataset was created

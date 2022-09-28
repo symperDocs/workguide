@@ -65,7 +65,7 @@ Similar to Multi instance but without using different data sets. Repeat the edit
 
 <figure><img src="../../../.gitbook/assets/image (13) (4) (1).png" alt=""><figcaption><p>A Sub-Process object with a Standard Loop Marker</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2) (1).png" alt=""><figcaption><p>Loop task</p></figcaption></figure>
 
 ### **Ad hoc**
 
@@ -209,7 +209,7 @@ This formula sends a notification to a designated person with content in the Tit
 
 \- If choose “Set variables”, you will have to need to fill the table below.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the "Name" column, fill in the variable name you want to reset or change the value. For example, if you want to reset the variables "pnh\_sct" and "pgh\_sct" to null value, set the "Value" column blank. Do not fill "null" in the "Value" column or those variables will change into "null" in text. Besides, remember to use the “Set variables” function of Service Task before node User Task in order to take action to activate the changing of variables. If not, those variables will not be set to the value you want.
 

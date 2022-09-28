@@ -30,7 +30,7 @@ Click on any dataset you want to view or edit and select "**Sửa**", it will ta
 
 If you want to recover a dataset that you deleted, just go to "**Báo cáo**" again, click "**Danh sách dataset đã xóa**", then select in the list the dataset that you need to recover, right-click and select " **Khôi phục**".
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
 
 ## **Steps to select dataset and document:**
 

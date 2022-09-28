@@ -46,7 +46,7 @@ Then drop to canvas section
 
 <figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Data Object</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Data Store</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (6).png" alt=""><figcaption><p>Data Store</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (9) (5).png" alt=""><figcaption><p>Group</p></figcaption></figure>
 

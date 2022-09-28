@@ -8,7 +8,7 @@ description: Duyenntm
 
 **Test Type** có thể được hiểu là sự phân loại các hoạt động kiểm thử theo mục đích, chiến thuật kiểm thử. Mỗi Test Type sẽ gắn với một mục tiêu kiểm thử nhất định.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (6).png" alt=""><figcaption></figcaption></figure>
 
 Trong kiểm thử phần mềm được chia thành 4 loại:
 

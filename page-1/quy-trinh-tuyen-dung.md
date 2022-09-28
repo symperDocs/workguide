@@ -29,7 +29,7 @@ Các bước tuyển dụng nhân viên mới:
 
 Ma trận phân nhiệm theo role của quá trình tuyển mới:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ma trận phân nhiệm tuyển mới theo role</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ma trận phân nhiệm tuyển mới theo role</p></figcaption></figure>
 
 #### Bước 1: Xác định nhu cầu tuyển dụng
 
@@ -96,7 +96,7 @@ Hiện tại Symper tổ chức phỏng vấn qua một trong hai hình thức:
   BNS có trách nhiệm thông báo lịch phỏng vấn chi tiết cho ứng viên qua mail với format như hình:\
   \\
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 \-Cách thức: Interviewers có thể là quản lý cấp C, mentor hoặc senior...được chỉ định tham gia phỏng vấn đặt các câu hỏi hoặc bài test (tham khảo bộ câu hỏi có sẵn) để đánh giá ứng viên qua các tiêu chí ( tham khảo bộ tiêu chí đánh giá ứng viên)
 

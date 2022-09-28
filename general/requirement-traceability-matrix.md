@@ -32,7 +32,7 @@ Requirement Traceability Matrix là một tài liệu dưới dạng bảng (or 
     <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   Bi-directional traceability (Truy xuất nguồn gốc hai chiều): Đảm bảo rằng tất cả các yêu cầu được bao phủ trong các test case, phân tích tác động của sự thay đổi trong các yêu cầu bị ảnh hưởng bởi lỗi trong sản phẩm và ngược lại.​​
 
-    <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Lợi ích:
 
@@ -88,10 +88,11 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **Các thực thể có trong database, và mối quan hệ giữa chúng với nhau.**
 
-****
+***
 
-**Mô hình ERD**\
-****
+**Mô hình ERD**\\
+
+***
 
 #### **Workflow Diagram**
 
@@ -113,17 +114,17 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **VD**
 
-| Business requirement | Module name                      | User role                                                                    | Description                                                                                                                                                                                                                                                                                                                             |
-| -------------------- | -------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **BR1**              | **Application Login and Logout** | <p><strong>Student, Professor, Dean, Staff</strong><br></p>                  | <p><strong>Một sinh viên có thể đăng nhập bằng tên người dùng và mật khẩu chính xác chỉ khi vai trò người dùng được chọn là 'Sinh viên'. Tương tự, áp dụng cho vai trò người dùng là Giáo sư, Trưởng khoa và Nhân viên.</strong><br></p>                                                                                                |
-| BR2                  | Profile page                     | <p><strong>Student, Professor, Dean, Staff</strong><br><strong></strong></p> | <p><strong>Sinh viên, Giáo sư, Trưởng khoa và Nhân viên khi đăng nhập thành công có thể thấy chi tiết hồ sơ của họ chứ không phải các hồ sơ khác.</strong><br></p>                                                                                                                                                                      |
-| BR3                  | Task Assignment                  | **Student, Professor, Dean, Staff**                                          | <p><strong>Sinh viên có thể chấp nhận hoặc từ chối các bài tập do Giáo sư giao. Trưởng khoa có thể chấp thuận và không chấp thuận nhiệm vụ được giao bởi giáo sư. Giáo sư có thể phê duyệt và từ chối bài tập do Sinh viên nộp. Nhân viên phải nắm bắt điểm và điểm do giáo sư đệ trình đối với bài tập của sinh viên.</strong><br></p> |
+| Business requirement | Module name                      | User role                                                   | Description                                                                                                                                                                                                                                                                                                                             |
+| -------------------- | -------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **BR1**              | **Application Login and Logout** | <p><strong>Student, Professor, Dean, Staff</strong><br></p> | <p><strong>Một sinh viên có thể đăng nhập bằng tên người dùng và mật khẩu chính xác chỉ khi vai trò người dùng được chọn là 'Sinh viên'. Tương tự, áp dụng cho vai trò người dùng là Giáo sư, Trưởng khoa và Nhân viên.</strong><br></p>                                                                                                |
+| BR2                  | Profile page                     | <p><strong>Student, Professor, Dean, Staff</strong><br></p> | <p><strong>Sinh viên, Giáo sư, Trưởng khoa và Nhân viên khi đăng nhập thành công có thể thấy chi tiết hồ sơ của họ chứ không phải các hồ sơ khác.</strong><br></p>                                                                                                                                                                      |
+| BR3                  | Task Assignment                  | **Student, Professor, Dean, Staff**                         | <p><strong>Sinh viên có thể chấp nhận hoặc từ chối các bài tập do Giáo sư giao. Trưởng khoa có thể chấp thuận và không chấp thuận nhiệm vụ được giao bởi giáo sư. Giáo sư có thể phê duyệt và từ chối bài tập do Sinh viên nộp. Nhân viên phải nắm bắt điểm và điểm do giáo sư đệ trình đối với bài tập của sinh viên.</strong><br></p> |
 
-****
+***
 
 * **B2: BA chia nhỏ, liệt kê Req cho từng project vào doc req của Symper**
 
-&#x20;           **(Req. ID & Description)**
+**(Req. ID & Description)**
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -150,7 +151,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 
 **B4: Track những req đã hoàn thành trong sprint để team QA, QC tạo kịch bản kiểm thử (Test Scenario)**
 
-**VD:**&#x20;
+**VD:**
 
 **TS1: Kiểm tra chức năng đăng nhập**
 
@@ -159,8 +160,6 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 | **SR4** | TS1   | TC1   | Đăng nhập thành                                                           |
 | SR5     | TS1   | TC2   | **Đăng nhập không thành công do tên người dùng và mật khẩu không hợp lệ** |
 | SR6     | TS1   | TC3   | **Đăng nhập không thành công do vai trò người dùng không hợp lệ**         |
-
-
 
 **QC viết test case và thực hiện test case trên doc của hệ thống symper (doc 2230):**
 
@@ -185,7 +184,7 @@ https://www.perforce.com/resources/alm/requirements-traceability-matrix
 **Ví dụ:**
 
 * Trạng thái Req đều là TO-DO (Tức req chưa được hoàn thành) nhưng đều đã có Test Case => Sai về mặt logic. Truy xuất đến trạng thái là do chưa cập nhật hay là thực tế đang TO-DO mà QC đã test
-* có một số Test Case không có requirement ID => Lí do k có req id là gì: QC test những chức năng không được lên req cụ thể trên hệ thống mà dựa vào kịch bản được dựng trước để có thể bao phủ toàn bộ module&#x20;
+* có một số Test Case không có requirement ID => Lí do k có req id là gì: QC test những chức năng không được lên req cụ thể trên hệ thống mà dựa vào kịch bản được dựng trước để có thể bao phủ toàn bộ module
 * Ở ô Cycle sẽ cho biết req này đang phải xử lý Test case quá nhiều lần (2, 3, 4,...) => Cần kiểm tra req xem có vấn đề gì không,.... dựa vào báo cáo truy ra được là của BA nào lên req và của DEV nào đang code, có bị conflict nhau không?
 * Số lượng bug lặp lại ở req,.... updating, bổ sung vào ver 2
 

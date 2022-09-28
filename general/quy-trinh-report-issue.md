@@ -6,8 +6,6 @@ Trong quá trình triển khai, việc thống kê và trao đổi các vấn đ
 
 Module hỗ trợ triển khai phục vụ giúp BA trở thành bộ lọc các vấn đề trước khi đẩy về team phát triển sản phẩm.
 
-
-
 ## Các issue phát sinh
 
 Trong quá trình triển khai sẽ có một số các trường hợp sau phát sinh từ phía khách hàng:
@@ -29,7 +27,7 @@ Ví dụ: Với ứng dụng QC của Symper
 
 ## Phương án
 
-### Document:&#x20;
+### Document:
 
 Mô tả luồng kế thừa và thiết kế của doc khai báo issue:
 
@@ -37,13 +35,9 @@ Mô tả luồng kế thừa và thiết kế của doc khai báo issue:
 
 ### Workflow:
 
-Quy trình báo cáo và tiếp nhận issue tại&#x20;
+Quy trình báo cáo và tiếp nhận issue tại
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ### Data
 
@@ -51,16 +45,16 @@ Quy trình báo cáo và tiếp nhận issue tại&#x20;
 
 **Nhóm vấn đề**
 
-| Mã nhóm | Tên nhóm                         |
-| ------- | -------------------------------- |
-| DOC01   | Lỗi khi submit văn bản           |
-| DOC02   | Lỗi khi in văn bản               |
-| DOC03   | Lỗi khi xem văn                  |
-| WF01    | Lỗi thực hiện phê duyệt task     |
-| WF02    | Lỗi khi xem task detail          |
-| BI01    | Lỗi khi xem chi tiết báo cáo     |
-| BI02    | Lỗi khi in báo cáo               |
-| BI03    | Lỗi khi filter dữ liệu trên báo  |
+| Mã nhóm | Tên nhóm                        |
+| ------- | ------------------------------- |
+| DOC01   | Lỗi khi submit văn bản          |
+| DOC02   | Lỗi khi in văn bản              |
+| DOC03   | Lỗi khi xem văn                 |
+| WF01    | Lỗi thực hiện phê duyệt task    |
+| WF02    | Lỗi khi xem task detail         |
+| BI01    | Lỗi khi xem chi tiết báo cáo    |
+| BI02    | Lỗi khi in báo cáo              |
+| BI03    | Lỗi khi filter dữ liệu trên báo |
 
 ### Hành động:
 
@@ -72,11 +66,10 @@ Quy trình báo cáo và tiếp nhận issue tại&#x20;
 
 ### Nguyên nhân phát sinh:
 
-| Mã nguyên nhân | Tên nguyên nhân                       |
-| -------------- | ------------------------------------- |
-| PR001          | Nguyên nhân thao tác của người        |
-| PR002          | Người dùng chưa biết cách sử dụng hệ  |
-| PR003          | Lỗi giao diện người dùng              |
-| PR004          | Lỗi dữ liệu hệ                        |
-| PR005          | Lỗi config                            |
-
+| Mã nguyên nhân | Tên nguyên nhân                      |
+| -------------- | ------------------------------------ |
+| PR001          | Nguyên nhân thao tác của người       |
+| PR002          | Người dùng chưa biết cách sử dụng hệ |
+| PR003          | Lỗi giao diện người dùng             |
+| PR004          | Lỗi dữ liệu hệ                       |
+| PR005          | Lỗi config                           |

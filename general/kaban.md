@@ -33,7 +33,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 2**. After the screen shows the list of kanbans, click “**Add**”
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
@@ -45,7 +45,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 5.** In Step 3 of Create kanban, drag and drop columns and arrows between them in the canvas showing the direction that allows dragging cards back and forth between them. It is required to name the stateflow to serve the Access Control part. If you do not set anything here, it will default to all cards being dragged freely between all columns.
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
@@ -53,26 +53,26 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
-## LOGIC OF THE KANBAN IN SYMPER&#x20;
+## LOGIC OF THE KANBAN IN SYMPER
 
-### KANBAN WBS&#x20;
+### KANBAN WBS
 
 Kanban WBS serves to track and transfer work status of each person.
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-Drag and drop logic:&#x20;
+Drag and drop logic:
 
-* NEW to WIP: Everyone has drag and drop permission. Perform drag and drop as each person's work is being in process.&#x20;
-* NEW to DONE or WIP to DONE: Everyone has the right to drag and drop. This shows that the person's work has been completed.&#x20;
-* NEW to REVIEW: No one has drag and drop permission, but WBS will automatically change the status to "REVIEW" every time someone updates the WBS record and edits the **Plan End Date** information. When the task is in the REVIEW column, it will have to be reviewed and approved by the manager/mentor by dragging it to the TO DO column&#x20;
-* REVIEW to TO DO: Only those given the "Admin WBS" role can drag and drop. Dragging the card from REVIEW to TO DO shows the admin's approval for changing the due date of that task.&#x20;
+* NEW to WIP: Everyone has drag and drop permission. Perform drag and drop as each person's work is being in process.
+* NEW to DONE or WIP to DONE: Everyone has the right to drag and drop. This shows that the person's work has been completed.
+* NEW to REVIEW: No one has drag and drop permission, but WBS will automatically change the status to "REVIEW" every time someone updates the WBS record and edits the **Plan End Date** information. When the task is in the REVIEW column, it will have to be reviewed and approved by the manager/mentor by dragging it to the TO DO column
+* REVIEW to TO DO: Only those given the "Admin WBS" role can drag and drop. Dragging the card from REVIEW to TO DO shows the admin's approval for changing the due date of that task.
 * TO DO to NEW/ TO DO to WIP/ TO DO to DONE: Everyone has the right to drag and drop. Drag and drop in case that task has a change of due date and admin approved it, and assignee drag and drop them in turn in In-Progress/Completed cases.
 
-Update data:&#x20;
+Update data:
 
-* Each card dragged to the DONE column will be automatically updated with the **Actual End Date** with the current date (today).&#x20;
-* Control **Actual Time** does not generate data by itself, requiring input before dragging and dropping.&#x20;
+* Each card dragged to the DONE column will be automatically updated with the **Actual End Date** with the current date (today).
+* Control **Actual Time** does not generate data by itself, requiring input before dragging and dropping.
 *   Each card when dragged to the DONE column will have the total execution time of the child- tasks below it into the NEW DURATION and the latest completion date of all its child-tasks into the NEW END DATE.
 
     <figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
@@ -83,17 +83,17 @@ Bug tracking and testing status reported bugs
 
 <figure><img src="../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
-Drag and Drop:&#x20;
+Drag and Drop:
 
-* Main drag and drop flow: NEW – WIP – TESTING – DONE&#x20;
-* Cards from NEW column can be dragged to CLOSED, REJECTED or BACKLOG&#x20;
+* Main drag and drop flow: NEW – WIP – TESTING – DONE
+* Cards from NEW column can be dragged to CLOSED, REJECTED or BACKLOG
 * column RE-OPEN magnetic card can be pulled back to WIP BACKLOG can be dragged to WIP
 
 Note: Only QC and DEV departments have the right to drag and drop in Issue Kanban
 
-Update data:&#x20;
+Update data:
 
-* When dragging the card from TEST to DONE will automatically control **Last day update status** to the current date&#x20;
+* When dragging the card from TEST to DONE will automatically control **Last day update status** to the current date
 *   Manually enter **Testcase ID** when entering card to DONE or RE-OPEN
 
     <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
@@ -106,7 +106,7 @@ To track requirements and their status.
 
 Drag and drop:
 
-* ALL columns - NEW - TODO - WIP - REVIEW - DONE: Common  flow of a Requirement. Only employees of QC and DEV departments have the right to drag and drop cards according to this flow.
+* ALL columns - NEW - TODO - WIP - REVIEW - DONE: Common flow of a Requirement. Only employees of QC and DEV departments have the right to drag and drop cards according to this flow.
 * NEW - CLOSED: Everyone has drag and drop permission. When the requirement is considered impractical and is denied approval and implementation.
 * NEW - BACKLOG: Everyone has drag and drop permission. When the requirement is considered as not possible to do now and will be done in the near future.
 * BACKLOG - WIP: Requirements that were included in BACKLOG in the past are now being implemented. Only employees of QC and DEV departments have the right to drag and drop cards according to this flow.
@@ -136,11 +136,11 @@ Update data:
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-### To view card details&#x20;
+### To view card details
 
 Click on any card to see its details. Click the X button in the upper corner to exit detail view.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### To edit card
 
@@ -148,7 +148,7 @@ To edit the card, go to View details then click "**Edit**". Or you can click the
 
 <figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### To drag and drop multiple cards
 

@@ -19,7 +19,7 @@ Click on the icon '+ Add' in the menu bar.
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the filter, cannot blank.
 
@@ -41,4 +41,4 @@ _**For instance:**_
 
 Decentralize action execution with SYMPER TEST SUITES records that will have tmg\_status of "NEW"
 
-<figure><img src="../../.gitbook/assets/image (19) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>

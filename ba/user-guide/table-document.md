@@ -16,9 +16,9 @@ To pin the location of important columns, the user do the following:
 
 **Step 1**: Move the mouse to the column header to be pinned until the red-circled icon appears:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24).png>)![](<../../.gitbook/assets/image (18).png>)
+**Step 2:** Click on the icon that will appear on the interface is the red circled section: ![](<../../.gitbook/assets/image (24) (2).png>)![](<../../.gitbook/assets/image (18) (2).png>)
 
 **Step 3:** Hover over the pin column and select the battery left or right depending on the need
 
@@ -32,7 +32,7 @@ Watch the sample manipulation video at the link below:
 
 ### _**3. Use case: Hide unimportant columns of information (\*)**_
 
-**Step 1:** Hover the title of any information column until the icon appears, click it![](../../.gitbook/assets/image.png)
+**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (9).png>)
 
 **Step 2:** The interface appears and taps the second tab with the icon as shown ![](../.gitbook/assets/5)
 
@@ -48,9 +48,9 @@ Watch the sample manipulation video at the link below:
 
 **Step 4:**
 
-If you want to go back to the nearest change, you can re-select the columns or select "![](<../../.gitbook/assets/image (12).png>)**Reset column**" in the first tab or right-click any cell and select "**Reset Columns".**
+If you want to go back to the nearest change, you can re-select the columns or select "![](<../../.gitbook/assets/image (12) (4).png>)**Reset column**" in the first tab or right-click any cell and select "**Reset Columns".**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>Figure 8.9. How to undo changes</em><br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption><p><em>Figure 8.9. How to undo changes</em><br></p></figcaption></figure>
 
 Watch the sample manipulation video at the link below:
 
@@ -72,7 +72,7 @@ Hover the title of any information column until the icon appears, tap it![](../.
 
 The interface appears and presses **"Autosize this column**" to separate the automatic width for that column. Press "**Autosize all columns**" to space the width automatically for all columns.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Figure 8.10. How to expand column width automatically</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption><p><em>Figure 8.10. How to expand column width automatically</em></p></figcaption></figure>
 
 Watch the sample manipulation video at the link below:
 
@@ -82,19 +82,19 @@ Watch the sample manipulation video at the link below:
 
 **Option 2:** Right-click any cell and select Autosize All Columns
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p><em>FFigure 8.11. How to column width automatically</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p><em>FFigure 8.11. How to column width automatically</em></p></figcaption></figure>
 
 ### _**5. Use case: Filter information columns (\*)**_
 
 **Step 1:**
 
-Filtering information in columns, the user taps the icon  ![](<../../.gitbook/assets/image (6).png>)as shown below.
+Filtering information in columns, the user taps the icon  ![](<../../.gitbook/assets/image (6) (5).png>)as shown below.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p><em>Figure 8.12. Selection screen to interact with each column</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption><p><em>Figure 8.12. Selection screen to interact with each column</em></p></figcaption></figure>
 
 **Step 2:** Tap the funnel icon Then, the interface to interact with each column will appear:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>Figure 8.13. Interface for users to perform column-by-column filtering</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><em>Figure 8.13. Interface for users to perform column-by-column filtering</em></p></figcaption></figure>
 
 ### _**6. Use case: Order information (\*)**_
 
@@ -102,7 +102,7 @@ Filtering information in columns, the user taps the icon  ![](<../../.gitbook/as
 
 After that, the descending (ascending) arrangement will be applied always, press again to move from descending - > gradually increasing or vice versa.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p><em>Figure 8.14. Interface for users to perform sorting by column</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (4).png" alt=""><figcaption><p><em>Figure 8.14. Interface for users to perform sorting by column</em></p></figcaption></figure>
 
 **Step 2:** The user taps the ascending or descending order according to demand.
 
@@ -118,7 +118,7 @@ Watch the video at the link below:
 
 Screen when tapping any cell of a table
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p><em>Figure 8.15. Interface when clicking a cell to add a line</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (4).png" alt=""><figcaption><p><em>Figure 8.15. Interface when clicking a cell to add a line</em></p></figcaption></figure>
 
 \*How to add the line above:
 
@@ -146,7 +146,7 @@ Delete the selected line (Cells selected with checkbox will be deleted)
 
 Delete the line in the selected range (Cells selected by clicking)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><em>Figure 8.16. Interface when clicking a cell to delete the line</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p><em>Figure 8.16. Interface when clicking a cell to delete the line</em></p></figcaption></figure>
 
 \*How **to delete the selected line:**
 
@@ -154,7 +154,7 @@ Delete the line in the selected range (Cells selected by clicking)
 
 Or you can click the checkbox button all and cancel the checkbox all:
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Press _**delete the selected line**_
 
@@ -168,7 +168,7 @@ Watch the sample manipulation video at the link below:
 
 **Step 1:** Right-click one cell or select multiple cells in a table
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p><em>Figure 8.18. Interface when tapping a cell of the line to delete</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (2).png" alt=""><figcaption><p><em>Figure 8.18. Interface when tapping a cell of the line to delete</em></p></figcaption></figure>
 
 **Step 2:** Select _**delete the line in the selected range**_
 
@@ -184,7 +184,7 @@ The video is at the link below:
 
 **Bước 2:** Select _**Excel Export (.xlsx)**_
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><em>Figure 8.19. The display shows right-click on a cell</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p><em>Figure 8.19. The display shows right-click on a cell</em></p></figcaption></figure>
 
 ### _**10. Use case: Use keyboard shortcuts**_
 

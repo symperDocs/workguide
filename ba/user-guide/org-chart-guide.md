@@ -8,7 +8,7 @@
 
 **Step 3**: Right click on the org chart you want to view, then select "**View**".
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: Currently Symper is supporting 3 types of org chart views:
 
@@ -18,7 +18,7 @@
 
 If you want to switch the view type, click the arrow next to the current view type above and select your desired view type from the list that appears.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## To create a new org chart
 
@@ -28,8 +28,8 @@ If you want to switch the view type, click the arrow next to the current view ty
 
 **Step 3**: Click "**Add**" to create
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**: Once done, click "**Save**" to finish creating the new org chart.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (3).png" alt=""><figcaption></figcaption></figure>

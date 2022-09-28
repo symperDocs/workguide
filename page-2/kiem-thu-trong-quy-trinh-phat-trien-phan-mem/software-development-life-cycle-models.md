@@ -18,7 +18,7 @@ SDLC bao gồm **bảy giai đoạn chính** của vòng đời phát triển ph
 * Deployment (Triển khai)
 *   Maintenance (Bảo trì)
 
-    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Lợi ích của SDLC
 

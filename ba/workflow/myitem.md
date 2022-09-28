@@ -38,7 +38,7 @@ Specifically, the components of the My item display include:
 
 To view each Workflow instance, we will first click to the My Item section on the lefft and then use the filter to select the "Công việc" section to display all of the Workflow instances we require to view
 
-<figure><img src="../../.gitbook/assets/image (10) (2) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>The filter that we use to filter tasks, works or documents</p></figcaption></figure>
 
 There are components that display in the My item's work:
 
@@ -52,11 +52,11 @@ There are components that display in the My item's work:
 
 If you click on a work (also known as a workflow instance), it will display the tasks related to that process flow as well as the status of each task.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>The workflow process that the instance is belonged to</p></figcaption></figure>
 
 If the user is not authorized in the WF or has not reached the step of being authorized, the colored action buttons that you can perform with the document will not appear above.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Details of an instance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption><p>Details of an instance</p></figcaption></figure>
 
 Conversely, when you have authority in the process, for example when it comes to a step that requires your approval, in the upper corner will appear 3 different options for you to choose, including: 'Gửi', 'Gửi và thêm mới' and 'Hành động'.
 

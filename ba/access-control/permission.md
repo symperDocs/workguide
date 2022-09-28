@@ -12,9 +12,9 @@ Permission is a set of action packs that a user is authorized to perform.
 
 Click on the icon '+ Add' in the menu bar.
 
-<figure><img src="../../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the permission, cannot blank.
 

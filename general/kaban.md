@@ -49,7 +49,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
@@ -130,7 +130,7 @@ Update data:
 
 **Step 1**. To create a filter that applies to all columns in the kanban, click the filter icon in the upper right corner of the screen, then click "**Add**"
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2**. Configure the filter according to your needs and click "**Apply**" to apply. You can also give it a name and click the tick to save this current filter for reuse.
 

@@ -2,8 +2,9 @@
 
 ## **Definition**
 
-A gateway is used to control the flow of execution, the system flow will be changed depending on different conditions.\
-****
+A gateway is used to control the flow of execution, the system flow will be changed depending on different conditions.\\
+
+***
 
 ### Exclusive Gateway
 
@@ -11,7 +12,7 @@ It represents one or more branches, but only one of two (or more) branches is al
 
 ![](https://lh4.googleusercontent.com/iR3TgPK7jMz\_jSywZuFwo2FQtDmow7tvy4B8vpvSIybaF9OApi986UERYZyTLIq2NRcvxUWZUyQhSYqRkwrC7rHCQCYytUZdTuxf1QoQDtKfzgPnpc3RMNKGrvBRKi6JuDr06iyl)
 
-For Example:&#x20;
+For Example:
 
 ![](https://lh6.googleusercontent.com/EkiU1Gty-FyvJULMTwYSzHiYKEfjDOSV32QAGITERWIcKN-MGnoKjDaXjvicpY-vGM0ZqYROlT168lnjdz0lG2MiLtYMypThbVleAJ1aguB3Jr9LVgbZGFZpm4etA20MrFCZ0rO0)
 
@@ -53,18 +54,17 @@ Only one branch is allowed, when an event occurs, it triggers the event's branch
 
 For Example:
 
-![
-](https://lh5.googleusercontent.com/eBDUBngPGmyKNV6vEA46xLUzGHhcIb4FXULTQbO4UM3\_Vz0a7\_mttO\_dXJLajJl9SJdZOCGUDQeJ2s5WC8znqDkZz6lEFu0CrQ\_QpQMFJaWeBuBoX8KjUPxbjWwNxJZLhMlZl0K5)
+![](https://lh5.googleusercontent.com/eBDUBngPGmyKNV6vEA46xLUzGHhcIb4FXULTQbO4UM3\_Vz0a7\_mttO\_dXJLajJl9SJdZOCGUDQeJ2s5WC8znqDkZz6lEFu0CrQ\_QpQMFJaWeBuBoX8KjUPxbjWwNxJZLhMlZl0K5)
 
 The process will run according to the branch depending on which event occurs
 
 ### **Complex Gateway**
 
-A Complex Gateway allows the modeler to specify any arbitrary rules needed to determine how to emit tokens or process arriving tokens.&#x20;
+A Complex Gateway allows the modeler to specify any arbitrary rules needed to determine how to emit tokens or process arriving tokens.
 
 ![](https://lh6.googleusercontent.com/x2F1tyTKvomSeVfDoagiU4grus6qqebjE0FOItH6Gtyr5-DGka0oHTTYrlckWU11yV0Rv2OeADWgjigWFkx934hcXw-gWuuAcgyP3I4E1DiyoWOEBbMh7qPh8nkMP6htikUbF4K9)
 
-&#x20;         ****   For Example:
+\*\*\*\* For Example:
 
 ![](https://lh6.googleusercontent.com/TJKj9UFj-Qa-l8PkrK8TL1KFVpLHXHXEq7ZUfBb37de65ipCbmnXg5xSEgHQw6NpF3beXibxPnUGHyo8TTfko61wQlRMdmJZqBVN2uk\_eXUlUh-O2tYlk7mTp99uQ2kb59e5g4iU)
 
@@ -78,7 +78,7 @@ To change gateways type, click on this icon (change type)
 
 ![](https://lh5.googleusercontent.com/--OaRRsxpd0b8lCtbVuBfJlGYX8gArKlr9Wa19Y31C0Fbw0ah\_2zllLslfRD3tcv1L2whMt6Xso8ahEBOczmyjydhSV-eMi14dlOuXtD3vP3XmuX\_FN7UxjjjYbdbaXL6XeloUDs)
 
-A popup will display a list of gateways type ****&#x20;
+A popup will display a list of gateways type \*\*\*\*
 
 ![](https://lh5.googleusercontent.com/SkVxM8Lp7D9Lv0HzN8c2axzc5T\_ljL96\_W8NjeO7f7EBExN-qw7eAAOVWNGqnZ4VeqS6SzbewPqhOol-nSYxc9OqiFKb\_EuuqmmNE3GGY1GYLmZhLEGQ1rVfgqaF7xRk9vJ\_wvcB)
 
@@ -86,31 +86,31 @@ Configuration
 
 ### Exclusive Gateway
 
-![Exclusive Gateway](<../../.gitbook/assets/image (80).png>)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Exclusive Gateway</p></figcaption></figure>
 
 Click on the node before gateway and configure as image
 
-![Task Action](<../../.gitbook/assets/image (64).png>)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Task Action</p></figcaption></figure>
 
 Click on the branch to configure the script
 
 Case 1: Disapproval
 
-![Reject Branch](<../../.gitbook/assets/image (9).png>)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Reject Branch</p></figcaption></figure>
 
-![Formula](<../../.gitbook/assets/image (137).png>)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 2: Approval
 
-![Approval Branch](<../../.gitbook/assets/image (210).png>)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Approval Branch</p></figcaption></figure>
 
-![Formula](<../../.gitbook/assets/image (106).png>)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 Case 3: Update
 
-![Update](<../../.gitbook/assets/image (92).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Update</p></figcaption></figure>
 
-![Formula](<../../.gitbook/assets/image (23).png>)
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Formula</p></figcaption></figure>
 
 In this formula (To understand the formula, please read the section)
 
@@ -118,7 +118,7 @@ In this formula (To understand the formula, please read the section)
 [workflow-variable.md](../workflow-variable.md)
 {% endcontent-ref %}
 
-* duyet is id previous node &#x20;
+* duyet is id previous node
 * disapproval, approval and update are value in previous node
 
 ### Parallel Gateway
@@ -137,7 +137,4 @@ updating
 
 updating
 
-
-
 Symper not yet support all of them, we will update soon
-

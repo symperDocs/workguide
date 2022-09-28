@@ -69,12 +69,12 @@ _Many-to-many relationship: A many-to-many (N:N) relationship exists when, for o
 
 To get a or many relations on dashboard, creator follows these steps:
 
-Step 1. Click on symbol ![](../../.gitbook/assets/image.png)
+Step 1. Click on symbol ![](<../../.gitbook/assets/image (27).png>)
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Step 2. Click on relation(s) you want to add on the current dashboard
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Step 3. Click "Save" to save.

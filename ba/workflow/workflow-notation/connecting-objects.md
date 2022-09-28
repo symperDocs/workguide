@@ -72,7 +72,7 @@ Then click on the node or pool you need to connect
 
 <figure><img src="../../../.gitbook/assets/image (32) (2).png" alt=""><figcaption><p>Task Node</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (12) (3) (1).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Pool</p></figcaption></figure>
 
 ### Association
 

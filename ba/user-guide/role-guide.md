@@ -2,7 +2,7 @@
 
 ### Steps 1: Log in your Symper account into the system
 
-<figure><img src="../../.gitbook/assets/image (27) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Steps 2: Select the role to perform the action
 

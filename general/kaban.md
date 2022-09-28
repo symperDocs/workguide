@@ -33,7 +33,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 2**. After the screen shows the list of kanbans, click “**Add**”
 
-<figure><img src="../.gitbook/assets/image (34) (1) (1) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1) (1) (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
@@ -49,7 +49,7 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 6.** Step 4 of Create kanban allows you to select the data control corresponding to each information field of the card and create a condition format for the card. Each format must be named differently.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 7**. Click “**Save**” to finish creating new Kanban.
 
@@ -96,7 +96,7 @@ Update data:
 * When dragging the card from TEST to DONE will automatically control **Last day update status** to the current date
 *   Manually enter **Testcase ID** when entering card to DONE or RE-OPEN
 
-    <figure><img src="../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### KANBAN REQUIREMENT
 

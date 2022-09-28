@@ -29,8 +29,8 @@ Thường là developer thực hiện
 
 ### **2.2. Mục đích**
 
-* Phát hiện lỗi tương tác xảy ra giữa các Unit.&#x20;
-* Tập chung chủ yếu vào các giao diện và thông tin giữa các module.&#x20;
+* Phát hiện lỗi tương tác xảy ra giữa các Unit.
+* Tập chung chủ yếu vào các giao diện và thông tin giữa các module.
 * Tích hợp các Unit đơn lẻ thành các hệ thống nhỏ.
 
 ### **2.3. Cách tiếp cận/ phương pháp**
@@ -39,9 +39,9 @@ Thường là developer thực hiện
 
 Theo cách này, tất cả các thành phần được tích hợp với nhau cùng một lúc và sau đó được kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Ưu điểm:**&#x20;
+**Ưu điểm:**
 
 * Thuận tiện cho các hệ thống nhỏ.
 
@@ -75,8 +75,6 @@ Trong Phương pháp Bottom up, mỗi mô-đun ở các cấp thấp hơn đư�
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-
-
 * Các mô-đun quan trọng (ở cấp cao nhất của kiến trúc phần mềm) mà kiểm soát luồng ứng dụng được kiểm tra cuối cùng và có thể dễ bị lỗi.
 * Xây dựng một bản mẫu (prototype) ngay từ ban đầu - là một điều không thể
 
@@ -101,7 +99,7 @@ Thường là Tester thực hiện
 
 ## 3. System Test - Kiểm thử hệ thống
 
-### **3.1. Khái niệm**&#x20;
+### **3.1. Khái niệm**
 
 **Kiểm thử hệ thống** là kiểm thử toàn bộ chức năng và giao diện của hệ thống.
 

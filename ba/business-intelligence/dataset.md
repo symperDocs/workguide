@@ -4,11 +4,11 @@ A dataset is a collection of data that you import or connect to. Symper BI lets 
 
 To view the list of existing datasets, first, click on "**Báo cáo**" then choose "**Danh sách dataset**". Or if you click on "**Danh sách dataset đã xóa**", list of deleted datasets will be shown immediately.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The screen will show you these components as below:
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Screen of list of existing datasets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Screen of list of existing datasets</p></figcaption></figure>
 
 1. **ID**: The ID of every dataset, each dataset has a unique ID.
 2. **Name**: The name of the dataset. They are always lowercase and without spaces, joined by underscores.
@@ -26,11 +26,11 @@ The screen will show you these components as below:
 
 Click on any dataset you want to view or edit and select "**Sửa**", it will take you to the dataflow containing that dataset. Or if you want to delete the dataset when it is no longer needed, simply select "**Xóa**".
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>2 options to do with the dataset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>2 options to do with the dataset</p></figcaption></figure>
 
 If you want to recover a dataset that you deleted, just go to "**Báo cáo**" again, click "**Danh sách dataset đã xóa**", then select in the list the dataset that you need to recover, right-click and select " **Khôi phục**".
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
 
 ## **Steps to select dataset and document:**
 

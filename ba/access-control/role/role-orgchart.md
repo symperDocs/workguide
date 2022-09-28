@@ -14,7 +14,7 @@ Role Orgchart: Building a company's organizational chart is also an indirect way
 
 Users can decentralize by click-right on the role org chart.
 
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Select permission packs were configured.
 

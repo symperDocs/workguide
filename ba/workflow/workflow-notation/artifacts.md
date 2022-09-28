@@ -44,7 +44,7 @@ To use Artifact (Group, Data Object, Data Store), Choose icons in [The Palette](
 
 Then drop to canvas section
 
-<figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Data Object</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Data Object</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Data Store</p></figcaption></figure>
 

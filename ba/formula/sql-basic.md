@@ -2,7 +2,7 @@
 description: 'Writer: Tannq'
 ---
 
-# Sql Basic
+# SQL basic
 
 ## SQL
 
@@ -10,7 +10,7 @@ description: 'Writer: Tannq'
 
 ## SAMPLE DATA
 
-![](<../.gitbook/assets/image (52).png>)
+![](../.gitbook/assets/image%20\(52\).png)
 
 ## QUERYING SINGLE TABLE
 
@@ -145,7 +145,7 @@ FROM city
 
 ### **LEFT JOIN**
 
-**`LEFT JOIN`** returns all rows from the left table with corresponding rows from the right table. If there's no matching row, **`NULL`**s are returned as values from the second table.
+**`LEFT JOIN`** returns all rows from the left table with corresponding rows from the right table. If there's no matching row, \*\*`NULL`\*\*s are returned as values from the second table.
 
 ```sql
 SELECT city.name, country.name
@@ -158,7 +158,7 @@ LEFT JOIN country
 
 ### **RIGHT JOIN**
 
-**`RIGHT JOIN`** returns all rows from the right table with corresponding rows from the left table. If there's no matching row, **`NULL`**s are returned as values from the left table.
+**`RIGHT JOIN`** returns all rows from the right table with corresponding rows from the left table. If there's no matching row, \*\*`NULL`\*\*s are returned as values from the left table.
 
 ```sql
 SELECT city.name, country.name
@@ -171,7 +171,7 @@ RIGHT JOIN country
 
 ### **FULL JOIN**
 
-**`FULL JOIN`** (or explicitly **`FULL OUTER JOIN`**) returns all rows from both tables – if there's no matching row in the second table, **`NULL`**s are returned.
+**`FULL JOIN`** (or explicitly **`FULL OUTER JOIN`**) returns all rows from both tables – if there's no matching row in the second table, \*\*`NULL`\*\*s are returned.
 
 ```sql
 SELECT city.name, country.name
@@ -217,7 +217,7 @@ NATURAL JOIN country;
 
 `GROUP BY` **groups** together rows that have the same values in specified columns. It computes summaries (aggregates) for each unique combination of values.
 
-![](<../.gitbook/assets/image (213).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **AGGREGATE FUNCTIONS**
 
@@ -342,7 +342,7 @@ WHERE EXISTS (
 
 Set operations are used to combine the results of two or more queries into a single result. The combined queries must return the same number of columns and compatible data types. The names of the corresponding columns can be different
 
-![](<../.gitbook/assets/image (34).png>)
+![](../.gitbook/assets/image%20\(34\).png)
 
 ### **UNION**
 
@@ -386,7 +386,7 @@ WHERE country = 'DE';
 
 This query displays German cyclists unless they are also German skaters at the same time:
 
-![](<../.gitbook/assets/image (119).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ```sql
 SELECT name
@@ -397,5 +397,3 @@ SELECT name
 FROM skating
 WHERE country = 'DE';
 ```
-
-

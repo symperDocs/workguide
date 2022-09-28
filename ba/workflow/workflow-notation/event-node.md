@@ -50,7 +50,7 @@ A token running through the process would behave this way:
 
 With the exception of compensation events, attached intermediate events inevitably resulted in canceled activities. BPMN 2.0 defines a new symbol: the non-interrupting intermediate event.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 The token moves through the process as follows:
 

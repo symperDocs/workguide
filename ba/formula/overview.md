@@ -1,6 +1,6 @@
 # Overview
 
-Một số tài liệu chia sẻ về SQL&#x20;
+Một số tài liệu chia sẻ về SQL
 
 | STT | BA      | Thể loại | Nơi dùng | Trường hợp                                     | Công thức SYQL          | Ví dụ thực tế | Nguồn | Ghi chú |
 | :-: | ------- | -------- | -------- | ---------------------------------------------- | ----------------------- | ------------- | ----- | ------- |
@@ -8,6 +8,6 @@ Một số tài liệu chia sẻ về SQL&#x20;
 |  2  |         |          |          |                                                |                         |               |       |         |
 |  3  |         |          |          |                                                |                         |               |       |         |
 
-![](<../.gitbook/assets/image (89).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://madzynguyen.com/hoc-sql-nhu-the-nao/](https://madzynguyen.com/hoc-sql-nhu-the-nao/)

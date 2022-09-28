@@ -6,13 +6,13 @@
 
 A pool represents major participants in a process. A different pool may be in a different company or department but still involved in the process
 
-![Pool: Patient and Doctor's Office](<../../.gitbook/assets/image (171).png>)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Pool: Patient and Doctor's Office</p></figcaption></figure>
 
 ### Lane
 
 Lane within a pool show the activities and flow for a certain role or participant, defining who is accountable for what parts of the process.
 
-![Pool with two lanes](<../../.gitbook/assets/image (73).png>)
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Pool with two lanes</p></figcaption></figure>
 
 ## Configuration
 
@@ -20,23 +20,22 @@ Lane within a pool show the activities and flow for a certain role or participan
 
 To use Swimlanes, click this icon in [The Palette](../workflow-editor.md#the-palette)
 
-![The Palette](<../../.gitbook/assets/image (113).png>)
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>The Palette</p></figcaption></figure>
 
 Then drop to Canvas Section
 
-![](<../../.gitbook/assets/image (95).png>)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### Add Lane, Rename, Remove
 
-To Add Lane, click to this Pool and select icon&#x20;
+To Add Lane, click to this Pool and select icon
 
-![Config Pool](<../../.gitbook/assets/image (68).png>)
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Config Pool</p></figcaption></figure>
 
-![Add Lane above](<../../.gitbook/assets/image (226).png>)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Add Lane above</p></figcaption></figure>
 
-![Divide into two Lanes](<../../.gitbook/assets/image (153).png>)
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Divide into two Lanes</p></figcaption></figure>
 
-![Add Lane below](<../../.gitbook/assets/image (229).png>)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Add Lane below</p></figcaption></figure>
 
-![Remove](<../../.gitbook/assets/image (85).png>)
-
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Remove</p></figcaption></figure>

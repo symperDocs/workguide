@@ -67,13 +67,13 @@ Conversely, when you have authority in the process, for example when it comes to
   * Ủy quyền: to delegate the work and full authority you have with the document to someone else.
   * Hoàn thành: to send to document and end this step to move to another in the process.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Details of an instance belonged to a process that you have authority</p></figcaption></figure>
 
 ### **Document**
 
 Similarly, to display all the documents in My Item, go to the filter, then select "Văn bản"
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 The screen will show us all the components of My item's document as below:
 

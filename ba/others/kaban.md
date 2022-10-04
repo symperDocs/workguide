@@ -23,7 +23,7 @@ description: 'Writer: Hoanp'
 
 **Step 3.** Click on the voucher you want to see the kanban, select “**Kanban**”
 
-<figure><img src="../../.gitbook/assets/image (38) (2) (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (2) (1) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## HOW TO CREATE 1 KANBAN
 
@@ -37,11 +37,11 @@ To create 1 kanban for a document that does not have a kanban (remember that eac
 
 **Step 3**. At Step 1 in settings, enter name, description and select document to build kanban
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4**. At Step 2, select the control in the document whose value will be the columns in the Kanban. Enter the name and value in the selected control for each column. Columns can be added/removed if needed, but each Kanban requires a minimum of 2 columns.
 
-<figure><img src="../../.gitbook/assets/image (40) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5.** In Step 3 of Create kanban, drag and drop columns and arrows between them in the canvas showing the direction that allows dragging cards back and forth between them. It is required to name the stateflow to serve the Access Control part. If you do not set anything here, it will default to all cards being dragged freely between all columns.
 

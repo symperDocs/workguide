@@ -32,7 +32,7 @@ Watch the sample manipulation video at the link below:
 
 ### _**3. Use case: Hide unimportant columns of information (\*)**_
 
-**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (24) (2) (1) (1) (3).png>)
+**Step 1:** Hover the title of any information column until the icon appears, click it![](<../../.gitbook/assets/image (24) (2) (1) (1) (2) (3).png>)
 
 **Step 2:** The interface appears and taps the second tab with the icon as shown ![](../.gitbook/assets/5)
 
@@ -88,7 +88,7 @@ Watch the sample manipulation video at the link below:
 
 **Step 1:**
 
-Filtering information in columns, the user taps the icon ![](<../../.gitbook/assets/image (24) (2) (1) (2) (1).png>)as shown below.
+Filtering information in columns, the user taps the icon ![](<../../.gitbook/assets/image (24) (2) (1) (1) (2) (1).png>)as shown below.
 
 <figure><img src="../../.gitbook/assets/image (9) (4).png" alt=""><figcaption><p><em>Figure 8.12. Selection screen to interact with each column</em></p></figcaption></figure>
 

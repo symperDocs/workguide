@@ -134,7 +134,7 @@
 * [DEV](page-3.md)
 * [QC](page-2/README.md)
   * [Quy định](page-2/quy-dinh/README.md)
-    * [test suite](page-2/quy-dinh/test-suite.md)
+    * [Test suite](page-2/quy-dinh/test-suite.md)
   * [Tài liệu](page-2/tai-lieu/README.md)
     * [issue tracking](page-2/tai-lieu/issue-tracking.md)
     * [Test plan](page-2/tai-lieu/test-plan.md)

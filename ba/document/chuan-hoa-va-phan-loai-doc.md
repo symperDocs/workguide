@@ -2,9 +2,7 @@
 description: Reposted by Huongntm
 ---
 
-# CHUẨN HÓA VÀ PHÂN LOẠI DOC
-
-
+# Chuẩn hoá và phân loại doc
 
 ## **CHUẨN HÓA VÀ PHÂN LOẠI DOCUMENT** <a href="#chuan_hoa_va_phan_loai_document" id="chuan_hoa_va_phan_loai_document"></a>
 
@@ -15,8 +13,6 @@ Phân loại các Smart Doc được chia như sau:
 * Nhóm **Doc danh mục**: danh mục là các Doc chứa thông tin khởi tạo, cung cấp thông tin cho các Doc nghiệp vụ (ví dụ: danh mục hàng hóa, danh mục kho, danh mục đối tác .....). Doc danh mục không nằm trong các Workflow (= không tham gia trực tiếp, nhưng có thể được tham chiếu tới).
 * Nhóm **Doc nghiệp vụ**: là các Doc phục vụ cho các module nghiệp vụ và luân chuyển trong các Workflow từ User này sang user kia, và mang thông tin của từng giao dịch (= transaction). 2 loại Doc nghiệp vụ: (i) Doc nghiệp vụ chính (là Doc chắc chắn có ở bất kỳ khách hàng, loại hình kinh doanh nào); và (ii) Doc nghiệp vụ phụ (là các Doc có thể có có thể không) --> ví dụ: Hóa đơn, Đơn hàng, Phiếu nhập mua là các Doc nghiệp vụ chính, nhưng Thông báo nhập kho, Phiếu Giao việc là các Doc nghiệp vụ phụ;
 * Nhóm Doc xử lý: là các Doc sinh ra ngoài 2 mục đích ở trên (thường dùng cho BA trong các mục đích cập nhật thông tin ở các Doc danh mục or Doc nghiệp vụ cho mục đích xử lý các tình huống ....) -> Doc này nếu xử lý tốt, thì không nên có --> số lượng các Doc này nên hạn chế, dùng xong nếu không có ý định dùng tiếp thì cần xóa đi.
-
-&#x20;
 
 ### **Phân nhóm các Doc** <a href="#phan_nhom_cac_doc" id="phan_nhom_cac_doc"></a>
 
@@ -32,11 +28,11 @@ Các Smart Doc ngoài phân loại, thì được phân nhóm vào các Modules 
 * Font chữ mặc định: ROBOTO
 * Size của Title Doc: **18 ptx, Bold, màu cam**
 * Size chữ trong Body của Doc: **13 ptx, màu đen**
-* Size chữ của Title section**: 14 ptx, Bold, màu cam**
+* Size chữ của Title section\*\*: 14 ptx, Bold, màu cam\*\*
 
 **Tên doc**
 
-* Doc danh mục luôn bắt đầu với "dm" + '\_" + "tên danh mục" -> ví dụ: Danh mục hàng hóa dịch vụ ->vang  dm\_hhdv
+* Doc danh mục luôn bắt đầu với "dm" + '\_" + "tên danh mục" -> ví dụ: Danh mục hàng hóa dịch vụ ->vang dm\_hhdv
 * Doc nghiệp vụ = "tên viết tắt module" + "\_" + "tên nghiệp vụ" -> ví dụ: Phiếu nhập mua -> "pu\_pnm"
 * Tên doc được giới hạn ở 12 ký tự → ví dụ: dm\_kho\_hang là 11 ký tự.
 * Không viết hoa, không viết liền
@@ -48,17 +44,17 @@ Các Smart Doc ngoài phân loại, thì được phân nhóm vào các Modules 
 
 Trong đó mã biểu mẫu thường được quy định trong quy trình, các doc có thể có hoặc không có mã biểu mẫu.
 
-Tiêu đề doc không vượt quá 30 ký tự  , viết IN HOA và rút gọn các trường thông tin theo tiêu đề control&#x20;
+Tiêu đề doc không vượt quá 30 ký tự , viết IN HOA và rút gọn các trường thông tin theo tiêu đề control
 
 Cụ thể rút gọn:
 
-* SỔ THEO DÕI  = SỔ TD
+* SỔ THEO DÕI = SỔ TD
 * SỔ GIAO CA = SỔ G.CA
 * PHIẾU KIỂM TRA = PKT
 * SỔ TỔNG HỢP = SỔ TH
 * DANH MỤC = DM
 * YÊU CẦU = YC
-* &#x20;KHAI BÁO = KB
+* KHAI BÁO = KB
 
 Lưu ý:
 
@@ -70,15 +66,11 @@ Lưu ý:
 * Nếu trong table có nhiều hơn 2 table thì có thể sử dụng control tab & page để chứa các table (mối table có thể nằm trong 1 tab hoặc 1 page)
 * Phần thông tin chung của doc phải được sắp xếp trong table layout để căn chỉnh thẳng hàng và chính xác
 
-&#x20;
-
 **Cấu hình thuộc tính chung của doc**
 
 * Chọn loại văn bản
 * Thông tin ghi chú (sử dụng để hiển thị trong module search)
 * Tiêu đề bản ghi (dùng để hiển thị trong my item, BA có thể sử dụng SYQL để tạo ra phần hiển thị này)
-
-&#x20;
 
 **Cấu hình các trường dữ liệu trong doc**
 
@@ -94,8 +86,6 @@ Lưu ý:
 | 8       | Bắt buộc có "Approval History" Control ở các Document tham gia vào Workflow (Doc Nghiệp vụ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 9       | Khi tạo document bắt buộc phải nhập liệu vào trường thông tin Tiêu đề bản ghi trong thuộc tính của document                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-&#x20;
-
 **Cấu hình form in của doc**
 
 * Cấu hình form in mặc định size A4
@@ -103,16 +93,12 @@ Lưu ý:
 * Nếu table trong doc có quá nhiều trường thông tin thì xem xét quay ngang khổ giấy của form in
 * Loại bỏ bớt các trường thông tin không cần thiết để in
 
-&#x20;
-
 ## **CHUẨN HÓA VÀ PHÂN LOẠI TABLE** <a href="#chuan_hoa_va_phan_loai_table" id="chuan_hoa_va_phan_loai_table"></a>
 
 Phân loại table
 
 * Table hệ thống: là table nằm trong các: (i) Doc Danh mục, và (ii) Doc nghiệp vụ chính.
 * Table sự vụ: ngoài các Table hệ thống, và có thể nằm trong các Doc Danh mục và Doc nghiệp vụ chính, trong trường hợp là các Table tạo thêm, đặc thù cho khách hàng đó.
-
-&#x20;
 
 Các control bảng cần được đặt tên:
 
@@ -133,7 +119,7 @@ Chuẩn hóa các Bảng trong các:
 
 ### **Cách đặt tên và tiêu đề các control** <a href="#cach_dat_ten_cac_control" id="cach_dat_ten_cac_control"></a>
 
-* Các tên control được chuẩn hóa cho 1 doc như sau (số ký tự của tên control không vượt quá 12 ký tự, tiêu đề control không vượt quá 16 ký tự):
+* Các tên control được chuẩn hóa cho 1 doc như sau (số ký tự của **tên control** không vượt quá **12** ký tự, **tiêu đề control** không vượt quá **16 ký tự**):
 * Các control về là số tiền, thành tiền, trước thuế, sau thuế → luôn bắt đầu bằng "tien" (trừ trường hợp nằm trong table, thì bắt đầu sau tên control table). Ví dụ: thành tiền trước thuế = tien\_tt\_tt; thành tiền sau thuế = tien\_tt\_st; tiền thuế = tien\_thue
 * Các control về số lượng, luôn bắt đầu bằng "sl", số lượng nhập kho = sl\_nk, số lượng xuất kho = sl\_xk, số lượng trình duyệt mua hàng = sl\_tdmh;
 * Các control ngày (trừ ngày chứng từ \~ "nct" của chính Doc đó) luôn bắt đầu bằng "ngay\_"+"mô tả ngắn gọn";
@@ -153,10 +139,8 @@ Cụ thể như sau:
 
 #### **Tên nhóm Control liên quan tới Kho/ HHDV** <a href="#nhom_control_lien_quan_toi_kho-_hhdv" id="nhom_control_lien_quan_toi_kho-_hhdv"></a>
 
-* Mã hàng = ma\_hang (áp dụng cho tất cả các items cần mã như mã hàng hóa, dịch vụ, mã phí .......)\
-
-* Tên hàng = ten\_hang (áp dụng cho tất cả các items cần mã như mã hàng hóa, dịch vụ, mã phí .......)\
-
+* Mã hàng = ma\_hang (áp dụng cho tất cả các items cần mã như mã hàng hóa, dịch vụ, mã phí .......)\\
+* Tên hàng = ten\_hang (áp dụng cho tất cả các items cần mã như mã hàng hóa, dịch vụ, mã phí .......)\\
 * Kiểu hàng hóa dịch vụ = kieu\_hhdv —> ví dụ: dịch vụ, thành phẩm, bán thành phẩm, vật tư ....
 * Mã kho = ma\_kho (nếu như có nhiều kiểu mã kho có thể thêm hậụ tố để phân biệt: ví dụ: Mã kho xuất: ma\_kho\_xuat, Mã kho nhập: ma\_kho\_nhap) và Tên kho = ten\_kho (thêm hậu tố để phân biệt như đối với mã kho)
 * Tài khoản kế toán = tk (thêm hậu tố để phân biệt ví dụ: tài khoản kho = tk\_kho...) và Tên tài khoản = ten\_tk (thêm hậu tố tương tự tài khoản kế toán)
@@ -197,7 +181,7 @@ Cụ thể như sau:
 * Giá bán = gia\_nt/ Giá vốn = gia\_von/ Tiền bán (bán hàng) = tien\_ban/ Tiền vốn (giá vốn hàng bán) = tien\_von
 * Thành tiền = tien\_tt, Thành tiền nguyên tệ = tien\_tt\_nt, thành tiền trước thuế = tien\_tt\_tt, thành tiền sau thuế = tien\_tt\_st, Tiền phê duyệt = tien\_pd, Tiền bằng chữ = tien\_bc, Đồng tiền sử dụng: dt\_sd, Tỷ giá: ty\_gia, Tiền nộp = tien\_nop, Thuế suất = thue\_suat
 * Số lượng đặt sản xuất = sl\_lsx
-* Định mức = **sl\_dm** (bom = bill of material)/ Tỷ lệ hao hụt = **ty\_le\_hh**/&#x20;
+* Định mức = **sl\_dm** (bom = bill of material)/ Tỷ lệ hao hụt = **ty\_le\_hh**/
 * Số lượng đề xuất = sl\_dnx, Số lượng đề nghị nhập = sl\_dnn, Số lượng thực xuất = sl\_tx, Số lượng mua = sl\_mua
 * Bộ phận giao = bp\_giao, Bộ phận nhận = bp\_nhan, Bên bàn giao (trường hợp trong phiếu không biết chính xác bên giao thuộc nhà máy hay là đơn vị bên ngoài) = ben\_giao
 * Điều khoản giao nhận/ Bàn giao = ma\_dkbg --> Tại kho|Không qua kho
@@ -236,7 +220,7 @@ Cụ thể như sau:
 * Ngày sinh = ngay\_sinh
 * Địa chỉ hiện tại = dia\_chi\_ht
 * Hộ khẩu = ho\_khau
-* Tình trạng hôn nhân =  tt\_hn
+* Tình trạng hôn nhân = tt\_hn
 * Dân tộc = dan\_toc
 * Tôn giáo = ton\_giao
 * Số chứng minh nhân dân = cmnd\_so
@@ -246,7 +230,7 @@ Cụ thể như sau:
 * Tên trợ cấp = ten\_tc
 * Số tiền trợ cấp = tien\_tc
 * Loại trợ cấp = loai\_tc
-* tc\_thang =  thángTrợ cấp hàng
+* tc\_thang = thángTrợ cấp hàng
 * Thông tin liên hệ: Địa chỉ cá nhân = ld\_dccn
 * Thông tin liên hệ: Số điện thoại cá nhân = ld\_sdtcn
 * Thông tin liên hệ: Email cá nhân = lh\_mcn
@@ -254,7 +238,7 @@ Cụ thể như sau:
 * Thông tin liên hệ: Số điện thoại công ty = lh\_sdtct
 * Thông tin liên hệ: Email công ty = lh\_mct
 * Thông tin liên hệ: Địa chỉ liên hệ khẩn cấp = lh\_dckc
-* Thông tin liên hệ: Số điện thoại liên hệ khẩn cấp  = lh\_sdtkc
+* Thông tin liên hệ: Số điện thoại liên hệ khẩn cấp = lh\_sdtkc
 * Thông tin liên hệ: Mail liên hệ khẩn cấp = lh\_mkc
 * Mã dân tộc = ma\_dt
 * Tên dân tộc = ten\_dt
@@ -298,7 +282,7 @@ Danh mục nghiệp vụ = dm\_nv, Mã nghiệp vụ = ma\_nv, Tên nghiệp v�
 
 Tiêu đều control cần đặt ngắn gọn, viết tắt nhưng vẫn thể hiện được nội dung control
 
-Cụ thể&#x20;
+Cụ thể
 
 * Số lượng = SL
 * Chất lượng = Clg
@@ -342,8 +326,6 @@ Cụ thể&#x20;
 * Áp suất = AS
 * Khu vực = KV
 
-&#x20;
-
 **CHUẨN HÓA FONT VÀ SIZE CHỮ TRONG DOASHBOARD CỦA BI**
 
 Về font chữ mặc định là : **ROBOTO**
@@ -352,11 +334,11 @@ Về size chữ gồm 5 level:
 
 * **Level 5( text body) :** **12**
 
-Là các thông tin nội dung cụ thể trong bảng, cột...hoặc nội dung trục hoành , trục tung  trong biểu đồ&#x20;
+Là các thông tin nội dung cụ thể trong bảng, cột...hoặc nội dung trục hoành , trục tung trong biểu đồ
 
 * **Level 4 (chart legend) :** **13**
 
-Là các thông tin tên cột của bảng hoặc chú thích của biểu đồ&#x20;
+Là các thông tin tên cột của bảng hoặc chú thích của biểu đồ
 
 * **Level 3 (chart title) :** **15**
 
@@ -382,17 +364,11 @@ Level 4 (chart legend)
 
 Level 5 (text body)
 
-&#x20;
-
 Cụ thể như hình dưới đây:
-
-&#x20;
 
 ![](https://kh-service.dev.symper.vn/readfile/mceu\_81983105011602029769700.png)
 
-&#x20;
-
-### **CSử dụng control TTSD trong Danh mục** <a href="#cach_dat_ten_cac_control" id="cach_dat_ten_cac_control"></a>
+### **Sử dụng control TTSD trong Danh mục** <a href="#cach_dat_ten_cac_control" id="cach_dat_ten_cac_control"></a>
 
 * Việc tạo các Control "ttsd" (trạng thái sử dụng) trong các DOC danh mục là bắt buộc;
 * Khi Query và gọi các Item từ Doc danh mục vào sử dụng ở các nơi khác nhau bắt buộc có điều kiện lọc "=1";

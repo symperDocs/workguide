@@ -6,6 +6,7 @@
     * [Page 1 2](readme/environment/page-1-2.md)
   * [Kaban](general/kaban.md)
   * [Public cá nhân hóa](readme/public-ca-nhan-hoa.md)
+  * [Tenant management](readme/tenant-management.md)
   * [Quy trình report issue](general/quy-trinh-report-issue.md)
   * [Requirement Traceability Matrix](general/requirement-traceability-matrix.md)
   * [Format tài liệu số hoá quy trình nội bộ](general/format-tai-lieu-so-hoa-quy-trinh-noi-bo/README.md)

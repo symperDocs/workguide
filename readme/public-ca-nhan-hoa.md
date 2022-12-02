@@ -8,7 +8,7 @@ description: Chidk
 
 Personalized public feature allows BA and end-users to share filter, treeview, conditional format configurations when authorized.
 
-Quick filter feature allows users to filter data as desired without naming or creating filters.
+The quick filter feature allows users to filter data as desired without naming or creating filters.
 
 Multi-filter selection feature allows users to apply multiple filters at the same time.
 

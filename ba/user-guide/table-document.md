@@ -102,7 +102,7 @@ Filtering information in columns, the user taps the icon ![](<../../.gitbook/ass
 
 After that, the descending (ascending) arrangement will be applied always, press again to move from descending - > gradually increasing or vice versa.
 
-<figure><img src="../../.gitbook/assets/image (13) (4).png" alt=""><figcaption><p><em>Figure 8.14. Interface for users to perform sorting by column</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (4) (1).png" alt=""><figcaption><p><em>Figure 8.14. Interface for users to perform sorting by column</em></p></figcaption></figure>
 
 **Step 2:** The user taps the ascending or descending order according to demand.
 

@@ -28,7 +28,7 @@ To create one tenant, we follow the steps below in turn:
 
 **Step 4**. Fill in the required information (Information fields are assigned a red asterisk)
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5**. Click “**Save**” to finish creating new Tenant management
 
@@ -36,9 +36,9 @@ To create one tenant, we follow the steps below in turn:
 
 ### 1. Activate the Tenant
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Inactivate the Tenant
 

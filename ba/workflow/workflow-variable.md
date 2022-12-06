@@ -20,7 +20,7 @@ To use JUEL formula or SQL, Orchart, you need to know id [node](symper-bpm-notat
 
 Ex: Requirement Workflow
 
-<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption><p>Node Create Req</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2) (1).png" alt=""><figcaption><p>Node Create Req</p></figcaption></figure>
 
 To know this node id, you need to click on that node, then look at the right side bar ([The attribute](workflow-editor.md#the-attribute-table))
 

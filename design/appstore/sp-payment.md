@@ -4,7 +4,7 @@
 
 ### 1.Lazada
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 Màn hình được chia làm 3 khu vực:\
 \- Vùng lựa chọn phương thức thanh toán\

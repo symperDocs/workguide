@@ -7,6 +7,7 @@
   * [Kaban](general/kaban.md)
   * [Public cá nhân hóa](readme/public-ca-nhan-hoa.md)
   * [Tenant management](readme/tenant-management.md)
+  * [Dashboard data launch filter](readme/dashboard-data-launch-filter.md)
   * [Quy trình report issue](general/quy-trinh-report-issue.md)
   * [Requirement Traceability Matrix](general/requirement-traceability-matrix.md)
   * [Format tài liệu số hoá quy trình nội bộ](general/format-tai-lieu-so-hoa-quy-trinh-noi-bo/README.md)

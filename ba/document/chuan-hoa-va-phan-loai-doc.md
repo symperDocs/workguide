@@ -4,9 +4,6 @@ description: Reposted by Huongntm
 
 # Chuẩn hoá và phân loại doc
 
-## TRƯỚC KHI XÂY DỰNG ỨNG DỤNG
-
-* Luôn phác thảo ý tưởng doc/quy trình/luồng xử lý dữ liệu/ báo cáo ra và được phê duyệt trước mới tiến hành thực hiện&#x20;
 * Khi chỉnh sửa các ứng dụng đã được dựng rồi thì bất cứ thay đổi về các thông tin trong ứng dụng hay bổ sung/xóa bớt các đối tượng đều phải hỏi ý kiến project manager của dự án đó.&#x20;
 
 ## **CHUẨN HÓA VÀ PHÂN LOẠI DOCUMENT** <a href="#chuan_hoa_va_phan_loai_document" id="chuan_hoa_va_phan_loai_document"></a>
@@ -342,61 +339,4 @@ Cụ thể
 * Pin 3 cột thông tin quan trọng ở tất cả các showlist để tiện theo dõi ngay khi tạo doc&#x20;
 * Ẩn hết các cột thông tin hệ thống không cần thiết tại showlist ngay khi tạo doc&#x20;
 
-## WORKFLOW
-
-### Xây dựng quy trình
-
-* Luôn phải config Display text cho quy trình: Khi chưa có thông tin số chứng từ/diễn giải của chứng từ đi kèm thì hiển thị “Tên quy trình + Ngày lập”, khi check điều kiện đã có thì chuyển thành hiển thị “Số chứng từ”&#x20;
-
-Ví dụ: Khi mới khởi tạo quy trình phiếu nhu cầu > Tên quy trình là “TẠO PHIẾU NHU CẦU: 2022-12-15"&#x20;
-
-Sau khi bản ghi chứng từ gắn với phiếu nhu cầu được lập thì sẽ ghi nhận được thông tin các biến/trường thông tin trong chứng từ > Tên quy trình phải được cập nhật thành “TẠO PHIẾU NHU CẦU: CVN/MA22120012”&#x20;
-
-* Luôn config tiêu đề task cho các công việc: Khi chưa có thông tin số chứng từ/diễn giải của chứng từ đi kèm thì hiển thị “Tên quy trình + Ngày lập”, khi check điều kiện đã có thì chuyển thành hiển thị “Tên tác vụ + Số chứng từ” (Có thể thay đổi biến số hiển thị theo nhu cầu khách hàng sau)&#x20;
-* Luôn config thông tin bổ sung task cho các công việc: Khi chưa có thông tin số chứng từ/diễn giải của chứng từ đi kèm thì hiển thị “Tên quy trình + Ngày lập”, khi check điều kiện đã có thì chuyển thành hiển thị “Diễn giải” (Có thể thay đổi biến số hiển thị theo nhu cầu khách hàng sau)&#x20;
-* Các thông tin assignee luôn dùng công thức truy vấn đến orgchart chứ không được gắn người trực tiếp&#x20;
-
-## DATAFLOW
-
-### Báo cáo
-
-#### **Chuẩn hóa Font và Size chữ**&#x20;
-
-* **Level 5( text body) : 12**&#x20;
-
-Là các thông tin nội dung cụ thể trong bảng, cột...hoặc nội dung trục hoành , trục tung trong biểu đồ&#x20;
-
-* **Level 4 (chart legend) : 13**&#x20;
-
-Là các thông tin tên cột của bảng hoặc chú thích của biểu đồ&#x20;
-
-* **Level 3 (chart title) : 15**&#x20;
-
-Là các thông tin tiêu đề biểu đồ, tên của các trường thông tin riêng lẻ&#x20;
-
-* **Level 2 (subtitle) : 24**&#x20;
-
-Là các tiêu đề phụ của doashboard&#x20;
-
-* **Level 1 (title) : 32**&#x20;
-
-Là tiêu đề chính của doashboard&#x20;
-
-Ngoài ra số liệu hiển thị của Card có size là : 26&#x20;
-
-Level 1 (title)&#x20;
-
-Level 2 (subtitle)&#x20;
-
-Level 3 (chart title)&#x20;
-
-Level 4 (chart legend)&#x20;
-
-Level 5 (text body)&#x20;
-
-#### **Cấu hình hiển thị báo cáo**
-
-* Luôn pin 3 cột thông tin quan trong nhất để khi scroll ngang ko bị trôi thông tin&#x20;
-* Luôn để báo cáo fit screen&#x20;
-* Luôn kiểm tra bố cục của báo cáo để đảm bảo ko có khoảng trống thừa thãi&#x20;
-* Các ô lọc để ngang và nhỏ nhất có thể để nhường không gian hiển thị cho các chart thông tin&#x20;
+&#x20;

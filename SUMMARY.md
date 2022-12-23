@@ -37,6 +37,7 @@
   * [BA - requirement](ba/ba-requirement.md)
   * [Một số tool thường dùng](ba/mot-so-tool-thuong-dung.md)
   * [DATA](ba/data.md)
+  * [TRƯỚC KHI XÂY DỰNG ỨNG DỤNG](ba/truoc-khi-xay-dung-ung-dung.md)
   * [DOCUMENT](ba/document.md)
     * [Document overview](ba/document/document-overview.md)
     * [Document editor](ba/document/document-editor.md)

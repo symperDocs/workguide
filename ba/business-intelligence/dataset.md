@@ -4,7 +4,7 @@ A dataset is a collection of data that you import or connect to. Symper BI lets 
 
 To view the list of existing datasets, first, click on "**Báo cáo**" then choose "**Danh sách dataset**". Or if you click on "**Danh sách dataset đã xóa**", list of deleted datasets will be shown immediately.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 The screen will show you these components as below:
 
@@ -30,7 +30,7 @@ Click on any dataset you want to view or edit and select "**Sửa**", it will ta
 
 If you want to recover a dataset that you deleted, just go to "**Báo cáo**" again, click "**Danh sách dataset đã xóa**", then select in the list the dataset that you need to recover, right-click and select " **Khôi phục**".
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>To restore a deleted dataset</p></figcaption></figure>
 
 ## **Steps to select dataset and document:**
 

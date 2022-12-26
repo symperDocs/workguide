@@ -25,7 +25,7 @@ Tuyển dụng nhân viên mới là một trong những chức năng cốt lõi
 
 Các bước tuyển dụng nhân viên mới:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sơ đồ quy trình tuyển mới</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Sơ đồ quy trình tuyển mới</p></figcaption></figure>
 
 Ma trận phân nhiệm theo role của quá trình tuyển mới:
 

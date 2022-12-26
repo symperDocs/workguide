@@ -33,11 +33,11 @@ When the user configures the default filter and the filter initializes, the defa
 1. Hover on the bottom panel tab
 2. Tick 'Automatically filter data' on the checkbox
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** The user selects the filter condition, and clicks the 'Get data' button
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Additional information
 

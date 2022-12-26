@@ -104,7 +104,11 @@ Set a formula or expression using SYQL as a condition to start workflow.
 
 1. Signal Start Event
 
-This node will start a process when catch a signal from Throw signal has the same signal ID
+The Start Signal event is a catching event that catches a broadcast signal coming from another process and triggers the start of the process in which it is modeled. The signal start event only starts its execution within the process instance after the instance has received the respective signal. Then, the signal start event is executed and its outgoing flow is taken..
+
+This node will start a process when catch a signal from Throw signal has the same signal ID.
+
+
 
 #### Config:
 
@@ -167,7 +171,7 @@ Throw a signal to all comensation event in the instance workflow
 
 1. Signal Intermediate Catch Event
 
-Running to this node, the flow status will change to “waiting”. In order to pass this node or run a task containing this node, flow needs to catch a signal from the throw signal event.
+Listens for a signal object with the defined properties. The Intermediate Catching Signal Event is an event that waits for the associated Signal to be thrown. If used within the main flow, it causes the process to stop and wait for the specified Signal to be triggered. If placed on an activity boundary, it is used for exception handling, changing the normal flow into an exception flow.
 
 #### Config:
 
@@ -177,7 +181,7 @@ Running to this node, the flow status will change to “waiting”. In order to 
 
 1. Signal Intermediate Throw Event
 
-This node throws spread a signal and flow still continues to the next node
+Produces a signal object based on the defined properties. The Intermediate Throwing Signal event fires up a signal and continues the process execution. A thrown signal can be caught by different catching signal events. Signaling can happen across different processes.
 
 #### Config:
 
@@ -221,7 +225,7 @@ updating\\
 
 1. Signal End Event
 
-End process instance and throw signal\\
+The End Signal event is a throwing event that fires up a signal at the end of a process.
 
 1. Terminate End Event
 

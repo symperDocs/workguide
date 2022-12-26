@@ -12,11 +12,11 @@ When the user configures the default filter and the filter initializes, the defa
 
 **Step 1:** In the edit/view screen dashboard, select the icon ![](https://lh6.googleusercontent.com/Ouwt8DTpRSm7olBp-YTkl52MCM3WP\_RxNszsQvylzI6WJxyd1R8kKtSE6o-AVJfjHbxQZh2tQZS-Xn9gLY5SEpJoDpsnMIquA0-Z7-1TChAngNDHilWgP-6-5SOVbNbBJSYjlRDyIG8ba9evMc0euS9zJU0vxqh7YFFC0qQEoJDXOpfcq5DjY6jabw)on the menu bar to open the right sidebar. Click on Add button
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** After clicking the Add button, the user selects the filter condition, gives the filter a name, and Saves the filter config
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Default filter configuration
 

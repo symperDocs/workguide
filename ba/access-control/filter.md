@@ -6,20 +6,20 @@ description: Duyenntm
 
 ## **Definition**
 
-Filters in Access Control are used to filter authorization data for End User accounts
+Filters in Access Control are used to filter authorized data for End User accounts
 
-## Why configure the filter?
+## Why to configure the filter?
 
 * To limit the decentralized data that end users have access to.
-* The filter will decentralize action execution to 1 or more parts of an object on the system depending on how the creator configured it.
+* Filter will decentralize action execution to 1 or more parts of an object in the system depending on how the creator configured it.
 
-## How to add a filter
+## How to add a filter?
 
-Click on the icon '+ Add' in the menu bar.
+Click on the icon '+' in the menu bar.
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the filter, cannot blank.
 
@@ -35,7 +35,7 @@ When the configuration is complete, press the 'Save' button.
 
 **Users can view detail, edit or remove list filters y click-right on the list filter.**
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 _**For instance:**_
 

@@ -29,7 +29,7 @@ Các bước tuyển dụng nhân viên mới:
 
 Ma trận phân nhiệm theo role của quá trình tuyển mới:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ma trận phân nhiệm tuyển mới theo role</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ma trận phân nhiệm tuyển mới theo role</p></figcaption></figure>
 
 #### Bước 1: Xác định nhu cầu tuyển dụng
 

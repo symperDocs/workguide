@@ -12,9 +12,9 @@ A user role (Vai trò người dùng) is a set of access rights assigned to a ro
 
 Click on the icon '+ Add' in the menu bar.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (18) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 (1) Name: Name of the role, cannot blank.
 
@@ -22,7 +22,7 @@ Click on the icon '+ Add' in the menu bar.
 
 (3) Select the user to apply.
 
-(4) Select permission were configured.
+(4) Select the configured permission.
 
 When the configuration is complete, press the 'Save' button.
 
@@ -32,4 +32,4 @@ For more details about the permission pack, click the link below:
 
 **Users can view detail, edit or remove user roles by click-right on the roles.**
 
-![](../../.gitbook/assets/18.png)
+<figure><img src="../../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>

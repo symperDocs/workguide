@@ -12,7 +12,7 @@ Click on "Access Management" -> select "Action pack". Select "+" to create anoth
 
 Go to "Applications", select 1 or more applications to authorize. After selecting the application, a list of objects contained in the application will be listed from which the creator can choose to delegate permissions to them.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 The list of objects in the application appears, the creator just needs to tick the action needed to be authorized for the object, for example, create, view, edit, delete,... or can select all by click the tick box above each column. The actions/applications you have authorized/edited/delete will be automatically updated in the corresponding items in the left sidebar.&#x20;
 
@@ -24,7 +24,7 @@ In addition, we can assign detailed permissions to objects that document, docume
 
 Click on the permission in the control column of the text that needs detailed permission and choose actions like hide, don't edit, and can also choose to add filter configuration.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 Before saving, please pay attention to entering the name and description for this action pack, then press save.
 

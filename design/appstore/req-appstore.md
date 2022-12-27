@@ -24,7 +24,7 @@ Ngoài ra, user có thể xem mô tả app khi hover vào avatar của từng ap
 
 ### 2.Click up
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (5).png" alt=""><figcaption></figcaption></figure>
 
 Màn hình được bố trí theo thứ tự: Menu bar > Các nhóm app > vùng hiển thị app giúp user thao tác theo hướng từ trái sang phải\
 Thông tin app bao gồm: Ảnh/Video demo , tên app, mô tả , nút kích hoạt\

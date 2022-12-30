@@ -14,14 +14,6 @@ Shows the order of activities to be performed. It is shown as a straight line wi
 
 <figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.loom.com/share/50d3e3a8fa9141d2ac065262b7d20022" %}
-
-{% embed url="https://drive.google.com/drive/folders/10NiKDu4zDiFeBwEOEEAUCVF43bKMWpxI" %}
-
-{% embed url="https://drive.google.com/file/d/1ZVlWU5IAAdP3kUKSwNkylAD9FSMzf0W-/view?usp=sharing" %}
-
-{% embed url="https://docs.google.com/presentation/d/1bJZ6_bC8blDtPewhhi6nAT_iZLlYJQcbpttlm10bCcQ/edit" %}
-
 ### **Message flow**
 
 Depicts messages that flow across “[pools](swimlanes.md),” or organization boundaries such as departments. It shouldn’t connect events or activities within a pool. It is represented by a dashed line with a circle at the start and an arrow at the end.

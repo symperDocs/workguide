@@ -12,7 +12,7 @@ For example: Company A when using the Symper system will be provided with a sepa
 
 **Step 2.** Click on the menu sidebar => Click on _"_**Tenant management**_**"**_
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## HOW TO CREATE ONE TENANT MANAGEMENT
 

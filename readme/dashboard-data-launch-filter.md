@@ -44,3 +44,41 @@ When the user configures the default filter and the filter initializes, the defa
 * The user can configure a combination of the default and initializer filters.
 * The first time you enter the dashboard, the charts will have no data, you only get the data after you click to run the filter - There is a notice in the charts that there is no data, and you need to filter to get the data.
 * When the dashboard has many tabs, the config filter will display each configured tab, not the whole dashboard.
+
+## Remove filter value in chart filter
+
+1. In the case of filtering 1 value
+
+&#x20;Click the X icon next to the value to clear the filter condition
+
+<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+
+2\. In the case of filtering multiple values
+
+<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+
+* When clicking on icon X, will delete all the filters.
+* When deleting each value, click the filter to deselect the value you want to remove.
+
+## Configure the condition filter in the control panel
+
+### Overview
+
+Use some keywords as the default filter condition. For example TODAY - The current date value. CURRENT\_USER - Value according to the login account.
+
+Steps:
+
+1. Click on the filter icon in the upper right corner of the chart
+
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+2\. Click on the value filter field
+
+<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+
+3\. Select filter conditions and enter keywords
+
+<figure><img src="../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+
+4\. Click on the button Apply
+

@@ -15,7 +15,7 @@
 
 &#x20;Config default form: Ex: symper
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 \+ When you want to do the cross-tenant, you must check the 'Bất đồng bộ' and 'Bắn sang tenant khác' checkboxes.
 

@@ -24,7 +24,7 @@ In addition, we can assign detailed permissions to objects that document, docume
 
 Click on the permission in the control column of the text that needs detailed permission and choose actions like hide, don't edit, and can also choose to add filter configuration.
 
-<figure><img src="../../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Before saving, please pay attention to entering the name and description for this action pack, then press save.
 

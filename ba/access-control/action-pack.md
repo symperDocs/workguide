@@ -30,7 +30,7 @@ Before saving, please pay attention to entering the name and description for thi
 
 Note: To add a filter to a text object, click the icon at "Filter configuration" to set it. "Select action" to select one or more actions corresponding to the filter. Creators can choose filters in the box below. To add a new filter profile, select "Add a filter profile" and repeat the same. Click "Save" to save the configuration.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (6).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="filter.md" %}
 [filter.md](filter.md)

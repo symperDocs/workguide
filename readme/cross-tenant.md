@@ -55,6 +55,8 @@ The browsing config is similar to the config for saving data, but with more addi
 
 Users assigned to cross-tenant task browsing will receive the browsing task in their My item section
 
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
 
 
 

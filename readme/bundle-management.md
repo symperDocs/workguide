@@ -45,7 +45,7 @@ When releasing a bundle, two scenarios occur:
 
 **Step 2**. Right-click on bundle record whose status is New => Click the Release button
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3**. Fill in the required information (Information fields are assigned a red asterisk)
 

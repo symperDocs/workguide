@@ -45,7 +45,17 @@
 
 \+ Config the variable name for data of the node: Follow form:  signal parameter prefix side throw\_the variable name for data of the node side throw.
 
-\+ Select the document to save data: Select a document with the same structure as the document on the tenant throw side to save data.
+\+ Select the document to save data: Select a document with the same structure as the document on the tenant throws side to save data.
+
+<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+
+## Perform cross-tenant browsing
+
+The browsing config is similar to the config for saving data, but with more additions: For the User task node when the action is browsed then the User task config selects Approval for elements →select catch signal event.
+
+Users assigned to cross-tenant task browsing will receive the browsing task in their My item section
+
+
 
 
 

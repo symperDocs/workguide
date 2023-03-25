@@ -74,7 +74,7 @@ Steps:
 
 2\. Click on the value filter field
 
-<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select filter conditions and enter keywords
 

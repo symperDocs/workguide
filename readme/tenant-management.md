@@ -44,7 +44,7 @@ To create one tenant, we follow the steps below in turn:
 
 When a tenant is locked, the user who logs in to the tenant via the tenant's URL will display a message that your tenant is locked to the user
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. Delete the Tenant**
 

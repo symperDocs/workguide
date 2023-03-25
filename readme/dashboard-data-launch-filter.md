@@ -20,7 +20,7 @@ When the user configures the default filter and the filter initializes, the defa
 
 **Step 3:** Default filter configuration
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 1. Click on icon ![](https://lh6.googleusercontent.com/Ouwt8DTpRSm7olBp-YTkl52MCM3WP\_RxNszsQvylzI6WJxyd1R8kKtSE6o-AVJfjHbxQZh2tQZS-Xn9gLY5SEpJoDpsnMIquA0-Z7-1TChAngNDHilWgP-6-5SOVbNbBJSYjlRDyIG8ba9evMc0euS9zJU0vxqh7YFFC0qQEoJDXOpfcq5DjY6jabw)
 2. Click on the icon Setting inside the title filter
@@ -70,7 +70,7 @@ Steps:
 
 1. Click on the filter icon in the upper right corner of the chart
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the value filter field
 
@@ -78,7 +78,7 @@ Steps:
 
 3\. Select filter conditions and enter keywords
 
-<figure><img src="../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click on the button Apply
 

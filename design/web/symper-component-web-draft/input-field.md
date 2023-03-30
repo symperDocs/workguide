@@ -10,7 +10,7 @@ Một số lưu ý khi thiết kế input:
 
 *   Label để ở bên trên input
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 *   Không dùng label viết hoa toàn bộ
 
     <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

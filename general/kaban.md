@@ -1,8 +1,8 @@
 ---
-description: Kaban
+description: Kanban
 ---
 
-# Kaban
+# Kanban
 
 ## DEFINITION
 

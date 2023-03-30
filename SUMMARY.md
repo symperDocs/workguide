@@ -4,7 +4,7 @@
   * [Planning and WBS](general/planning-and-wbs.md)
   * [Environment](readme/environment/README.md)
     * [Page 1 2](readme/environment/page-1-2.md)
-  * [Kaban](general/kaban.md)
+  * [Kanban](general/kaban.md)
   * [Public cá nhân hóa](readme/public-ca-nhan-hoa.md)
   * [Tenant management](readme/tenant-management.md)
   * [Cross tenant](readme/cross-tenant.md)

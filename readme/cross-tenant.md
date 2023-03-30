@@ -11,7 +11,7 @@
 
 &#x20;Config in the variable: ${id node want to throw data\_nam variable in doc}
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 &#x20;Config default form: Ex: symper
 
@@ -57,8 +57,16 @@ Users assigned to cross-tenant task browsing will receive the browsing task in t
 
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
+## Granting permissions for cross-tenant access
 
+Performing permissions allocation similar to when assigning permissions to other objects such as apps, documents, ... .
 
+In the document permissions section of the action pack, add permission action: Sharing cross tenants.
 
+Check the corresponding cross-tenant sharing checkbox next to each document that is allowed to be shared.
 
-&#x20;    &#x20;
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+After completing cross-tenant sharing permissions allocation, to grant permission for viewing detailed records of the shared documents, select Action pack -> In the object type section on the left-hand side of the action pack, choose the "Cross-Tenant Sharing" tab -> Check the "View Cross-Tenant Data" checkbox for permission allocation.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

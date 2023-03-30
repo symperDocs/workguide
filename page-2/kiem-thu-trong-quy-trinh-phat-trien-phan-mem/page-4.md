@@ -39,7 +39,7 @@ Thường là developer thực hiện
 
 Theo cách này, tất cả các thành phần được tích hợp với nhau cùng một lúc và sau đó được kiểm thử.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Ưu điểm:**
 

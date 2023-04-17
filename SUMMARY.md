@@ -6,6 +6,7 @@
     * [Page 1 2](readme/environment/page-1-2.md)
   * [Kanban](general/kaban.md)
   * [Public cá nhân hóa](readme/public-ca-nhan-hoa.md)
+  * [Scan QR and Control QR](readme/scan-qr-and-control-qr.md)
   * [Tenant management](readme/tenant-management.md)
   * [Cross tenant](readme/cross-tenant.md)
   * [Bundle management](readme/bundle-management.md)

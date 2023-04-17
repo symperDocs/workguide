@@ -1,7 +1,7 @@
 # Data Connector
 
 **DATA CONNECTOR**\
-****[**https://docs.google.com/document/d/1Dd8y5IpKUHjloMalcWkyWrgjHVrkS8I3Zrgbm6xNK3U/edit#**](https://docs.google.com/document/d/1Dd8y5IpKUHjloMalcWkyWrgjHVrkS8I3Zrgbm6xNK3U/edit)****
+[**https://docs.google.com/document/d/1Dd8y5IpKUHjloMalcWkyWrgjHVrkS8I3Zrgbm6xNK3U/edit#**](https://docs.google.com/document/d/1Dd8y5IpKUHjloMalcWkyWrgjHVrkS8I3Zrgbm6xNK3U/edit)
 
 **OVERVIEW**\
 **How to connect data between Symper’s system and other systems without having to know how they are implemented? APIs are a simplified way to connect or share**&#x20;
@@ -12,7 +12,7 @@
 **API stands for application programming interface. APIs let Symper’s product or service communicate with other products and services without having to know how they’re implemented.**&#x20;
 
 **B1: To add new a ‘api’ , user click to button** ![](https://lh4.googleusercontent.com/hO0k3hOaItVvpUMoqNfWa83ysb\_C65aBSU9TODUM2Lvkhx8Dtja84Q9g3-YkM3jKowSc75Zcm63ui\_Nk02lpdMPVIsR7VMDW9BBpGRGw8nEpz6tcR3jhcq9CMse\_nJV-QWd3ZlMT) **then fill in the information in sidebar**\
-****
+
 
 ![](https://lh4.googleusercontent.com/0hzDAJVC4a5KdsfwQavIMX8SXDIcEGOWgGVH-t0-0a19T63yPscyUUb-vei-63rX\_JdKyxx44ENitTEPFnEW7VoGkRBKH\_AKSej9CaEsMNuXkUhqij80mt-LtOPAsFzy-QGJ\_NX1)
 
@@ -21,20 +21,20 @@
 **B2: Enter API’s information**
 
 **Components of sidebar:**\
-****
+
 
 **1- API link input area**
 
 **2- Configuration tabs**\
-****\
-****
+\
+
 
 ![](https://lh5.googleusercontent.com/qE05nPtULgOgvvoHCVgSBlHP7uoqSWT1w-YxRExuvRp4bVRBrhCXun5cpfbBl2pFfrUdJXQXX0RgOXT3MhKU2IpbfhDVMWVA8qx\_hbqqy9lcrqUoz-7n0Kqb84OzdYHcVq2sL9aI)
 
 **1 API including method and 1 URL. Methods are get, post , put, delete,... depending on the user’s purpose , the admin of that system will send the URL along with the method.**![](https://lh4.googleusercontent.com/lWldOdMLLquY0FRZmCxnvovF9FDSRpobl\_ZbsFTDMon-Ambrx5qdasnEajSHOCLoZCh-w-5bmlJLT8q8RK3h8NqkBkwV17sgg2hRP6LRzQHy81YEW81g7UMokYh1VomPFEC3Hcl8)
 
 **If the user gets data from another system, the user(BA or Admin) selects GET and enters the URL in the input box next to it.**\
-****
+
 
 **Example, this is an API :**
 
@@ -80,10 +80,10 @@
 **Overwrite (Ghi đè): change old data according to new data**
 
 **Update (Cập nhật): change old data to new data when the condition is satisfied.** \
-****
+
 
 **When updating, user clicks to the check box to select the condition information field.**\
-****
+
 
 ![](https://lh4.googleusercontent.com/4ovrnR3kSJ9PXT0FiH-TJBDvEC8Kyh3F2RKGMwvOBE1Ta7IZSzVxjfrrXETigNiDpzFpkkJsEWvIMTld2zqtL1q2hXXCnI3KevnC9bNvy5QK7\_9Yas7z\_Uu8t3-aX7ZdyBql7akh)
 
@@ -95,5 +95,4 @@
 
 **Default to run manually**![](https://lh3.googleusercontent.com/deIRYX3ELw2vn2pGaXfO36rxDALy694FI-NYEZOdNNC22DPJe3xPw-QCq0NHAFiWrQN6\_kxpKy\_6UwXwa8GtKz8n5UQgM5llG09EZAm\_oKhA50EreDW9lN3m1XrL-G3RaeILO6mQ)
 
-**When user select “Chạy định kỳ”, the time setting showed below** ![](https://lh6.googleusercontent.com/VjGNqQhSxHQmaXkPkz7ihGFC6\_ra-BTtAO3fG9isgT5x70\_hEF2g7vzap\_boO5BqtG4lJVdH4bwgOnOtP22dld3iIEFaa-IPJrQBaUsIAVo4yfuUynBfiTbDXml4Zhg2MB93rLEJ)****\
-****
+**When user select “Chạy định kỳ”, the time setting showed below** ![](https://lh6.googleusercontent.com/VjGNqQhSxHQmaXkPkz7ihGFC6\_ra-BTtAO3fG9isgT5x70\_hEF2g7vzap\_boO5BqtG4lJVdH4bwgOnOtP22dld3iIEFaa-IPJrQBaUsIAVo4yfuUynBfiTbDXml4Zhg2MB93rLEJ)\

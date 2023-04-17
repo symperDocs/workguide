@@ -65,7 +65,7 @@ In the document permissions section of the action pack, add permission action: S
 
 Check the corresponding cross-tenant sharing checkbox next to each document that is allowed to be shared.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 After completing cross-tenant sharing permissions allocation, to grant permission for viewing detailed records of the shared documents, select Action pack -> In the object type section on the left-hand side of the action pack, choose the "Cross-Tenant Sharing" tab -> Check the "View Cross-Tenant Data" checkbox for permission allocation.
 

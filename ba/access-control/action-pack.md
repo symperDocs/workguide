@@ -16,7 +16,7 @@ Go to "Applications", select 1 or more applications to authorize. After selectin
 
 The list of objects in the application appears, the creator just needs to tick the action needed to be authorized for the object, for example, create, view, edit, delete,... or can select all by click the tick box above each column. The actions/applications you have authorized/edited/delete will be automatically updated in the corresponding items in the left sidebar.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 In addition, we can assign detailed permissions to objects that document, document instance without permissions.
 

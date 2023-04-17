@@ -47,7 +47,7 @@ Nhiều người thường sử dụng cụm từ Quality Assurance(QA) khi đ�
 ### 2.3 **Phân biệt Errors, Defect và Failures**
 
 * Error: là lỗi lầm xuất phát từ con người trong việc đọc, hiểu, truyền đạt các yêu cầu (requiement).
-* Defect **** (fault/bug): là việc những phần code sai được tạo ra bởi những error trên
+* Defect (fault/bug): là việc những phần code sai được tạo ra bởi những error trên
 * Failure: là những lỗi nằm trên phần mềm đang được chạy
 
 **Các lí do gây ra error:**
@@ -246,7 +246,7 @@ Test execution work products bao gồm:
 * Báo cáo lỗi
 * Tài liệu về (các) mục thử nghiệm, đối tượng thử nghiệm, công cụ kiểm thử và phần mềm kiểm thử đã tham gia và thử nghiệm.
 
-#### **4.3.7** __ Test completion work products
+#### **4.3.7** Test completion work products
 
 Test completion work products bao gồm test summary report, các mục hành động để cải thiện dự án hoặc lặp lại tiếp, thay đổi yêu cầu hoặc các mục tồn đọng của sản phẩm và phần mềm kiểm thử đã hoàn thành.
 

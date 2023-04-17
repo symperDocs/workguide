@@ -50,9 +50,9 @@ Trong thực tế, các document sẽ cần sử dụng các thông tin mà ngư
 
 Về logic việc sử dụng công thức để giải quyết bài toán này là truy vấn về CSDL submodule và điều kiện lấy dữ liệu là module bằng ‘DO’. Để giải quyết bài toán này BA cần viết công thức truy vấn về server và điều kiện lấy dữ liệu là tham số của người dùng nhập vào.
 
-**Cú pháp:**  Cú pháp được sử dụng để lấy tham số người dùng nhập vào là **** `{ten_truong_thong_tin}`
+**Cú pháp:**  Cú pháp được sử dụng để lấy tham số người dùng nhập vào là `{ten_truong_thong_tin}`
 
-Vậy cú pháp để giải quyết bài toán trên: ****&#x20;
+Vậy cú pháp để giải quyết bài toán trên:&#x20;
 
 ```sql
 select submodule from dm_module where module = ‘{ten_truong_thong_tin}’
@@ -71,7 +71,7 @@ select submodule from dm_module where module = ‘DO’
 ### **Lấy dữ liệu cho control trong table**
 
 Đối với control trong table, việc lấy dữ liệu trên server để tạo ra dữ liệu cho cột dữ liệu và row dữ liệu trong table với điều kiện là một cột dữ liệu khác ngay trong table mà người dùng nhập liệu hoàn toàn có thể thực hiện bằng cấu trúc truy vấn về server.\
-****
+
 
 ![](https://lh5.googleusercontent.com/uzT8WggBYH-p756EaUbdJNp1RCGSu5i3D4rIUJAXhWyDKnAEEwu-D6v9ggbIpquoMVUpl-gww1eVUhBKY95\_8nC3SPptiNuFilMVIGRtovpv6hiq-skrZEQWEWZxUIy0rQ0WnPEF)
 
@@ -111,7 +111,7 @@ Về cơ bản, hệ thống sẽ sử dụng cơ chế biên dịch (thay thế
 
 **Công thức truy vấn trên client vào table có trong doc**
 
-Dữ liệu được người dùng nhập vào một table có trong doc sẽ có cấu trúc như một table trong CSDL (có các row và columns). Vì vậy để giải quyết bài toán sử dụng dữ liệu đã được nhập vào trong table để tính toán về cơ bản có cùng chung tư tưởng với việc truy vấn đến CSDL ở mục 1, điểm khác biệt duy nhất CSDL được lưu trữ trên server, table trên client được lưu trữ tại máy của người dùng. ****&#x20;
+Dữ liệu được người dùng nhập vào một table có trong doc sẽ có cấu trúc như một table trong CSDL (có các row và columns). Vì vậy để giải quyết bài toán sử dụng dữ liệu đã được nhập vào trong table để tính toán về cơ bản có cùng chung tư tưởng với việc truy vấn đến CSDL ở mục 1, điểm khác biệt duy nhất CSDL được lưu trữ trên server, table trên client được lưu trữ tại máy của người dùng.&#x20;
 
 Để giải quyết nhu cầu trên, đối với các document có table, hệ thống symper sẽ tự động tạo ra các bảng lưu trữ dữ liệu vật lý với đúng cấu trúc như của table trong document (số lượng row, số lượng columns) với tên của bảng dữ liệu chính là tên của control table. Hệ quản trị CSDL sử dụng **SQLite** vì vậy cấu trúc và các hàm sử dụng là **SQLite**. Cấu trúc truy vấn sẽ sử dụng đúng cấu trúc của **SQLite**.
 
